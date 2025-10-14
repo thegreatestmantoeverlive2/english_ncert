@@ -1,0 +1,187 @@
+
+{
+  "chapters": {
+    "Physics": [
+      { "id": 1, "name": "Unit and Dimension, Basic Maths and Vectors" },
+      { "id": 2, "name": "Kinematics 1D + Calculus" },
+      { "id": 3, "name": "Kinematics 2D" },
+      { "id": 4, "name": "Newton's Laws of Motion & Friction" },
+      { "id": 5, "name": "Circular Motion" },
+      { "id": 6, "name": "Work Energy Power" },
+      { "id": 7, "name": "Centre of Mass, Momentum & Collisions" },
+      { "id": 8, "name": "Rotational Dynamics" },
+      { "id": 9, "name": "Fluids" },
+      { "id": 10, "name": "Elasticity, Thermal Expansion, Calorimetry & Heat Transfer" },
+      { "id": 11, "name": "KTG and Thermodynamics" },
+      { "id": 12, "name": "Gravitation" },
+      { "id": 13, "name": "Simple Harmonic Motion" },
+      { "id": 14, "name": "String Wave & Sound Wave" }
+    ],
+    "Chemistry": [
+      { "id": 1, "name": "Mole Concept" },
+      { "id": 2, "name": "Atomic Structure" },
+      { "id": 3, "name": "Periodic Properties" },
+      { "id": 4, "name": "Chemical Bonding" },
+      { "id": 5, "name": "Gaseous State" },
+      { "id": 6, "name": "Thermodynamics & Thermochemistry" },
+      { "id": 7, "name": "Redox Reaction & Titrations" },
+      { "id": 8, "name": "S-Block" },
+      { "id": 9, "name": "Chemical Equilibrium" },
+      { "id": 10, "name": "Ionic Equilibrium" },
+      { "id": 11, "name": "IUPAC & Isomerism" },
+      { "id": 12, "name": "GOC & EAS" },
+      { "id": 13, "name": "Hydrocarbon" },
+      { "id": 14, "name": "P-Block & Hydrogen" }
+    ],
+    "Mathematics": [
+      { "id": 1, "name": "Sets, Numbers & Intervals" },
+      { "id": 2, "name": "Fundamentals of Algebra" },
+      { "id": 3, "name": "Logarithm" },
+      { "id": 4, "name": "Sequences and Series" },
+      { "id": 5, "name": "Trigonometric Ratios and Identities" },
+      { "id": 6, "name": "Trigonometric Equations" },
+      { "id": 7, "name": "Quadratic Equations" },
+      { "id": 8, "name": "Solutions of Triangle" },
+      { "id": 9, "name": "Straight line & Pair of Straight Lines" },
+      { "id": 10, "name": "Circle" },
+      { "id": 11, "name": "Permutation & Combination" },
+      { "id": 12, "name": "Binomial Theorem" },
+      { "id": 13, "name": "Conic Section" },
+      { "id": 14, "name": "Complex Numbers" }
+    ]
+  },
+  "tests": [
+    {
+      "test_no": 1,
+      "date": "29-April-24",
+      "type": "minor",
+      "format": "JA",
+      "name": "Minor Test - 01_JA.pdf",
+      "chapters": {
+        "Physics": [1],
+        "Chemistry": [1],
+        "Mathematics": [1, 2]
+      }
+    },
+    {
+      "test_no": 2,
+      "date": "10-June-24",
+      "type": "minor",
+      "format": "JA",
+      "name": "Minor Test - 02_JA.pdf",
+      "chapters": {
+        "Physics": [2, 3],
+        "Chemistry": [2, 3],
+        "Mathematics": [3, 4]
+      }
+    },
+    {
+      "test_no": 1,
+      "date": "08-July-24",
+      "type": "major",
+      "format": "JA",
+      "name": "Major Test - 01_JA.pdf",
+      "chapters": {
+        "Physics": [1, 2, 3, 4],
+        "Chemistry": [1, 2, 3, 4],
+        "Mathematics": [1, 2, 3, 4, 5]
+      }
+    },
+    {
+      "test_no": 3,
+      "date": "05-August-24",
+      "type": "minor",
+      "format": "JA",
+      "name": "Minor Test - 03_JA.pdf",
+      "chapters": {
+        "Physics": [4, 5, 6],
+        "Chemistry": [5, 6],
+        "Mathematics": [6, 7]
+      }
+    },
+    {
+      "test_no": 4,
+      "date": "02-September-24",
+      "type": "minor",
+      "format": "JA",
+      "name": "Minor Test - 04_JA.pdf",
+      "chapters": {
+        "Physics": [7],
+        "Chemistry": [6, 7, 8],
+        "Mathematics": [8, 9]
+      }
+    },
+    {
+      "test_no": 2,
+      "date": "07-October-24",
+      "type": "major",
+      "format": "JA",
+      "name": "Major Test - 02_JA.pdf",
+      "chapters": {
+        "Physics": [1, 2, 3, 4, 5, 6, 7, 8],
+        "Chemistry": [1, 2, 3, 4, 5, 6, 7, 9, 10],
+        "Mathematics": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+      }
+    },
+    {
+      "test_no": 5,
+      "date": "18-November-24",
+      "type": "minor",
+      "format": "JA",
+      "name": "Minor Test - 05_JA.pdf",
+      "chapters": {
+        "Physics": [9, 10],
+        "Chemistry": [11],
+        "Mathematics": [11]
+      }
+    },
+    {
+      "test_no": 6,
+      "date": "16-December-24",
+      "type": "minor",
+      "format": "JA",
+      "name": "Minor Test - 06_JA.pdf",
+      "chapters": {
+        "Physics": [10, 11],
+        "Chemistry": [12],
+        "Mathematics": [12, 13]
+      }
+    },
+    {
+      "test_no": 3,
+      "date": "13-January-25",
+      "type": "major",
+      "format": "JA",
+      "name": "Major Test - 03_JA.pdf",
+      "chapters": {
+        "Physics": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13],
+        "Chemistry": [1, 2, 3, 4, 5, 6, 7, 9, 10, 11, 12, 13],
+        "Mathematics": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
+      }
+    },
+    {
+      "test_no": 7,
+      "date": "10-February-25",
+      "type": "minor",
+      "format": "JA",
+      "name": "Minor Test - 07_JA.pdf",
+      "chapters": {
+        "Physics": [14],
+        "Chemistry": [8, 14],
+        "Mathematics": [14]
+      }
+    },
+    {
+      "test_no": 1,
+      "date": "01-March-25",
+      "type": "full",
+      "format": "JA",
+      "name": "Full Test - 01_JA.pdf",
+      "chapters": {
+        "Physics": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14],
+        "Chemistry": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14],
+        "Mathematics": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]
+      }
+    }
+  ]
+}

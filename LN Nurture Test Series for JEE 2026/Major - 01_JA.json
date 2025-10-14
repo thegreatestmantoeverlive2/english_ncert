@@ -1,0 +1,539 @@
+[
+  {
+    "question": "1) Maximum range of a projectile on a inclined plane are in ratio of 3 : 1 when projected once down the inclined plane and once projected up the inclined plane with same speed respectively. Find angle of inclined plane with horizontal",
+    "options": [
+      "(A) 30°",
+      "(B) 60°",
+      "(C) 45°",
+      "(D) none of these"
+    ],
+    "answer": "A",
+    "soln": "Rdown = 3Rup\nu2/g(1-sin_)=3u2/g(1+sin_)\n1+sin_=3-3sin_\n4sin_=2\nsin_=1/2\n_ = 30°",
+    "subject": "Physics"
+  },
+  {
+    "question": "2) For shown graph the ratio of the average velocity during the interval AB and BC is",
+    "options": [
+      "(A) 1:3",
+      "(B) 1:√3",
+      "(C) 3:1",
+      "(D) 1:1"
+    ],
+    "answer": "D",
+    "soln": "Here acceleration = constant. Therefore body reaches the farthest point after 20/2=10s and then starts coming back towards the initial point. Hence position of body at 13s=(10+3) s will be same as at (10-3) = 7s",
+    "subject": "Physics"
+  },
+  {
+    "question": "3) A butterfly is flying with a velocity 4√2m/s in North-East direction with respect to the wind. Wind is slowly blowing at 1m/s from North to South. The resultant displacement of the butterfly in 3 seconds is:",
+    "options": [
+      "(A) 3 m",
+      "(B) 20 m",
+      "(C) 12√2m",
+      "(D) 15 m"
+    ],
+    "answer": "D",
+    "soln": "Vb = Vbw + Vow\n= 4i + 4j + (-1j) = 4i + 3j\nS = u x t = (4i + 3j) x 3 = 15m",
+    "subject": "Physics"
+  },
+  {
+    "question": "4) The displacement of a particle is given by √X = 2t + 5. What is the nature of the motion of the particle :-",
+    "options": [
+      "(A) Uniformly accelerated",
+      "(B) Uniform motion",
+      "(C) Retarded",
+      "(D) Non uniformly accelerated"
+    ],
+    "answer": "A",
+    "soln": "x = (2t + 5)² => v = 2(2t + 5) => a = 4",
+    "subject": "Physics"
+  },
+  {
+    "question": "5) In a hemispherical bowl of radius 8R, two balls of mass 5kg are placed in the equilibrium. Radius of the ball is 3R. Normal contact force between the two balls is given by",
+    "options": [
+      "(A) 75/2",
+      "(B) 75/4",
+      "(C) 75/6",
+      "(D) 15"
+    ],
+    "answer": "A",
+    "soln": "Ncos37°= mg\nN = 5mg/4\nR = Nsin37° = 3mg/4 = 75/2 [Newton]",
+    "subject": "Physics"
+  },
+  {
+    "question": "6) In given figure system is in equilibrium. If W₁ = 400 N, then W₂ is equal to",
+    "options": [
+      "(A) 500 N",
+      "(B) 400 N",
+      "(C) 670 N",
+      "(D) 300 N"
+    ],
+    "answer": "B",
+    "soln": "T3sin 37 = 400 T2 = T3cos 37\nT3 * 3/5 = 400 T2 = 2000/3 * 4/5 = 1600/3\nT3 = 2000/3\nT1cos 37 = 1600/3\nT1 = 2000/3\nT1 sin 37 = W2\n2000/3 * 3/5 = W2\n400 = W2",
+    "subject": "Physics"
+  },
+  {
+    "question": "7) Figure shows points A & B in 3-Dimensional co-ordinate system. Origin is at intersection of the three axes. Choose the CORRECT option(s).",
+    "options": [
+      "(A) Position vector of A is 2i + 3k",
+      "(B) Position vector of B is 2j-i",
+      "(C) AB = -3i+2j-3k",
+      "(D) OB =j-2i"
+    ],
+    "answer": "A,B,C",
+    "soln": "OA = 2i + 3k\nOB = -i + 2j\nAB = -3i +2j-3k",
+    "subject": "Physics"
+  },
+  {
+    "question": "8) The position-time (x-t) graphs for two children A and B returning from their school O to their homes P and Q respectively along straight line path (taken as x axis) as shown in figure below. Choose the CORRECT statement (s) :",
+    "options": [
+      "(A) A lives closer to the school than B",
+      "(B) A starts from the school earlier than B",
+      "(C) A and B have equal average velocities from 0 to t₀.",
+      "(D) B overtakes A on the way"
+    ],
+    "answer": "A,B,D",
+    "soln": "",
+    "subject": "Physics"
+  },
+  {
+    "question": "9) Figure shows the velocity time (v – t) graph of a particle travelling on a straight road. Which of the following statement(s) are INCORRECT :-",
+    "options": [
+      "(A) Velocity and acceleration have same sign at point 1",
+      "(B) Particle changes its direction of motion at point 3",
+      "(C) Velocity of particle is equal to zero but acceleration is not equal to zero at point 2.",
+      "(D) Speed of particle is continously decreasing from point 1 to 3."
+    ],
+    "answer": "A,B,D",
+    "soln": "At point 1, v = positive & acceleration is negative (slope of v-t graph gives acceleration)\nAt point 2, v = zero & acceleration is negative (slope of v-t graph gives acceleration)\nAt point 3, v = negative & acceleration is zero (slope of v-t graph gives acceleration)\nFrom 1 to 3 speed of the particle first decreases, becomes zero and then increases. Particle is changing its direction at point 2.",
+    "subject": "Physics"
+  },
+  {
+    "question": "10) The displacement x of a particle moving along a straight line varies with time according to the relation x = x₀(1-e⁻ᵃᵗ), where x₀ and a are positive constants then",
+    "options": [
+      "(A) Maximum displacement of the particle is x₀",
+      "(B) Maximum velocity of the particle is ax₀",
+      "(C) Acceleration of the particle is negative",
+      "(D) Particle's speed decreases with time"
+    ],
+    "answer": "A,B,C,D",
+    "soln": "For (A): At t->inf, x will be maximum so x_max = x_o(1-e^-inf) = x_o\nFor (B) : v = dx/dt = x_o[0-(e^-at)(-a)] = ax_oe^-at => v_max = ax_o\nFor (C) : a = dv/dt = ax_o(e^-at)(-a) = -a²x_oe^-at < 0\nFor (D) : a(-ve) & v(+ve) => speeding down",
+    "subject": "Physics"
+  },
+  {
+    "question": "11) Two persons A and B start swimming from different positions on the same bank as shown in figure. Person A swims at angle 90° with respect to river to reach point P. He takes 120seconds to cross the river of width 10m. Person B also takes same time to reach P",
+    "options": [
+      "(A) Velocity of A with respect to river is 1/6 m/s",
+      "(B) River flow velocity is 1/4 m/s",
+      "(C) Velocity of B along y-axis with respect to earth is 1/3 m/s",
+      "(D) Velocity of B along x-axis with respect to earth is 5/24 m/s"
+    ],
+    "answer": "B,D",
+    "soln": "u x 120 = 30 (x displacement)\nu = 1/4 m/s\nVB x 120 = 25 (displacement in x dir)\nVB = 5/24 m/s",
+    "subject": "Physics"
+  },
+  {
+    "question": "12) Figure shows a block of mass m = 1 kg attached to the top of a wedge of mass M = 2 kg through a string. M is pulled on a horizontal smooth surface by an external force such that string attached to it makes an angle 30° with inclined plane as shown. Choose the correct option from below. (Take g = 10 m/s²)",
+    "options": [
+      "(A) External force F = 30√3N",
+      "(B) String tension T = 20 N",
+      "(C) Normal reaction on ground is 30 N",
+      "(D) Normal reaction on ground is (20 + 10√3) N"
+    ],
+    "answer": "A,B,C",
+    "soln": "T cos 60° = mg = 10\nT sin 60° = 1a\na = 20 x √3/2 = 10√3 m/s²\nF = (M + m)a = 3 x 10√3 = 30√3 N\nNormal Reaction on ground is\nN₁ = Mg + T cos 60° = (M+m)g = 30 N",
+    "subject": "Physics"
+  },
+  {
+    "question": "13) A projectile at any instant during its flight has velocity 5 m/s at 30° above the horizontal. How long after this instant, will it be moving at right angle to the given direction?",
+    "options": [],
+    "answer": "1",
+    "soln": "t = u/(gsinθ) = 5/(10x1/2) = 1",
+    "subject": "Physics"
+  },
+  {
+    "question": "14) In a new system of units, unit of mass is 2kg, unit of length is 4m and unit of time is 2 second. How much joule is equal to 1 unit of energy in this new system ?",
+    "options": [],
+    "answer": "8",
+    "soln": "n₁ [kgm²s⁻²] = 1 [2 kg × 16 m² × 1/4 sec⁻²]\nn₁ = 8",
+    "subject": "Physics"
+  },
+  {
+    "question": "15) The river is flowing forwards right with 5 km/hr. Each person can swim w.r.t. river with maximum velocity of 4 km/hr. At same instant they start swimming from initial points A and B. The minimum time after which they can meet each other is found to be k times 5 minutes find k.",
+    "options": [],
+    "answer": "3",
+    "soln": "u_rel = 8 km/hr\ns_rel = 2 km\nt = 2/8 = 1/4 hr",
+    "subject": "Physics"
+  },
+  {
+    "question": "16) A projectile is launched from a cliff a height h = 10 m above the ground at an angle θ above the horizontal. After a time t₁ = 1 sec has elapsed since the launch, the projectile passes the level of the cliff top moving downward. It eventually lands on the ground a horizontal distance d = 10 m from its launch site. Find 2 tanθ and fill it in OMR sheet.",
+    "options": [],
+    "answer": "2",
+    "soln": "-h = d tanθ - 1/2 g d²/u²cos²θ\n-10 = 10tanθ - 1/2 10x10/25 tan²θ\n2tan²θ - tanθ - 1 = 0\ntanθ = (1+-sqrt(1+8))/4 = (1+-3)/4 = 1, -1/2",
+    "subject": "Physics"
+  },
+  {
+    "question": "17) Block A is given an acceleration 6 m/s² towards left as shown in figure. Then the acceleration of B (in m/s²) is",
+    "options": [],
+    "answer": "1",
+    "soln": "Tension on Block A is T\nthen tension on Block B is 6T\nby constrained motion equation.\nT(6) = 6T/aB\naB = 1m/s²",
+    "subject": "Physics"
+  },
+  {
+    "question": "18) A stream of electrons from a heated filament was passed between two charged plates kept at a potential difference V esu. If e and m are charge and mass of an electron, respectively, then the value of h/λ (where λ is wavelength associated with electron wave) is given by :",
+    "options": [
+      "(A) me V",
+      "(B) 2me V",
+      "(C) √meV",
+      "(D) √2meV"
+    ],
+    "answer": "D",
+    "soln": "λde = h/√2meV\nh/λ = √2meV",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "19) A green bulb and a red bulb are emitting the radiations with equal power. The correct relation between numbers of photons emitted by the bulbs per second is",
+    "options": [
+      "(A) ng = nr",
+      "(B) ng < nr",
+      "(C) ng > nr",
+      "(D) unpredictable"
+    ],
+    "answer": "C",
+    "soln": "E = nhν\nng hνg / t = nr hνr / t\nng νg = nr νr\nνg / νr = nr / ng\nνg > νr => nr > ng",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "20) 300 gm, 30% (w/w) NaOH solution is mixed with 500 gm 40% (w/w) NaOH solution. What is % (w/v) NaOH if density of final solution is 2 gm /mL :- ",
+    "options": [
+      "(A) 72.5",
+      "(B) 65",
+      "(C) 62.5",
+      "(D) 60"
+    ],
+    "answer": "A",
+    "soln": "W1(NaOH) = 30/100 * 300 = 90g\nW2(NaOH) = 40/100 * 500 = 200g\nWt(NaOH) = 200+90 = 290g\nWt(Soln) = 300+500 = 800g\nD = 2 => V = 400\n%w/v = 290/400 * 100 = 72.5",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "21) What is the period number of element having atomic number equal to 32?",
+    "options": [
+      "(A) Second",
+      "(B) Third",
+      "(C) Fourth",
+      "(D) Fifth"
+    ],
+    "answer": "C",
+    "soln": "Z = 32 : 1s², 2s², 2p⁶, 3s², 3p⁶, 4s², 3d¹⁰, 4p²\nmax. principal quantum number = 4\nperiod number = 4",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "22) Which one of the following dimeric form of compounds is planar ?",
+    "options": [
+      "(A) B₂H₆",
+      "(B) Al₂Cl₆",
+      "(C) Al₂Br₆",
+      "(D) I₂Cl₆"
+    ],
+    "answer": "D",
+    "soln": "B₂H₆, Al₂Cl₆, Al₂Br₆ are non-planar with sp³ centre and I₂Cl₆ is planar with sp³d² centre.",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "23) Which of the following is not correct regarding C₂ molecule ?",
+    "options": [
+      "(A) C₂ molecule has two pi bonds",
+      "(B) It has a total 12 electrons, out of which 8 electrons occupy bonding orbitals while 4 electrons occupy antibonding orbitals.",
+      "(C) The molecule is diamagnetic",
+      "(D) C₂ molecule has one σ and one π bond."
+    ],
+    "answer": "D",
+    "soln": "C₂ is σ1s², σ*1s², σ2s², σ*2s², π2py², π2pz² (C₂ molecule has two π-bonds)",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "24) If n + l =5, |m| = 1 then",
+    "options": [
+      "(A) Number of possible orbitals are 4",
+      "(B) Maximum number of electrons that can be filled with m_s = +1/2 is 6 in an atom with above condition",
+      "(C) for iron (Z = 26) atom, number of electron with above condition must be 1 only",
+      "(D) For Germanium (Z = 32), the minimum number of electron with above condition can be 5"
+    ],
+    "answer": "A,D",
+    "soln": "If n + l =5, |m| = 1\nm = +1 or -1\nn=4 l=1 4p m=+1, -1\nn=3 l=2 3d m=+1, -1\nno. of possible orbitals = 4",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "25) 110 gm sample of P₄O₆ contains (Atomic weight of P = 31)",
+    "options": [
+      "(A) 3NA number of O atoms",
+      "(B) 5NA number of total atoms",
+      "(C) 62 gram of P atoms",
+      "(D) 12NA number of P - O bonds"
+    ],
+    "answer": "A,B,C",
+    "soln": "No. of moles of P₄O₆ = 110/220 = 1/2 moles.\n(A) No. of 'O' atoms = 1/2 * 6NA = 3NA\n(B) No. of total atoms = 10 * 1/2 * NA = 5NA\n(C) Moles of 'P' atoms = 4 * 1/2 = 2 moles\nweight of 'P' atoms = 2 * 31 = 62 gm\n(D) No. of P-O bonds = 12 * 1/2 NA = 6NA",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "26) 50ml of 20.8% w/v BaCl₂(aq.) and 100 ml of 9.8 % w/v H₂SO₄(aq) solution are mixed. Then in final solution : (Atomic weight of Ba = 137)",
+    "options": [
+      "(A) [Cl⁻] = 0.66M",
+      "(B) [H⁺] = 1.33M",
+      "(C) [Ba²⁺] ≈ 0M",
+      "(D) [SO₄²⁻] = 0.33 M"
+    ],
+    "answer": "A,B,C,D",
+    "soln": "n_BaCl2 = (20.8/100) * 50 / 208 = 0.05; n_H2SO4 = (9.8/100) * 100 / 98 = 0.1\nMoles 0.05 0.01\nAfter 0 0.05 0.05 0.01 reaction\nn_so4 remaining = 0.05\n[SO₄²⁻] = 0.05/150 * 1000 = 1/3 = 0.33;\n[H⁺] = 0.15/0.2 = 1.33 M; [Cl⁻] = 0.1/0.15 = 0.66M [Ba²⁺] = 0",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "27) Which among the following is/are correct about chromium ?",
+    "options": [
+      "(A) Its electronic configuration is [Ar]3d⁵4s¹",
+      "(B) Total spin of chromium = 3",
+      "(C) Spin multiplicity of 3d-subshell of chromium = 6",
+      "(D) Magnetic moment of chromium = √48 B.M"
+    ],
+    "answer": "A,B,C,D",
+    "soln": "Cr24 -> 1s², 2s²2p⁶,3s²3p⁶3d⁵, 4s¹\nTotal spin = Number of unpaired electrons * 1/2 = 6 * 1/2 = 3\nMagnetic moment = sqrt(n(n+2)), where n = number of unpaired electrons = sqrt(6*8) = sqrt(48)B.M.",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "28) The wave function for 2s orbital is given as ψ = (1/4√2π)(1/a₀)³/² (2-r/a₀)e⁻ʳ/²ᵃ⁰ where a₀ = First Bohr's radius in H atom = 0.529 Å. Read the given statement and pick out the correct statement(s).",
+    "options": [
+      "(A) The number of radial nodes is equal to three",
+      "(B) The probability density is independent of direction",
+      "(C) The number of radial node is equal to 1",
+      "(D) The radial node occur at a distance 2a₀ from nucleus"
+    ],
+    "answer": "B,C,D",
+    "soln": "no of radial node = n-l-1=2-0-1=1\nProbability density ψ²\nSince ψ contain no θ or φ terms – probability of finding electron do not depend upon direction\nAlso since at r = 0, ψ = (1/4√2π)(1/a₀)³/²(2); ψ² is non zero at r = 0\nψ =0 when the term (2-r/a₀) vanishes\nputting 2 – r/a₀ = 0 => r = 2a₀\nat r=2a₀, ψ = 0 : Corresponds to radial node.",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "29) Which of the following is/are correct order ?",
+    "options": [
+      "(A) KCl > KBr (Lattice energy)",
+      "(B) AlN > MgO (Lattice energy)",
+      "(C) Li⁺(aq) > Cs⁺(aq) (ionic mobility)",
+      "(D) Li⁺(aq) < Cs⁺(aq) (Electrical conductivity)"
+    ],
+    "answer": "A,B,D",
+    "soln": "Theory based.",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "30) Find the sum of angular nodes and radial nodes in 6f ?",
+    "options": [],
+    "answer": "5",
+    "soln": "Angular nodes = 3\nRadial nodes = 2",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "31) Find number of moles of Na₃PO₄ which contain as many ions as are present in 1368 gm of Al₂(SO₄)₃. (Assuming complete dissociation of salt and no reaction with H₂O) [At wt of Na = 23, P = 31, O = 16, Al = 27, S = 32]",
+    "options": [],
+    "answer": "5",
+    "soln": "Ions in Al₂(SO₄)₃ = 1368/342 * NA * 5 = 20 * NA\nIons in Na₃PO₄ = (n moles) * NA * 4\nn * NA * 4 = 20 * NA => n = 5 moles.",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "32) 64 g of an organic compound has 24 g carbon and 8 g hydrogen and the rest is oxygen. The empirical formula of the compound is CₓHᵧO₂.Find the value of x + y + z. (At.wt of C = 12, O = 16, H = 1)",
+    "options": [],
+    "answer": "6",
+    "soln": "C H O\n24 8 32\nMole ratio 12 1 16\n= 2:8:2\n= 1:4:1\n= CH₄O; hence x + y + z = 6",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "33) An electron in H atom makes a transition from 4th excited state to n = 2. What are the total possible number of different radiations that may fall in UV region?",
+    "options": [],
+    "answer": "0",
+    "soln": "For UV region. n₂ = 1",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "34) The maximum number of electrons that can have principal quantum number, n = 3, and spin quantum number, m_s = -1/2, is",
+    "options": [],
+    "answer": "9",
+    "soln": "In third orbit 3s, 3p, 3d sub levels are present and a total of nine orbitals are present. Each orbital has one electron with m_s = -1/2.",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "35) Number of real solutions of the equation √log₁₀(-x) = log₁₀√x² is",
+    "options": [
+      "(A) None",
+      "(B) Exactly 2",
+      "(C) Exactly 1",
+      "(D) 4"
+    ],
+    "answer": "C",
+    "soln": "log₁₀(-x) = log₁₀|x|\nEither log₁₀(-x) = 1 => x = -1/10 or log₁₀(-x) = 0 or x = -1",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "36) Number of solutions of the equation tanx + 2tan2x + 4tan4x + 8cot8x = 1 in the interval [-2π, 2π] is equal to",
+    "options": [
+      "(A) 0",
+      "(B) 1",
+      "(C) 2",
+      "(D) 4"
+    ],
+    "answer": "A",
+    "soln": "We know that, cotx - tanx = 2cot2x\nNow, tanx + 2tan2x + 4tan4x + 8cot8x = 1\ncotx - 2cot2x + 2tan2x + 4tan4x + 8cot8x=1\ncotx - 4cot4x + 4tan4x + 8cot8x = 1\ncotx - 8cot8x + 8cot8x = 1\ncotx = 1 for which tan2x is not defined\nso no solution.",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "37) Let 'a' be the arithmetic mean and b,c be two geometric means between any two positive numbers then (b³ + c³)/(2abc) is",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 1/2"
+    ],
+    "answer": "A",
+    "soln": "x a y\n2a = x + y, b² = cx, c² = by\n(b³ + c³)/2abc = (bcx + bcy)/((x+y)bc) = 1",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "38) If 100th, 200th and 400th term of an arithmetic progression are in geometric progression, then common ratio of geometric progression is",
+    "options": [
+      "(A) 1/2",
+      "(B) 2/3",
+      "(C) 3/2",
+      "(D) 4"
+    ],
+    "answer": "B",
+    "soln": "A₂₀₀/A₁₀₀ = A₄₀₀/A₂₀₀ = (A₂₀₀-A₄₀₀)/(A₁₀₀-A₂₀₀) = 2",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "39) The sum of all distinct real solutions of the equation (x² – 3)³ – (4x + 6)³ + 216 = 18(4x + 6) (3 – x²) is",
+    "options": [
+      "(A) -3",
+      "(B) 4",
+      "(C) 1",
+      "(D) -7"
+    ],
+    "answer": "C",
+    "soln": "(x² - 3)³ + (-4x – 6)³ + (6)³ = 3(x² - 3) (-4x – 6) (6)\nx² - 3 - 4x - 6 + 6 = 0 or x² - 3 = -4x - 6 = 6\nx² - 4x - 3 = 0 or x = -3\nx₁ + x₂ = 4 or x₃ = -3\nsum of all distinct real solution = 1.",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "40) If A = {1, 2, 4}, B = {2, 4, 5}, C = {2, 5}, then (A – C) × (B - C) is equal to",
+    "options": [
+      "(A) {(1, 4)}",
+      "(B) {(1, 4), (4, 4)}",
+      "(C) {(4, 1), (4, 4)}",
+      "(D) {(1, 2), (2, 5)}"
+    ],
+    "answer": "B",
+    "soln": "A-C = {1, 4}\nB-C = {4}\n(A-C)x(B-C) = {(1,4), (4,4)}",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "41) If λ = 1/(6sin(x)cos(x) + 8cos²(x) + 2) then",
+    "options": [
+      "(A) λ ∈ [-1, 1/9]",
+      "(B) Sum of integral values of λ = 0",
+      "(C) λ ∈ [1/11, 1]",
+      "(D) Sum of integral values of λ = 1"
+    ],
+    "answer": "C,D",
+    "soln": "6sinxcosx + 8cos²x + 2 = 3sin2x + 4(1+cos2x) + 2 = 6 + 3sin2x + 4cos2x\nRange of sinx + cosx is [-√2, √2]\nλ ∈ [1/11, 1] & sum of integers = 1",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "42) Which of the following is/are correct ?",
+    "options": [
+      "(A) 1/e + 1/e² + 1/e³ + ... ∞ = 2",
+      "(B) 1/(1.4) + 2/(2.9) + 3/(3.16) + ... ∞ = 1",
+      "(C) Number of digits in 2¹⁰⁰ are 30",
+      "(D) Number of solution of sin(x) + cos(x) = 1.5 is zero"
+    ],
+    "answer": "A,B,D",
+    "soln": "(A) 1/e + 1/e² + ... = (1/e)/(1-1/e) = 1/(e-1) != 2\n(B) 1/1.2 + 1/2.3 + ... = (1-1/2) + (1/2-1/3) + ... = 1\n(C) log₁₀(2)¹⁰⁰ = 100 * 0.3010 = 30.10 => C=30 & No. of digit = C+1 = 31\n(D) Range of sinx + cosx is [-√2, √2]",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "43) If a₁, a₂, a₃, ..., a₄₀ are in A.P. and Σa₂ᵣ = 400 and Σa₂ᵣ₋₁ = 300 then choose correct option(s)",
+    "options": [
+      "(A) a₇ - a₆ = 4/3",
+      "(B) a₁₀ - a₉ = 5",
+      "(C) a₁ = -80",
+      "(D) a₄₀ = 185"
+    ],
+    "answer": "B,C",
+    "soln": "S₄₀ = 400+300=700\n40/2(2a₁+39d)=700\n2a₁+39d=35\nΣ(a₂ᵣ-a₂ᵣ₋₁) = 400-300\nd*20d=100 => d=5\na₁=-80\na₄₀=115",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "44) The expression √sin⁴(37.5)° + 4cos²(37.5)° + √cos⁴(37.5)° + 4sin²(37.5)° simplifies to",
+    "options": [
+      "(A) an irrational number",
+      "(B) a prime number",
+      "(C) a natural number which is not composite",
+      "(D) a real number of the form a + √b where a and b are prime"
+    ],
+    "answer": "B,C",
+    "soln": "√sin⁴θ + 4cos²θ + √cos⁴θ + 4sin²θ = √(1-cos²θ)²+4cos²θ + √(1-sin²θ)²+4sin²θ",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "45) Consider the series 8/5 + 16/65 + 24/325 + ... If Sₙ is the sum of first n terms and aₙ is the nth term of the series, then",
+    "options": [
+      "(A) S_inf = 2",
+      "(B) a₅ = 40/2601",
+      "(C) S₁₀ = 440/221",
+      "(D) Sₙ = 4n² + 4n / n² + 2n + 2"
+    ],
+    "answer": "A,C",
+    "soln": "S_n = Σ 8r / (4r⁴+1) = Σ 8r / ((2r²-2r+1)(2r²+2r+1)) = 2Σ(1/(2r²-2r+1) - 1/(2r²+2r+1))",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "46) If logₐx = b for permissible values of a and x then identify the statement(s) which can be correct?",
+    "options": [
+      "(A) If a and b are two irrational numbers then x can be rational.",
+      "(B) If a rational and b irrational then x can be rational.",
+      "(C) If a irrational and b rational then x can be rational.",
+      "(D) If a rational and b rational then x can be rational."
+    ],
+    "answer": "A,B,C,D",
+    "soln": "",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "47) Given fₙ(x) = 1/n(sinⁿx + cosⁿx) for n = 1, 2, 3, ... Then the value of 24(f₄(x) – f₆(x)) is equal to",
+    "options": [],
+    "answer": "2",
+    "soln": "f₄(x) - f₆(x) = 1/4(sin⁴x+cos⁴x) - 1/6(sin⁶x+cos⁶x) = 1/4(1-2sin²xcos²x) - 1/6(1-3sin²xcos²x) = 1/4 - 1/6 = 1/12 => 24(f₄(x)-f₆(x)) = 2",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "48) The complete solutions of the inequality (x² – x – 1) (x² − x − 7) < -5 is (-a, -b) ∪ (c, d) then find the value of (a + b + c + d) is, where a, b, c, d ∈ N",
+    "options": [],
+    "answer": "8",
+    "soln": "Let x²-x=y\n(y-1)(y-7)+5<0 => y²-8y+12<0 => (y-6)(y-2)<0 => 2<y<6 => 2<x²-x<6\nx²-x-2>0 and x²-x-6<0\n(x-2)(x+1)>0 and (x-3)(x+2)<0\nx∈(-2,-1)U(2,3)",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "49) If A and B are two sets such that n(A) = 150, n(B) = 250 and n(A∪B) = 300. Then (n(B-A)-n(A-B))/100 is",
+    "options": [],
+    "answer": "1",
+    "soln": "n(A∪B) = n(A)+n(B)-n(A∩B) => 300=150+250-n(A∩B) => n(A∩B)=100\nn(A-B)=50\nn(B-A)=150\n(n(B-A)-n(A-B))/100 = (150-50)/100 = 1",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "50) If Σr.2ʳ⁻¹ from r=1 to 100 = m.2ⁿ + t, where m, n, t are positive integers with HCF 1, then value of (m+n+t)/100 is",
+    "options": [],
+    "answer": "2",
+    "soln": "S = 1+2.2+3.2²+ ... +100.2⁹⁹\n2S = 1.2+2.2²+ ... +99.2⁹⁹+100.2¹⁰⁰\n-S = 1+2+2²+ ... +2⁹⁹-100.2¹⁰⁰\nS = 100.2¹⁰⁰ - (2¹⁰⁰-1) = 99.2¹⁰⁰+1\nhence m=99, n=100 & t=1\n(m+n+t)/100 = 2.",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "51) Find the minimum integral value of x such that √log₂( (2x-3)/(x-1) ) < 1",
+    "options": [],
+    "answer": "2",
+    "soln": "0 <= log₂((2x-3)/(x-1)) < 1\n1 <= (2x-3)/(x-1) < 2\n(2x-3)/(x-1) >= 1 => (2x-3-x+1)/(x-1)>=0 => (x-2)/(x-1)>=0 => x>=2 or x<1\n(2x-3)/(x-1) < 2 => (2x-3-2x+2)/(x-1)<0 => -1/(x-1)<0 => x>1\ntaking intersection of all conditions, x>=2, so minimum integral value is 2",
+    "subject": "Mathematics"
+  }
+]

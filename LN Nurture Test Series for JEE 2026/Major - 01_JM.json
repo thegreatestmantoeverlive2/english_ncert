@@ -1,0 +1,722 @@
+[
+  {
+    "question": "1) Two masses of 5 kg and 3 kg are suspended with the help of massless inextensible strings as shown in figure. Calculate T₁ and T₂ when whole system is going upwards with acceleration = 2 m/s².",
+    "options": [
+      "(A) 86.2 N, 26.5 N",
+      "(B) 102.6 N, 42 N",
+      "(C) 94.4 N, 35.4 N",
+      "(D) 76.6 N, 29.2 N"
+    ],
+    "answer": "C",
+    "soln": "Tension in the upper string T₁ = (m₁ + m₂)(g+ a) = (5 + 3) (9.8 + 2) = 8 × 11.8N = 94.4 N\nTension in the lower string T₂ = m₂(g + a) = 3(9.8 + 2)N = 3 x 11.8 N = 35.4 N",
+    "subject": "Physics"
+  },
+  {
+    "question": "2) The displacement of a body is given by 2s = gt², where g is a constant. The velocity of the body at any time t is:",
+    "options": [
+      "(A) 2 gt",
+      "(B) gt",
+      "(C) gt²",
+      "(D) gt/2"
+    ],
+    "answer": "B",
+    "soln": "s = 1/2 gt² => v = gt",
+    "subject": "Physics"
+  },
+  {
+    "question": "3) A ball is thrown upwards at an angle of 60° to the horizontal. It falls on the ground at a distance of 90m. If the ball is thrown with the same initial velocity at an angle of 30°, it will fall on the ground at a distance of -",
+    "options": [
+      "(A) 120 m",
+      "(B) 90 m",
+      "(C) 60 m",
+      "(D) 30 m"
+    ],
+    "answer": "B",
+    "soln": "For angles of projection θ and (90 – θ), range is same.",
+    "subject": "Physics"
+  },
+  {
+    "question": "4) For the figure :-",
+    "options": [
+      "(A) A + B = C",
+      "(B) B + C = A",
+      "(C) C + A = B",
+      "(D) A + B + C = 0"
+    ],
+    "answer": "C",
+    "soln": "Use triangle law of vector addition. A is placed on tail of C => A + C = B",
+    "subject": "Physics"
+  },
+  {
+    "question": "5) If the net force on a body is zero, will it definitely be at rest ?",
+    "options": [
+      "(A) Yes",
+      "(B) Not necessary. This is possible that the body is moving with accelerating velocity",
+      "(C) Not necessary. This is possible that the body is moving with decelerating velocity",
+      "(D) Not necessary. This is possible that the body is moving with constant velocity"
+    ],
+    "answer": "D",
+    "soln": "F_net = 0 – rest or moving with uniform vel",
+    "subject": "Physics"
+  },
+  {
+    "question": "6) The numerical value of the ratio of displacement to distance is :-",
+    "options": [
+      "(A) Always less than one",
+      "(B) Always equal to one",
+      "(C) Always more than one",
+      "(D) Equal to or less than one"
+    ],
+    "answer": "D",
+    "soln": "Displacement can be equal to or less than distance. Hence, their ratio can be equal to or less than one.",
+    "subject": "Physics"
+  },
+  {
+    "question": "7) If y = sin x, then d²y/dx² will be :",
+    "options": [
+      "(A) cos x",
+      "(B) sin x",
+      "(C) -sinx + C",
+      "(D) -sinx"
+    ],
+    "answer": "D",
+    "soln": "y = sin x => dy/dx = cos x => d²y/dx² = -sin x",
+    "subject": "Physics"
+  },
+  {
+    "question": "8) If |a| = |b| = 1/√2 and |a+b| = 1, then find |a-b|",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4"
+    ],
+    "answer": "A",
+    "soln": "|a-b|² + |a+b|² = 2(a²+b²) => |a-b|² + 1 = 2(1/2+1/2) => |a-b|=1",
+    "subject": "Physics"
+  },
+  {
+    "question": "9) Find out the contact force between 2kg & 3kg block placed on the incline plane as shown in figure.",
+    "options": [
+      "(A) 16 N",
+      "(B) 12 N",
+      "(C) 20 N",
+      "(D) 10 N"
+    ],
+    "answer": "B",
+    "soln": "",
+    "subject": "Physics"
+  },
+  {
+    "question": "10) The displacement x of a particle varies with time t, x = ae⁻ᵃᵗ + beᵇᵗ, where a, b, α and β are positive constants. The velocity of the particle will :",
+    "options": [
+      "(A) Go on decreasing with time",
+      "(B) Be independent of α and β",
+      "(C) Drop to zero when α = β",
+      "(D) Go on increasing with time"
+    ],
+    "answer": "D",
+    "soln": "Acceleration = aα²e⁻ᵃᵗ + bβ²eᵇᵗ > 0. So, velocity increases with time",
+    "subject": "Physics"
+  },
+  {
+    "question": "11) The velocity of a projectile, when it is at the greatest height, is √2/5 times its velocity when it is at half of its greatest height. The angle of projection is",
+    "options": [
+      "(A) 30°",
+      "(B) 45°",
+      "(C) tan⁻¹(2/3)",
+      "(D) 60°"
+    ],
+    "answer": "D",
+    "soln": "At maximum height v₁ = v cos θ. At half of maximum height V₂ = √v²cos²θ + (vy)²/2 = √v²sin²θ - 2g(H/2) = √v²sin²θ - g(v²sin²θ/2g) = v²sin²θ/2. For v_vertical, v₁/v₂ = √2/5 => tanθ = √3, θ=60°",
+    "subject": "Physics"
+  },
+  {
+    "question": "12) A man is crossing a river flowing with velocity of 5m/s. He reaches a point directly across the river at a distance of 60 m in 5 sec. His velocity in still water should be :",
+    "options": [
+      "(A) 12 m/s",
+      "(B) 13 m/s",
+      "(C) 5 m/s",
+      "(D) 10 m/s"
+    ],
+    "answer": "B",
+    "soln": "His velocity in x direction should counter the flow so as to reach the point across, i.e. vx= 5 m/s. Velocity in y should be such that he reaches 60 m in 5 second, i.e. vy=12 m/s. Thus total velocity, V = √vx²+vy² = 13m/s",
+    "subject": "Physics"
+  },
+  {
+    "question": "13) If a ball is thrown vertically upwards with speed u. The distance covered during the last t seconds of its ascent is :",
+    "options": [
+      "(A) 1/2 gt²",
+      "(B) ut - 1/2 gt²",
+      "(C) (u-g)t",
+      "(D) utd"
+    ],
+    "answer": "A",
+    "soln": "The distance covered by the ball during the last t seconds of its upward motion = distance covered by it in first t seconds of its downward motion. h = ut + 1/2gt², [u = 0 for downward motion] h = 1/2gt²",
+    "subject": "Physics"
+  },
+  {
+    "question": "14) ∫e^(2x+3) dx = ?",
+    "options": [
+      "(A) 2e^(2x+3)",
+      "(B) e^(2x+3)/2 + C",
+      "(C) e^(2x+3) + C",
+      "(D) None"
+    ],
+    "answer": "B",
+    "soln": "∫e^(2x+3)dx = e^(2x+3)/2 + C",
+    "subject": "Physics"
+  },
+  {
+    "question": "15) A block of mass M is pulled along a horizontal frictionless surface by a rope of mass m. Force P is applied at one end of rope. The force which the rope exerts on the block is",
+    "options": [
+      "(A) P/(M-m)",
+      "(B) M(m+M)/P",
+      "(C) PM/(m+M)",
+      "(D) PM/(m-M)"
+    ],
+    "answer": "C",
+    "soln": "",
+    "subject": "Physics"
+  },
+  {
+    "question": "16) A particle starts with an initial velocity (i+j) m/s and changes it to (3i-5j) m/s in 2 sec. What is the magnitude of displacement of the particle in 2 s, if the acceleration is constant?",
+    "options": [
+      "(A) 2√2 m",
+      "(B) 3√2 m",
+      "(C) 4√2 m",
+      "(D) √2m"
+    ],
+    "answer": "C",
+    "soln": "u = i+j, v = 3i-5j, t=2sec. 3i-5j = i+j+a(2) => a = i-3j. s = (i+j)x2 + 1/2(i-3j)(4) = 2i+2j+2i-6j = 4i-4j. |s|=4√2",
+    "subject": "Physics"
+  },
+  {
+    "question": "17) As shown in figure an ant moves from point P to Q along the circular track of radius 1m. If the time taken is 1 minute, what is the average velocity of the ant ?",
+    "options": [
+      "(A) π/40 ms⁻¹",
+      "(B) π/60 ms⁻¹",
+      "(C) 3π/160 ms⁻¹",
+      "(D) 1/60 ms⁻¹"
+    ],
+    "answer": "D",
+    "soln": "Total displacement = 1m. Total time taken = 60 sec. V_avg = total displacement / total time = 1/60 m/sec",
+    "subject": "Physics"
+  },
+  {
+    "question": "18) The greatest and the least resultant of two forces acting at a point are 12N and 8N respectively. Find out the forces.",
+    "options": [
+      "(A) 12 N & 8 N",
+      "(B) 4 N & 8 N",
+      "(C) 3 N & 9 N",
+      "(D) 10 N & 2N"
+    ],
+    "answer": "D",
+    "soln": "(F_net)_max = F₁ + F₂ = 12 N. (F_net)_min = F₁ - F₂ = 8N. on solving ; F₁ = 10 N and F₂ = 2N",
+    "subject": "Physics"
+  },
+  {
+    "question": "19) ∫√x dx = ?",
+    "options": [
+      "(A) x^(6/5) + C",
+      "(B) 6/5 x^(6/5)",
+      "(C) 5/6 x^(5/6)",
+      "(D) 5/6 x^(6/5) + C"
+    ],
+    "answer": "D",
+    "soln": "You need to indefinite integration of x^(1/5)",
+    "subject": "Physics"
+  },
+  {
+    "question": "20) Three equal weights A, B and C of mass 2 kg each are hanging on a string passing over a fixed frictionless pulley as shown in figure. The tension in the string connecting weights B and C is",
+    "options": [
+      "(A) Zero",
+      "(B) 13 N",
+      "(C) 3.3 N",
+      "(D) 19.6 N"
+    ],
+    "answer": "B",
+    "soln": "For A : T - 2g = 2a ...(i). For B : T₁ + 2g - T = 2a ...(ii). For C: 2g - T₁ = 2a ....(iii). Adding equations (i) and (ii), we get T₁ = 4a ....(iv). From equations (iii) and (iv), we get 2g - 4a = 2a or a = g/3 ...(v). From equations (iv) and (v), we get T₁ = 4 * g/3 = 13N",
+    "subject": "Physics"
+  },
+  {
+    "question": "21) Central atom of ICl₂⁻ contains",
+    "options": [
+      "(A) 2 bond pairs, 2 lone pairs",
+      "(B) 3 bond pairs, 3 lone pairs",
+      "(C) 2 bond pairs, 3 lone pairs",
+      "(D) 3 bond pairs, 2 lone pairs"
+    ],
+    "answer": "C",
+    "soln": "2 bond pairs and 3 lone pairs",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "22) Which of the following is in order of increasing covalent character ?",
+    "options": [
+      "(A) CCl₄ < BeCl₂ < BCl₃ < LiCl",
+      "(B) LiCl < CCl₄ < BeCl₂ < BCl₃",
+      "(C) LiCl < BeCl₂ < BCl₃ < CCl₄",
+      "(D) LiCl < BeCl₂ < CCl₄ < BCl₃"
+    ],
+    "answer": "C",
+    "soln": "",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "23) Shape of XeF₄ molecule is :-",
+    "options": [
+      "(A) Linear",
+      "(B) Pyramidal",
+      "(C) Tetrahedral",
+      "(D) Square planar"
+    ],
+    "answer": "D",
+    "soln": "",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "24) Electronic conf. of an element having maximum electron affinity is.",
+    "options": [
+      "(A) [Xe] ns²np⁵",
+      "(B) [Ar] ns²np⁵",
+      "(C) [Ne] ns²np⁵",
+      "(D) All have same EA"
+    ],
+    "answer": "C",
+    "soln": "",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "25) Maximum bond angle is present in",
+    "options": [
+      "(A) BCl₃",
+      "(B) BBr₃",
+      "(C) BF₃",
+      "(D) Same for all"
+    ],
+    "answer": "D",
+    "soln": "No lone pair on central atom",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "26) Which of the following would result in the formation of strongest π-bond if the molecular axis is x-axis ?",
+    "options": [
+      "(A) 2pₓ + 2pₓ",
+      "(B) 2pᵧ + 2pᵧ",
+      "(C) 2pᵧ + 3dₓᵧ",
+      "(D) 2p₂ + 4p₂"
+    ],
+    "answer": "B",
+    "soln": "2pπ – 2pπ bond in the strongest π-bond.",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "27) Match the following regarding nature of the oxide :",
+    "options": [
+      "(A) a – (ii), (b) – (i), (c) – (iii), (d) – (iv)",
+      "(B) a - (iv), (b) – (i), (c) – (iii), (d) – (ii)",
+      "(C) a - (iv), (b) – (i), (c) – (ii), (d) – (iii)",
+      "(D) a – (ii), (b) – (i), (c) – (iv), (d) – (iii)"
+    ],
+    "answer": "C",
+    "soln": "N₂O = Neutral oxide, BaO = Basic oxide, As₂O₃ = Amphoteric oxide, Cl₂O₇ = Acidic oxide",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "28) Which of the following species is paramagnetic ?",
+    "options": [
+      "(A) NO⁺",
+      "(B) O₂²⁻",
+      "(C) CN⁻",
+      "(D) CO"
+    ],
+    "answer": "A",
+    "soln": "",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "29) Match the items under list (1) with items under list (2) select the correct answers from the sets (A), (B), (C) and (D)-",
+    "options": [
+      "(A) a - i, b - v, c - iv, d - iii",
+      "(B) a -ii, b -iii, c - i, d - ii",
+      "(C) a - iv, b - iii, c - ii, d - v",
+      "(D) a - iii, b - i, c - ii, d - iv"
+    ],
+    "answer": "D",
+    "soln": "",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "30) Which of the following molecular orbitals has two nodal planes?",
+    "options": [
+      "(A) σ2pₓ",
+      "(B) π2pᵧ",
+      "(C) π*2pᵧ",
+      "(D) σ*2pₓ"
+    ],
+    "answer": "C",
+    "soln": "",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "31) A chemist decided to determine the Empirical formula of an unknown compound. He collects following informations : (i) Compound contains 2 : 1 ratio of H and O atoms (number of atoms) (ii) Compound has 40% C by mass (iii) Compound contains C, H and O only What is the empirical formula of the compound",
+    "options": [
+      "(A) CH₃O",
+      "(B) CH₂O",
+      "(C) C₂H₂O",
+      "(D) CH₃O₂"
+    ],
+    "answer": "B",
+    "soln": "C H O 40% x% 60-x%. 40/12 : x/1 : (60-x)/16. Given x: (60-x)/16 = 2:1 => x=20. So, C:H:O = 40/12:20/1:40/16 = 1:2:1",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "32) From 2 mg calcium 1.2 × 10¹⁹ atoms are removed. The number of g - atoms of calcium left is (Ca = 40):",
+    "options": [
+      "(A) 5 × 10⁻⁵",
+      "(B) 2 × 10⁻⁵",
+      "(C) 3 × 10⁻⁵",
+      "(D) 5 × 10⁻⁶"
+    ],
+    "answer": "C",
+    "soln": "2 mg Calcium moles = 2x10⁻³/40 = 5x10⁻⁵. 1 mole = 6.022x10²³ atoms. x = 1.2x10¹⁹/6.022x10²³ = 1.99x10⁻⁵ moles removed. Remaining moles = 5x10⁻⁵ - 1.99x10⁻⁵ = 3.00x10⁻⁵ moles",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "33) If R is the Rydberg constant for hydrogen, then wave number of the first line in the Lyman series is :-",
+    "options": [
+      "(A) 2R",
+      "(B) R/2",
+      "(C) 3R/4",
+      "(D) R/4"
+    ],
+    "answer": "C",
+    "soln": "wave number = R(1/1² - 1/2²) = 3R/4",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "34) Molarity of H₂SO₄ is 18 M. Its density is 1.8 g/cm³, hence molality is",
+    "options": [
+      "(A) 18",
+      "(B) 100",
+      "(C) 36",
+      "(D) 500"
+    ],
+    "answer": "D",
+    "soln": "Molarity of H₂SO₄ = 18M. 1000 ml solution has 18 mole H₂SO₄ = 18x98 gm H₂SO₄ = 1764 gm H₂SO₄. 1000 mL solution weighs 1800 gm. Mass of water = 1800-1764 = 36 gm H₂O. m = 18 * 1000/36 = 500",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "35) The numbers of moles of BaCO₃ which contain 1.5 moles of oxygen atoms is",
+    "options": [
+      "(A) 0.5",
+      "(B) 1",
+      "(C) 3",
+      "(D) 6.02 x 10²³"
+    ],
+    "answer": "A",
+    "soln": "",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "36) Threshold frequency of a metal is f₀. When light of frequency v = 2f₀ is incident on the metal plate, maximum velocity of e⁻ emitted is v₁. When frequency of incident radiation is 5f₀, maximum velocity of emitted e⁻ is v₂. Find ratio of v₁/v₂:",
+    "options": [
+      "(A) 1:4",
+      "(B) 1:2",
+      "(C) 2:1",
+      "(D) None of these"
+    ],
+    "answer": "B",
+    "soln": "",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "37) The Uncertainity in the momentum of an electron is 1.0 × 10⁻⁵ kg m s⁻¹. The Uncertainity in its position will be: (h = 6.626 × 10⁻³⁴ Js)",
+    "options": [
+      "(A) 1.05 × 10⁻²⁸ m",
+      "(B) 1.05 × 10⁻²⁶ m",
+      "(C) 5.27 × 10⁻³⁰ m",
+      "(D) 5.25 × 10⁻²⁸ m"
+    ],
+    "answer": "C",
+    "soln": "Δp.Δx = h/4π => Δx = 6.62x10⁻³⁴ / (4x3.14x1x10⁻⁵) = 5.27x10⁻³⁰m",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "38) The graph between ψ² and r(radial distance) is shown below. This represents:",
+    "options": [
+      "(A) 3s orbital",
+      "(B) 1s orbital",
+      "(C) 2p orbital",
+      "(D) 2s orbital"
+    ],
+    "answer": "D",
+    "soln": "",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "39) What is the total spin only magnetic moment of an atom with atomic number 7 ?",
+    "options": [
+      "(A) √30 BM",
+      "(B) √3BM",
+      "(C) √15BM",
+      "(D) 2√15BM"
+    ],
+    "answer": "C",
+    "soln": "",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "40) Quantum number of some electrons are given below on the basis of it, arrange them from lowest to highest energy order:",
+    "options": [
+      "(A) P < Q < R < S",
+      "(B) Q < R < P < S",
+      "(C) Q < R < S < P",
+      "(D) S < Q < R < P"
+    ],
+    "answer": "A",
+    "soln": "Use (n+l) rule",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "41) 1/(3.7) + 1/(7.11) + 1/(11.15) + ... is equal to",
+    "options": [
+      "(A) 1/3",
+      "(B) 1/6",
+      "(C) 1/9",
+      "(D) 1/12"
+    ],
+    "answer": "D",
+    "soln": "1/4[4/(3.7) + 4/(7.11) + ...] = 1/4[1/3-1/7+1/7-1/11+...] = 1/4*1/3=1/12",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "42) √3cosec20° - sec20° = ",
+    "options": [
+      "(A) 3",
+      "(B) 1",
+      "(C) 4",
+      "(D) 2"
+    ],
+    "answer": "C",
+    "soln": "√3/sin20 - 1/cos20 = (√3cos20-sin20)/sin20cos20 = 4(sin60cos20-cos60sin20)/sin40 = 4sin40/sin40 = 4",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "43) If Σ(sin(1°)/sin(r+1)sin(r)) from r=1 to 44 = tanA° - tanB° where A° & B° ∈ (0, 90°), then value of 2B - A is",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4"
+    ],
+    "answer": "A",
+    "soln": "Σ[cot(r)-cot(r+1)] = cot(1)-cot(45) = tan(89)-tan(45). A=89, B=45. 2B-A = 90-89=1",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "44) A survey shows that 73% of the persons working in an office like coffee, whereas 65% like tea. If x denotes the percentage of them, who like both coffee and tea, then x cannot be",
+    "options": [
+      "(A) 63",
+      "(B) 38",
+      "(C) 54",
+      "(D) 86"
+    ],
+    "answer": "D",
+    "soln": "n(C)=73, n(T)=65, n(C∪T)<=100. n(C)+n(T)-n(C∩T)<=100 => 73+65-x<=100 => x>=38. 73-x>=0 => x<=73. 65-x>=0 => x<=65. 38<=x<=65",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "45) Find the least value of n(n ∈ N) for which sum of the series 1 + 3 + 3² + 3³ + ... upto n terms exceeds 9000",
+    "options": [
+      "(A) 6",
+      "(B) 9",
+      "(C) 10",
+      "(D) 12"
+    ],
+    "answer": "B",
+    "soln": "S_n = 1(3ⁿ-1)/(3-1) > 9000 => 3ⁿ-1 > 18000 => 3ⁿ > 18001 => n>=9. Least value of n=9",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "46) If 0 < θ < π, then minimum value of 3sinθ + cosec³θ is",
+    "options": [
+      "(A) 4",
+      "(B) 3",
+      "(C) 5",
+      "(D) 6"
+    ],
+    "answer": "A",
+    "soln": "Using A.M.>=G.M. (sinθ+sinθ+sinθ+cosec³θ)/4 >= (sin³θ.cosec³θ)^(1/4). Hence, minimum value of 3sinθ+cosec³θ is 4.",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "47) If a₁, a₂, a₃,...........aₙ are in A.P. such that aₙ = 100, a₅₀ – a₄₉ = 3/5, then 15th term of A.P. from end is",
+    "options": [
+      "(A) 454/5",
+      "(B) 448/5",
+      "(C) 452/5",
+      "(D) 458/5"
+    ],
+    "answer": "D",
+    "soln": "a₅₀-a₄₉ = d = 3/5. T₁₅ from end = a₁+(n-15)d = 100 - 14*3/5 = 458/5",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "48) The value of cos(2π/15)cos(4π/15)cos(8π/15)cos(16π/15) is equal to",
+    "options": [
+      "(A) 1/16",
+      "(B) 1/32",
+      "(C) 1/64",
+      "(D) 1/8"
+    ],
+    "answer": "A",
+    "soln": "cosAcos2A...cos2^(n-1)A = sin(2ⁿA)/(2ⁿsinA). Here A=2π/15, n=4. sin(32π/15)/(16sin(2π/15)) = sin(2π+2π/15)/(16sin(2π/15)) = 1/16",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "49) If ΣTᵣ from R=1 to N = N(N+1)(N+2)(N+3)/12, then Σ(1/Tᵣ) from R=1 to 8 is equal to",
+    "options": [
+      "(A) 2/3",
+      "(B) 3/4",
+      "(C) 2",
+      "(D) 1"
+    ],
+    "answer": "B",
+    "soln": "Tₙ = Sₙ-Sₙ₋₁ = n(n+1)(n+2)/3. Σ1/Tᵣ = 3/2 Σ[1/(n(n+1)) - 1/((n+1)(n+2))] = 3/4",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "50) Find the sum of all terms of nth row of given pattern 1 3 5 7 9 11 13 15 17 19",
+    "options": [
+      "(A) n(n+1)",
+      "(B) n³",
+      "(C) n²",
+      "(D) n(n+1)(2n+1)/6"
+    ],
+    "answer": "B",
+    "soln": "Let Tₙ be the first term of nth group and S=1+3+7+...Tₙ. Tₙ=n²-n+1. Sum of nth group is n/2[2Tₙ+(n-1)2] = n³",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "51) √2+√2+√2+2cos4x equals, if 0<=x<=π/4",
+    "options": [
+      "(A) sec(x/2)",
+      "(B) secx",
+      "(C) cosecx",
+      "(D) 1"
+    ],
+    "answer": "A",
+    "soln": "√2+√2+√2+2cos4x = √2+√2+2cosx = √2+2cosx = 2cos(x/2)",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "52) If N₁ = 5⁷+5⁷+5⁷+5⁷+5⁷ and N₂=10³+10³+10³+10³+10³+10³+10³+10³+10³, then the value of log₂₅₀(N₁N₂) is equal to",
+    "options": [
+      "(A) 4",
+      "(B) 8",
+      "(C) 10",
+      "(D) 21"
+    ],
+    "answer": "A",
+    "soln": "N₁=5*5⁷=5⁸. N₂=10*10³=10⁴. N₁N₂=5⁸*10⁴=5⁸*2⁴*5⁴=2⁴*5¹²= (2²*5⁶)²=250⁴. log₂₅₀(250⁴)=4",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "53) Out of the members of three athletic teams in a school 21 are in the cricket team, 26 are in the hockey team and 29 are in the football team. Among them, 14 play hockey and cricket, 15 play hockey and football and 12 play football and cricket. Eight play all the three games. The total number of members in the three athletic teams is",
+    "options": [
+      "(A) 43",
+      "(B) 40",
+      "(C) 45",
+      "(D) 48"
+    ],
+    "answer": "A",
+    "soln": "n(C)=21, n(H)=26, n(F)=29, n(H∩C)=14, n(H∩F)=15, n(F∩C)=12, n(C∩H∩F)=8. n(C∪H∪F)=n(C)+n(H)+n(F)-n(H∩C)-n(H∩F)-n(F∩C)+n(C∩H∩F) = 21+26+29-14-15-12+8 = 43",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "54) The sum of the roots of the equation, x²+|2x-3|-4=0, is",
+    "options": [
+      "(A) -2",
+      "(B) √2",
+      "(C) -√2",
+      "(D) 2"
+    ],
+    "answer": "B",
+    "soln": "Case-1: x>=3/2 => x²+2x-7=0 => x=-1+-2√2. reject. Case-2: x<3/2 => x²-2x-1=0 => x=1+-√2. reject. sum = -1+2√2+1-√2=√2",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "55) If log₂(4+log₃(x))=3, then sum of digits of x, is",
+    "options": [
+      "(A) 3",
+      "(B) 6",
+      "(C) 9",
+      "(D) 18"
+    ],
+    "answer": "C",
+    "soln": "4+log₃(x)=8 => log₃(x)=4 => x=81. sum of digits = 9",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "56) When f(x) is divided by x²-5x+6 leaves the remainder (ax+b). If f(2)=5 and f(3)=8, then (a,b)",
+    "options": [
+      "(A) (3,1)",
+      "(B) (2,-1)",
+      "(C) (3,-1)",
+      "(D) (3,-2)"
+    ],
+    "answer": "C",
+    "soln": "f(x)=q(x)(x-2)(x-3) + ax+b. f(2)=2a+b=5. f(3)=3a+b=8. a=3,b=-1",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "57) If x = ³√7+5√2 - 1/³√7+5√2, then the value of x³+3x-14 is equal to",
+    "options": [
+      "(A) 1",
+      "(B) 0",
+      "(C) 2",
+      "(D) 4"
+    ],
+    "answer": "B",
+    "soln": "x³=(7+5√2) - 1/(7+5√2) - 3x => x³+3x = 14. x³+3x-14=0",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "58) If the arcs of same length in two circles subtended angles of 60° and 75° at their centres. Then the ratio of their radii is",
+    "options": [
+      "(A) 3:2",
+      "(B) 6:5",
+      "(C) 5:4",
+      "(D) None of these"
+    ],
+    "answer": "C",
+    "soln": "s = r₁θ₁ = r₂θ₂. r₁/r₂ = θ₂/θ₁ = 75/60 = 5/4",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "59) If nth term of an AP is 1/3(2n+1), then the sum of its 19 term is",
+    "options": [
+      "(A) 131",
+      "(B) 132",
+      "(C) 133",
+      "(D) 134"
+    ],
+    "answer": "C",
+    "soln": "Tₙ=1/3(2n+1). T₁=1, T₂=5/3, d=2/3. S₁₉ = 19/2[2*1+18*2/3] = 133",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "60) The value of sum Σ(2ʳ⁻¹+8r-3) from r=1 to 10 is equal to",
+    "options": [
+      "(A) 1343",
+      "(B) 1234",
+      "(C) 1334",
+      "(D) 1433"
+    ],
+    "answer": "D",
+    "soln": "Σ2ʳ⁻¹ + Σ8r - Σ3 = (2¹⁰-1)/(2-1) + 8*10*11/2 - 30 = 1023 + 440 - 30 = 1433",
+    "subject": "Mathematics"
+  }
+]
