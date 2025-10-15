@@ -1,19 +1,25 @@
-## Aunt Jennifer's Tigers
+# Aunt Jennifer's Tigers
 
-1.  Who is the author of the poem "Aunt Jennifer's Tigers"?
-2.  Where was Adrienne Rich born?
-3.  For what is Adrienne Rich widely known?
-4.  What themes echo through her work?
-5.  What does the poem "Aunt Jennifer's Tigers" address?
-6.  What are Aunt Jennifer's tigers doing and where?
-7.  How are the tigers described?
-8.  What is a "denizen"?
-9.  Whom do the tigers not fear?
-10. How do the tigers pace?
-11. What are Aunt Jennifer's fingers doing?
-12. What does she find hard to pull?
-13. What sits heavily on Aunt Jennifer's hand?
-14. What will happen to Aunt Jennifer's hands when she is dead?
-15. What will her hands still be "ringed with"?
-16. What will happen to the tigers she made?
-17. How will the tigers go on?
+1.  Whose tigers are they?
+2.  What are the tigers doing?
+3.  Where are they prancing?
+4.  What color are the tigers?
+5.  What are they denizens of?
+6.  Whom do the tigers not fear?
+7.  Where are the men?
+8.  How do the tigers pace?
+9.  What is the quality of their certainty?
+10. Whose fingers are fluttering?
+11. What are her fingers fluttering through?
+12. What do her fingers find hard to pull?
+13. What is the needle made of?
+14. What sits heavily upon Aunt Jennifer's hand?
+15. What is the weight of the wedding band described as?
+16. Whose wedding band is it?
+17. What will happen when Aunt is dead?
+18. What will her terrified hands do?
+19. What will her hands still be ringed with?
+20. What was she mastered by?
+21. What will the tigers in the panel do?
+22. Who made the panel?
+23. How will the tigers go on prancing?
