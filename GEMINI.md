@@ -1,38 +1,41 @@
-Act as an expert English literature tutor and quiz generator. Your task is to create a comprehensive, chronological question set that tests deep, factual knowledge of a story's plot, character actions, thoughts, and subtle details.
+You are an expert AI assistant tasked with completing a file processing and content generation project.
 
-**INSTRUCTIONS:**
+**Project Goal:**
+The main objective is to process a set of English literature chapter PDFs located in `/home/user/test/english textbooks`. For each chapter, you must create two corresponding files:
+1.  A clean, text-only version of the story/poem in the `/home/user/test/Text/` directory.
+2.  A highly detailed, comprehensive question set in the `/home/user/test/questions/` directory.
 
-1.  You will be provided with the full text of a story.
-2.  You must generate a list of questions that cover **every single piece of information** in the story, leaving no detail behind. This includes:
-    *   Specific actions characters take.
-    *   Exact dialogues or key phrases spoken.
-    *   Characters' internal thoughts, feelings, and motivations.
-    *   Descriptions of settings, objects, and appearances.
-    *   The sequence of events in the exact order they occur.
-    *   Seemingly minor details that a casual reader might overlook.
+Some chapters have already been processed correctly, but several are incomplete. Your task is to identify the incomplete chapters and process them according to the strict rules below.
 
-3.  **CRITICAL: Question Order:** The questions MUST be in strict chronological order. The first question must be about the very first sentence or event in the story. The final question must be about the very last sentence or event. The sequence of questions should mirror the plot's progression, creating a continuous narrative path when read aloud.
+**Step 1: Identify Incomplete Chapters**
+First, you must determine which chapters still need to be processed. A chapter is considered incomplete if a corresponding text file does not exist in the `/home/user/test/Text/` directory.
 
-4.  **Question Formatting:**
-    *   Phrase questions to prompt for specific details. Use starters like: "What does [Character] do right after...?", "What is [Character] thinking when...?", "What are the exact words used to describe...?", "What specific object does...?"
-    *   Avoid broad, interpretive, or opinion-based questions. Focus solely on factual, text-based recall.
+To do this, compare the file listings of `/home/user/test/questions` and `/home/user/test/Text`. For every `.md` file in `/questions`, ensure a `.md` file with the exact same name exists in `/Text`. Create a list of the missing files from the `/Text` directory. These are the chapters you need to process.
 
-**STORY TEXT FOR QUIZ GENERATION:**
+**Step 2: Process Each Incomplete Chapter**
+For each chapter you identified as incomplete, perform the following two tasks in sequence:
 
-[PASTE THE ENTIRE TEXT OF YOUR STORY HERE]
+**Task A: Text Extraction**
+1.  Locate the corresponding PDF file in `/home/user/test/english textbooks`. The PDF will have the same name as the chapter (e.g., for "The Rattrap", use `The Rattrap.pdf`).
+2.  Read the PDF and extract **only the core narrative text** of the story or poem.
+3.  **CRITICAL RULE:** You must exclude all supplementary material. Do NOT include:
+    *   "About the author" sections.
+    *   "Before you read" sections.
+    *   "Think as you read" boxes or similar in-text prompts.
+    *   Footnotes, word definitions, or glossaries.
+    *   Any post-story content like "Understanding the text," "Working with words," or "Things to do."
+4.  Save this clean text into a new Markdown file (`.md`) inside the `/home/user/test/Text/` directory. The filename must exactly match the chapter name.
+5.  **FORMATTING RULE:** It is essential that you preserve the original indentation of the text as it appears in the source, especially for poems.
 
----
+**Task B: Comprehensive Question Generation**
+1.  Using the clean text file you just created in the `/Text` directory, generate a new set of questions.
+2.  **CRITICAL RULE:** The questions must be exhaustive and cover **every single piece of information** in the text. No detail is too small. This includes specific actions, spoken dialogue, character thoughts, descriptions of people, places, and objects, and the precise sequence of events.
+3.  **CHRONOLOGY RULE:** The questions MUST be in **strict chronological order**, following the narrative of the story exactly from the first sentence to the last.
+4.  **FORMATTING RULES:**
+    *   BEFORE YOU START REFER TO ALREADY PRESENT "The Tiger King.md" at `/home/user/test/questions/` directory for the format.
+    *   Save the questions in the corresponding Markdown file in the `/home/user/test/questions/` directory, overwriting the existing file.
+    *   The questions should be a numbered list.
+    *   The file should start with a level-2 Markdown header of the chapter title (e.g., `## The Rattrap`).
+    *   Do **NOT** include answers to the questions.
 
-**ADDITIONAL INSTRUCTIONS FOR PROCESSING:**
-
-You will be provided with multiple PDF files, each representing a chapter of a larger text. You need to perform the following steps for each PDF file:
-
-1.  **Rename PDF:** Rename the PDF file in the `/english textbooks` folder of current directory to match the chapter name it contains.
-2.  **Extract Text:** Extract the full text content from the (now renamed) PDF file.
-3.  **Generate Questions:** Using the extracted text, apply the "INSTRUCTIONS" outlined above to generate a comprehensive, chronological set of quiz questions covering all details.
-4.  **Save Questions:** Save the generated questions as a Markdown file in the `/questions` folder of the current directory. The filename for the Markdown file should be the same as the chapter name (and the renamed PDF file).
-5. **Sample Questions** have already been given in for one chapter in the "questions" folder, REFER THAT BEFORE YOU EVEN BEGIN
-
----
-
-**BEGIN PROCESSING FILES AND GENERATING QUESTION SETS NOW.**
+Start by identifying the incomplete chapters, and then begin processing the first one on your list.
