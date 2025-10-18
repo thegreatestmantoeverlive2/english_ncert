@@ -1,0 +1,327 @@
+
+[
+    {
+        "question": "What was the little old house out with?",
+        "answer": "The little old house had a small new shed.",
+        "extract": "The little old house was out with a little new shed",
+        "citation": "A Roadside Stand.md#L1:1"
+    },
+    {
+        "question": "Where was the new shed located?",
+        "answer": "The new shed was located at the front edge of the road.",
+        "extract": "In front at the edge of the road where the traffic sped,",
+        "citation": "A Roadside Stand.md#L2:1"
+    },
+    {
+        "question": "What was the traffic doing at the edge of the road?",
+        "answer": "The traffic was speeding by the edge of the road.",
+        "extract": "In front at the edge of the road where the traffic sped,",
+        "citation": "A Roadside Stand.md#L2:1"
+    },
+    {
+        "question": "What did the roadside stand do?",
+        "answer": "The roadside stand pathetically pleaded for customers.",
+        "extract": "A roadside stand that too pathetically pled,",
+        "citation": "A Roadside Stand.md#L3:1"
+    },
+    {
+        "question": "How did it plead?",
+        "answer": "It pleaded pathetically for some of the city money.",
+        "extract": "A roadside stand that too pathetically pled,",
+        "citation": "A Roadside Stand.md#L3:1"
+    },
+    {
+        "question": "What would it not be fair to say the stand was pleading for?",
+        "answer": "It would not be fair to say it was pleading for a dole of bread.",
+        "extract": "It would not be fair to say for a dole of bread,",
+        "citation": "A Roadside Stand.md#L4:1"
+    },
+    {
+        "question": "What was the stand pleading for instead?",
+        "answer": "The stand was pleading for some of the city's money.",
+        "extract": "But for some of the money, the cash, whose flow supports",
+        "citation": "A Roadside Stand.md#L5:1"
+    },
+    {
+        "question": "What does the flow of this money support?",
+        "answer": "The flow of this money supports the flower of cities from sinking.",
+        "extract": "The flower of cities from sinking and withering faint.",
+        "citation": "A Roadside Stand.md#L6:1"
+    },
+    {
+        "question": "What does it prevent the flower of cities from doing?",
+        "answer": "It prevents the flower of cities from sinking and withering.",
+        "extract": "The flower of cities from sinking and withering faint.",
+        "citation": "A Roadside Stand.md#L6:1"
+    },
+    {
+        "question": "How did the polished traffic pass?",
+        "answer": "The polished traffic passed with a mind ahead, focused on their destination.",
+        "extract": "The polished traffic passed with a mind ahead,",
+        "citation": "A Roadside Stand.md#L8:1"
+    },
+    {
+        "question": "What was the state of the traffic if it ever did turn aside for a moment?",
+        "answer": "If the traffic ever turned aside, it was out of sorts.",
+        "extract": "Or if ever aside a moment, then out of sorts",
+        "citation": "A Roadside Stand.md#L9:1"
+    },
+    {
+        "question": "What were they out of sorts about?",
+        "answer": "They were out of sorts about having the landscape marred by the artless paint of the signs.",
+        "extract": "At having the landscape marred with the artless paint",
+        "citation": "A Roadside Stand.md#L10:1"
+    },
+    {
+        "question": "What was the paint on the signs described as?",
+        "answer": "The paint on the signs was described as artless.",
+        "extract": "At having the landscape marred with the artless paint",
+        "citation": "A Roadside Stand.md#L10:1"
+    },
+    {
+        "question": "What was wrong with the signs?",
+        "answer": "The signs had the letters N and S turned wrong.",
+        "extract": "Of signs that with N turned wrong and S turned wrong",
+        "citation": "A Roadside Stand.md#L11:1"
+    },
+    {
+        "question": "What was offered for sale?",
+        "answer": "Wild berries, crook-necked golden squash, and pictures of a beautiful mountain scene were offered for sale.",
+        "extract": "Offered for sale wild berries in wooden quarts,\nOr crook-necked golden squash with silver warts,\nOr beauty rest in a beautiful mountain scene,",
+        "citation": "A Roadside Stand.md#L12:1"
+    },
+    {
+        "question": "In what were the wild berries offered?",
+        "answer": "The wild berries were offered in wooden quarts.",
+        "extract": "Offered for sale wild berries in wooden quarts,",
+        "citation": "A Roadside Stand.md#L12:1"
+    },
+    {
+        "question": "What was the other item offered for sale?",
+        "answer": "Crook-necked golden squash with silver warts was also for sale.",
+        "extract": "Or crook-necked golden squash with silver warts,",
+        "citation": "A Roadside Stand.md#L13:1"
+    },
+    {
+        "question": "What was the third thing offered for sale?",
+        "answer": "The third thing offered for sale was a picture of a beautiful mountain scene.",
+        "extract": "Or beauty rest in a beautiful mountain scene,",
+        "citation": "A Roadside Stand.md#L14:1"
+    },
+    {
+        "question": "What does the poet say to the reader about their money?",
+        "answer": "The poet tells the reader that they have the money, but if they want to be mean, they can keep it.",
+        "extract": "You have the money, but if you want to be mean,\nWhy keep your money (this crossly) and go along.",
+        "citation": "A Roadside Stand.md#L15:1"
+    },
+    {
+        "question": "What does the poet say the reader should do if they want to be mean?",
+        "answer": "The poet says that if the reader wants to be mean, they should keep their money and go along.",
+        "extract": "Why keep your money (this crossly) and go along.",
+        "citation": "A Roadside Stand.md#L16:1"
+    },
+    {
+        "question": "What wouldn't be the poet's complaint?",
+        "answer": "The poet's complaint would not be about the hurt to the scenery.",
+        "extract": "The hurt to the scenery wouldn\u2019t be my complaint",
+        "citation": "A Roadside Stand.md#L17:1"
+    },
+    {
+        "question": "What is the poet's complaint instead?",
+        "answer": "The poet's complaint is the trusting sorrow of what is unsaid by the people at the stand.",
+        "extract": "So much as the trusting sorrow of what is unsaid:",
+        "citation": "A Roadside Stand.md#L18:1"
+    },
+    {
+        "question": "Where is the roadside stand located?",
+        "answer": "The roadside stand is located far from the city.",
+        "extract": "Here far from the city we make our roadside stand",
+        "citation": "A Roadside Stand.md#L19:1"
+    },
+    {
+        "question": "What do the people at the stand ask for?",
+        "answer": "The people at the stand ask for some city money to feel in hand.",
+        "extract": "And ask for some city money to feel in hand",
+        "citation": "A Roadside Stand.md#L20:1"
+    },
+    {
+        "question": "What do they want to do with the city money?",
+        "answer": "They want to see if the city money will make their being expand.",
+        "extract": "To try if it will not make our being expand,",
+        "citation": "A Roadside Stand.md#L21:1"
+    },
+    {
+        "question": "What do they want to try with the money?",
+        "answer": "They want to try to see if the money will give them the life of the moving-pictures' promise.",
+        "extract": "And give us the life of the moving-pictures\u2019 promise",
+        "citation": "A Roadside Stand.md#L22:1"
+    },
+    {
+        "question": "What do they want to be given?",
+        "answer": "They want to be given the life of the moving-pictures' promise.",
+        "extract": "And give us the life of the moving-pictures\u2019 promise",
+        "citation": "A Roadside Stand.md#L22:1"
+    },
+    {
+        "question": "Who is said to be keeping this promise from them?",
+        "answer": "The party in power is said to be keeping the promise from them.",
+        "extract": "That the party in power is said to be keeping from us.",
+        "citation": "A Roadside Stand.md#L23:1"
+    },
+    {
+        "question": "What is in the news?",
+        "answer": "The news is that all the pitiful kin are to be bought out and mercifully gathered in to live in villages.",
+        "extract": "It is in the news that all these pitiful kin\nAre to be bought out and mercifully gathered in",
+        "citation": "A Roadside Stand.md#L25:1"
+    },
+    {
+        "question": "What is to be done with the pitiful kin?",
+        "answer": "The pitiful kin are to be bought out and mercifully gathered in to live in villages.",
+        "extract": "Are to be bought out and mercifully gathered in\nTo live in villages, next to the theatre and the store,",
+        "citation": "A Roadside Stand.md#L26:1"
+    },
+    {
+        "question": "Where are they to be gathered in to live?",
+        "answer": "They are to be gathered in to live in villages, next to the theatre and the store.",
+        "extract": "To live in villages, next to the theatre and the store,",
+        "citation": "A Roadside Stand.md#L27:1"
+    },
+    {
+        "question": "What is the advantage of living in these villages?",
+        "answer": "The advantage of living in these villages is that they won't have to think for themselves anymore.",
+        "extract": "Where they won\u2019t have to think for themselves anymore,",
+        "citation": "A Roadside Stand.md#L28:1"
+    },
+    {
+        "question": "Who are the \"greedy good-doers\" and \"beneficent beasts of prey\"?",
+        "answer": "The \"greedy good-doers\" and \"beneficent beasts of prey\" are those who swarm over the lives of the people, enforcing benefits.",
+        "extract": "While greedy good-doers, beneficent beasts of prey,\nSwarm over their lives enforcing benefits",
+        "citation": "A Roadside Stand.md#L29:1"
+    },
+    {
+        "question": "What do they do to the lives of the people?",
+        "answer": "They swarm over their lives, enforcing benefits that are calculated to soothe them out of their wits.",
+        "extract": "Swarm over their lives enforcing benefits\nThat are calculated to soothe them out of their wits,",
+        "citation": "A Roadside Stand.md#L30:1"
+    },
+    {
+        "question": "What are the benefits calculated to do?",
+        "answer": "The benefits are calculated to soothe them out of their wits.",
+        "extract": "That are calculated to soothe them out of their wits,",
+        "citation": "A Roadside Stand.md#L31:1"
+    },
+    {
+        "question": "What do they teach the people to do?",
+        "answer": "They teach the people how to sleep all day.",
+        "extract": "And by teaching them how to sleep they sleep all day,",
+        "citation": "A Roadside Stand.md#L32:1"
+    },
+    {
+        "question": "What is the result of this teaching?",
+        "answer": "The result of this teaching is that the people sleep all day.",
+        "extract": "And by teaching them how to sleep they sleep all day,",
+        "citation": "A Roadside Stand.md#L32:1"
+    },
+    {
+        "question": "What do they destroy in the process?",
+        "answer": "They destroy their sleeping at night the ancient way.",
+        "extract": "Destroy their sleeping at night the ancient way.",
+        "citation": "A Roadside Stand.md#L33:1"
+    },
+    {
+        "question": "What can the poet hardly bear sometimes?",
+        "answer": "The poet can hardly bear the thought of so much childish longing in vain.",
+        "extract": "Sometimes I feel myself I can hardly bear\nThe thought of so much childish longing in vain,",
+        "citation": "A Roadside Stand.md#L35:1"
+    },
+    {
+        "question": "What is the nature of this childish longing?",
+        "answer": "The childish longing is in vain.",
+        "extract": "The thought of so much childish longing in vain,",
+        "citation": "A Roadside Stand.md#L36:1"
+    },
+    {
+        "question": "Where does the sadness lurk?",
+        "answer": "The sadness lurks near the open window.",
+        "extract": "The sadness that lurks near the open window there,",
+        "citation": "A Roadside Stand.md#L37:1"
+    },
+    {
+        "question": "What does this sadness do all day?",
+        "answer": "The sadness waits all day in almost open prayer for a car to stop.",
+        "extract": "That waits all day in almost open prayer",
+        "citation": "A Roadside Stand.md#L38:1"
+    },
+    {
+        "question": "What is it waiting for?",
+        "answer": "It is waiting for the squeal of brakes, the sound of a stopping car.",
+        "extract": "For the squeal of brakes, the sound of a stopping car,",
+        "citation": "A Roadside Stand.md#L39:1"
+    },
+    {
+        "question": "How many selfish cars pass by?",
+        "answer": "A thousand selfish cars pass by.",
+        "extract": "Of all the thousand selfish cars that pass,",
+        "citation": "A Roadside Stand.md#L40:1"
+    },
+    {
+        "question": "What is the one thing the people at the stand want a car to do?",
+        "answer": "They want just one car to inquire what a farmer's prices are.",
+        "extract": "Just one to inquire what a farmer\u2019s prices are.",
+        "citation": "A Roadside Stand.md#L41:1"
+    },
+    {
+        "question": "What did one car stop for?",
+        "answer": "One car stopped only to plow up grass in using the yard to back and turn around.",
+        "extract": "And one did stop, but only to plow up grass\nIn using the yard to back and turn around;",
+        "citation": "A Roadside Stand.md#L42:1"
+    },
+    {
+        "question": "What did another car stop for?",
+        "answer": "Another car stopped to ask the way to where it was bound.",
+        "extract": "And another to ask the way to where it was bound;",
+        "citation": "A Roadside Stand.md#L44:1"
+    },
+    {
+        "question": "What did a third car stop for?",
+        "answer": "A third car stopped to ask if they could sell it a gallon of gas.",
+        "extract": "And another to ask could they sell it a gallon of gas",
+        "citation": "A Roadside Stand.md#L45:1"
+    },
+    {
+        "question": "What was the poet's reaction to this?",
+        "answer": "The poet was cross with them for not seeing that the stand had no gas.",
+        "extract": "They couldn\u2019t (this crossly); they had none, didn\u2019t it see?",
+        "citation": "A Roadside Stand.md#L46:1"
+    },
+    {
+        "question": "What has never been found in country money?",
+        "answer": "The requisite lift of spirit has never been found in country money.",
+        "extract": "The requisite lift of spirit has never been found,",
+        "citation": "A Roadside Stand.md#L49:1"
+    },
+    {
+        "question": "What does the voice of the country seem to do?",
+        "answer": "The voice of the country seems to complain.",
+        "extract": "Or so the voice of the country seems to complain,",
+        "citation": "A Roadside Stand.md#L50:1"
+    },
+    {
+        "question": "What great relief does the poet own it would be?",
+        "answer": "The poet owns it would be a great relief to put these people at one stroke out of their pain.",
+        "extract": "I can\u2019t help owning the great relief it would be\nTo put these people at one stroke out of their pain.",
+        "citation": "A Roadside Stand.md#L51:1"
+    },
+    {
+        "question": "What does the poet wonder the next day?",
+        "answer": "The next day, the poet wonders how they would like it if someone came to them and offered to put them gently out of their pain.",
+        "extract": "I wonder how I should like you to come to me\nAnd offer to put me gently out of my pain.",
+        "citation": "A Roadside Stand.md#L54:1"
+    },
+    {
+        "question": "What does the poet wonder if the reader would do?",
+        "answer": "The poet wonders if the reader would come and offer to put them gently out of their pain.",
+        "extract": "I wonder how I should like you to come to me\nAnd offer to put me gently out of my pain.",
+        "citation": "A Roadside Stand.md#L54:1"
+    }
+]
