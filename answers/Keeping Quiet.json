@@ -1,0 +1,230 @@
+[
+    {
+        "question": "What is the first thing we will do?",
+        "answer": "The first thing we will do is count to twelve and all keep still.",
+        "extract": "Now we will count to twelve\nand we will all keep still.",
+        "citation": "Keeping Quiet.md#L1:1"
+    },
+    {
+        "question": "What is the result of counting to twelve?",
+        "answer": "The result of counting to twelve is that we will all keep still.",
+        "extract": "Now we will count to twelve\nand we will all keep still.",
+        "citation": "Keeping Quiet.md#L1:1"
+    },
+    {
+        "question": "What is the scope of this stillness?",
+        "answer": "The scope of this stillness is the face of the Earth.",
+        "extract": "For once on the face of the Earth",
+        "citation": "Keeping Quiet.md#L4:1"
+    },
+    {
+        "question": "What is the suggested frequency of the following actions?",
+        "answer": "The suggested frequency of the following actions is for once.",
+        "extract": "For once on the face of the Earth",
+        "citation": "Keeping Quiet.md#L4:1"
+    },
+    {
+        "question": "Where should this action take place?",
+        "answer": "This action should take place on the face of the Earth.",
+        "extract": "For once on the face of the Earth",
+        "citation": "Keeping Quiet.md#L4:1"
+    },
+    {
+        "question": "What is the first restriction suggested?",
+        "answer": "The first restriction suggested is to not speak in any language.",
+        "extract": "let\u2019s not speak in any language,",
+        "citation": "Keeping Quiet.md#L5:1"
+    },
+    {
+        "question": "What is the second restriction?",
+        "answer": "The second restriction is to stop for one second.",
+        "extract": "let\u2019s stop for one second,",
+        "citation": "Keeping Quiet.md#L6:1"
+    },
+    {
+        "question": "For how long should we stop?",
+        "answer": "We should stop for one second.",
+        "extract": "let\u2019s stop for one second,",
+        "citation": "Keeping Quiet.md#L6:1"
+    },
+    {
+        "question": "What is the third restriction?",
+        "answer": "The third restriction is to not move our arms so much.",
+        "extract": "and not move our arms so much.",
+        "citation": "Keeping Quiet.md#L7:1"
+    },
+    {
+        "question": "What kind of moment would this create?",
+        "answer": "This would create an exotic moment.",
+        "extract": "It would be an exotic moment",
+        "citation": "Keeping Quiet.md#L9:1"
+    },
+    {
+        "question": "What two things would be absent in this moment?",
+        "answer": "Rush and engines would be absent in this moment.",
+        "extract": "without rush, without engines,",
+        "citation": "Keeping Quiet.md#L10:1"
+    },
+    {
+        "question": "What would be the state of everyone?",
+        "answer": "Everyone would be together in a sudden strangeness.",
+        "extract": "we would all be together\nin a sudden strangeness.",
+        "citation": "Keeping Quiet.md#L11:1"
+    },
+    {
+        "question": "What would be the feeling of this togetherness?",
+        "answer": "The feeling of this togetherness would be a sudden strangeness.",
+        "extract": "in a sudden strangeness.",
+        "citation": "Keeping Quiet.md#L12:1"
+    },
+    {
+        "question": "Who would be affected in the cold sea?",
+        "answer": "Fishermen in the cold sea would be affected.",
+        "extract": "Fishermen in the cold sea",
+        "citation": "Keeping Quiet.md#L14:1"
+    },
+    {
+        "question": "What would the fishermen not do?",
+        "answer": "The fishermen would not harm whales.",
+        "extract": "would not harm whales",
+        "citation": "Keeping Quiet.md#L15:1"
+    },
+    {
+        "question": "Who is the second person mentioned who would be affected?",
+        "answer": "The second person mentioned who would be affected is the man gathering salt.",
+        "extract": "and the man gathering salt",
+        "citation": "Keeping Quiet.md#L16:1"
+    },
+    {
+        "question": "What would this man be doing?",
+        "answer": "This man would be looking at his hurt hands.",
+        "extract": "would look at his hurt hands.",
+        "citation": "Keeping Quiet.md#L17:1"
+    },
+    {
+        "question": "What would he look at?",
+        "answer": "He would look at his hurt hands.",
+        "extract": "would look at his hurt hands.",
+        "citation": "Keeping Quiet.md#L17:1"
+    },
+    {
+        "question": "Who is mentioned next?",
+        "answer": "Those who prepare green wars, wars with gas, wars with fire are mentioned next.",
+        "extract": "Those who prepare green wars,\nwars with gas, wars with fire,",
+        "citation": "Keeping Quiet.md#L19:1"
+    },
+    {
+        "question": "What kind of wars do they prepare?",
+        "answer": "They prepare green wars, wars with gas, and wars with fire.",
+        "extract": "Those who prepare green wars,\nwars with gas, wars with fire,",
+        "citation": "Keeping Quiet.md#L19:1"
+    },
+    {
+        "question": "What is the outcome of these wars?",
+        "answer": "The outcome of these wars is victory with no survivors.",
+        "extract": "victory with no survivors,",
+        "citation": "Keeping Quiet.md#L21:1"
+    },
+    {
+        "question": "What would these people put on?",
+        "answer": "These people would put on clean clothes.",
+        "extract": "would put on clean clothes",
+        "citation": "Keeping Quiet.md#L22:1"
+    },
+    {
+        "question": "What would they do after putting on clean clothes?",
+        "answer": "After putting on clean clothes, they would walk about with their brothers in the shade, doing nothing.",
+        "extract": "and walk about with their\nbrothers\nin the shade, doing nothing.",
+        "citation": "Keeping Quiet.md#L23:1"
+    },
+    {
+        "question": "With whom would they walk?",
+        "answer": "They would walk with their brothers.",
+        "extract": "and walk about with their\nbrothers",
+        "citation": "Keeping Quiet.md#L23:1"
+    },
+    {
+        "question": "Where would they walk?",
+        "answer": "They would walk in the shade.",
+        "extract": "in the shade, doing nothing.",
+        "citation": "Keeping Quiet.md#L25:1"
+    },
+    {
+        "question": "What would they be doing?",
+        "answer": "They would be doing nothing.",
+        "extract": "doing nothing.",
+        "citation": "Keeping Quiet.md#L25:1"
+    },
+    {
+        "question": "What does the poet not want his desire to be confused with?",
+        "answer": "The poet does not want his desire to be confused with total inactivity.",
+        "extract": "What I want should not be\nconfused\nwith total inactivity.",
+        "citation": "Keeping Quiet.md#L27:1"
+    },
+    {
+        "question": "What is life about, according to the poet?",
+        "answer": "According to the poet, life is what it is about.",
+        "extract": "Life is what it is about;",
+        "citation": "Keeping Quiet.md#L30:1"
+    },
+    {
+        "question": "What does the poet want no association with?",
+        "answer": "The poet wants no association with death.",
+        "extract": "I want no truck with death.",
+        "citation": "Keeping Quiet.md#L31:1"
+    },
+    {
+        "question": "What is our collective mindset?",
+        "answer": "Our collective mindset is single-minded about keeping our lives moving.",
+        "extract": "If we were not so single-minded\nabout keeping our lives moving,",
+        "citation": "Keeping Quiet.md#L33:1"
+    },
+    {
+        "question": "What is the hypothetical scenario the poet presents?",
+        "answer": "The poet presents the hypothetical scenario of us doing nothing for once.",
+        "extract": "and for once could do nothing,",
+        "citation": "Keeping Quiet.md#L35:1"
+    },
+    {
+        "question": "What might interrupt our sadness?",
+        "answer": "A huge silence might interrupt our sadness.",
+        "extract": "perhaps a huge silence\nmight interrupt this sadness",
+        "citation": "Keeping Quiet.md#L36:1"
+    },
+    {
+        "question": "What is the nature of this sadness?",
+        "answer": "The nature of this sadness is of never understanding ourselves and of threatening ourselves with death.",
+        "extract": "of never understanding ourselves\nand of threatening ourselves with\ndeath.",
+        "citation": "Keeping Quiet.md#L38:1"
+    },
+    {
+        "question": "What is the other aspect of this sadness?",
+        "answer": "The other aspect of this sadness is threatening ourselves with death.",
+        "extract": "and of threatening ourselves with\ndeath.",
+        "citation": "Keeping Quiet.md#L39:1"
+    },
+    {
+        "question": "What can the Earth teach us?",
+        "answer": "The Earth can teach us that when everything seems dead, it later proves to be alive.",
+        "extract": "Perhaps the Earth can teach us\nas when everything seems dead\nand later proves to be alive.",
+        "citation": "Keeping Quiet.md#L42:1"
+    },
+    {
+        "question": "When can the Earth teach us this lesson?",
+        "answer": "The Earth can teach us this lesson when everything seems dead.",
+        "extract": "as when everything seems dead\nand later proves to be alive.",
+        "citation": "Keeping Quiet.md#L43:1"
+    },
+    {
+        "question": "What is the final action of the poet?",
+        "answer": "The final action of the poet is to count up to twelve.",
+        "extract": "Now I\u2019ll count up to twelve",
+        "citation": "Keeping Quiet.md#L46:1"
+    },
+    {
+        "question": "What is the final instruction to the reader?",
+        "answer": "The final instruction to the reader is to keep quiet while the poet goes.",
+        "extract": "and you keep quiet and I will go.",
+        "citation": "Keeping Quiet.md#L47:1"
+    }
+]

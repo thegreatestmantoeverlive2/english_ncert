@@ -1,0 +1,1070 @@
+[
+    {
+        "question": "When did the author first visit Gandhi?",
+        "answer": "The author first visited Gandhi in 1942.",
+        "extract": "When I first visited Gandhi in 1942 at his ashram in Sevagram, in central India, he said, \u201cI will tell you how it happened that I decided to urge the departure of the British. It was in 1917.\u201d",
+        "citation": "Indigo.md#L1:1"
+    },
+    {
+        "question": "Where was his ashram?",
+        "answer": "His ashram was in Sevagram, in central India.",
+        "extract": "When I first visited Gandhi in 1942 at his ashram in Sevagram, in central India, he said, \u201cI will tell you how it happened that I decided to urge the departure of of the British. It was in 1917.\u201d",
+        "citation": "Indigo.md#L1:1"
+    },
+    {
+        "question": "What did Gandhi say he would tell the author?",
+        "answer": "Gandhi said he would tell the author how it happened that he decided to urge the departure of the British.",
+        "extract": "he said, \u201cI will tell you how it happened that I decided to urge the departure of the British. It was in 1917.\u201d",
+        "citation": "Indigo.md#L1:1"
+    },
+    {
+        "question": "When did this happen?",
+        "answer": "This happened in 1917.",
+        "extract": "It was in 1917.\u201d",
+        "citation": "Indigo.md#L1:1"
+    },
+    {
+        "question": "Where had Gandhi gone in December 1916?",
+        "answer": "Gandhi had gone to the December 1916 annual convention of the Indian National Congress party in Lucknow.",
+        "extract": "He had gone to the December 1916 annual convention of the Indian National Congress party in Lucknow.",
+        "citation": "Indigo.md#L3:1"
+    },
+    {
+        "question": "How many delegates and visitors were there?",
+        "answer": "There were 2,301 delegates and many visitors.",
+        "extract": "There were 2,301 delegates and many visitors.",
+        "citation": "Indigo.md#L3:1"
+    },
+    {
+        "question": "Who came up to Gandhi during the proceedings?",
+        "answer": "A peasant named Rajkumar Shukla came up to Gandhi during the proceedings.",
+        "extract": "During the proceedings, Gandhi recounted, \u201ca peasant came up to me looking like any other peasant in India, poor and emaciated, and said, \u2018I am Rajkumar Shukla. I am from Champaran, and I want you to come to my district\u2019!\u201d",
+        "citation": "Indigo.md#L4:1"
+    },
+    {
+        "question": "What did he look like?",
+        "answer": "He looked like any other peasant in India, poor and emaciated.",
+        "extract": "looking like any other peasant in India, poor and emaciated,",
+        "citation": "Indigo.md#L4:1"
+    },
+    {
+        "question": "What did he say his name was?",
+        "answer": "He said his name was Rajkumar Shukla.",
+        "extract": "and said, \u2018I am Rajkumar Shukla.",
+        "citation": "Indigo.md#L4:1"
+    },
+    {
+        "question": "Where was he from?",
+        "answer": "He was from Champaran.",
+        "extract": "I am from Champaran, and I want you to come to my district\u2019!\u201d",
+        "citation": "Indigo.md#L4:1"
+    },
+    {
+        "question": "What did he want Gandhi to do?",
+        "answer": "He wanted Gandhi to come to his district.",
+        "extract": "and I want you to come to my district\u2019!\u201d",
+        "citation": "Indigo.md#L4:1"
+    },
+    {
+        "question": "Had Gandhi ever heard of the place?",
+        "answer": "No, Gandhi had never heard of the place.",
+        "extract": "Gandhi had never heard of the place.",
+        "citation": "Indigo.md#L5:1"
+    },
+    {
+        "question": "Where was Champaran?",
+        "answer": "Champaran was in the foothills of the towering Himalayas, near the kingdom of Nepal.",
+        "extract": "It was in the foothills of the towering Himalayas, near the kingdom of Nepal.",
+        "citation": "Indigo.md#L5:1"
+    },
+    {
+        "question": "What were the Champaran peasants?",
+        "answer": "The Champaran peasants were sharecroppers.",
+        "extract": "Under an ancient arrangement, the Champaran peasants were sharecroppers.",
+        "citation": "Indigo.md#L7:1"
+    },
+    {
+        "question": "What was Rajkumar Shukla like?",
+        "answer": "Rajkumar Shukla was illiterate but resolute.",
+        "extract": "Rajkumar Shukla was one of them. He was illiterate but resolute.",
+        "citation": "Indigo.md#L7:1"
+    },
+    {
+        "question": "Why had he come to the Congress session?",
+        "answer": "He had come to the Congress session to complain about the injustice of the landlord system in Bihar.",
+        "extract": "He had come to the Congress session to complain about the injustice of the landlord system in Bihar, and somebody had probably said, \u201cSpeak to Gandhi.\u201d",
+        "citation": "Indigo.md#L8:1"
+    },
+    {
+        "question": "What had somebody probably said to him?",
+        "answer": "Somebody had probably said, \u201cSpeak to Gandhi.\u201d",
+        "extract": "and somebody had probably said, \u201cSpeak to Gandhi.\u201d",
+        "citation": "Indigo.md#L8:1"
+    },
+    {
+        "question": "What did Gandhi tell Shukla?",
+        "answer": "Gandhi told Shukla he had an appointment in Cawnpore and was also committed to go to other parts of India.",
+        "extract": "Gandhi told Shukla he had an appointment in Cawnpore and was also committed to go to other parts of India.",
+        "citation": "Indigo.md#L10:1"
+    },
+    {
+        "question": "What did Shukla do?",
+        "answer": "Shukla accompanied him everywhere.",
+        "extract": "Shukla accompanied him everywhere.",
+        "citation": "Indigo.md#L10:1"
+    },
+    {
+        "question": "What did Gandhi do then?",
+        "answer": "Then Gandhi returned to his ashram near Ahmedabad.",
+        "extract": "Then Gandhi returned to his ashram near Ahmedabad.",
+        "citation": "Indigo.md#L11:1"
+    },
+    {
+        "question": "What did Shukla do?",
+        "answer": "Shukla followed him to the ashram.",
+        "extract": "Shukla followed him to the ashram.",
+        "citation": "Indigo.md#L11:1"
+    },
+    {
+        "question": "For how long did he never leave Gandhi's side?",
+        "answer": "For weeks he never left Gandhi\u2019s side.",
+        "extract": "For weeks he never left Gandhi\u2019s side.",
+        "citation": "Indigo.md#L12:1"
+    },
+    {
+        "question": "What did Shukla beg Gandhi to do?",
+        "answer": "Shukla begged Gandhi to fix a date.",
+        "extract": "\u201cFix a date,\u201d he begged.",
+        "citation": "Indigo.md#L14:1"
+    },
+    {
+        "question": "What did Gandhi say, impressed by the sharecropper's tenacity and story?",
+        "answer": "Impressed by the sharecropper\u2019s tenacity and story Gandhi said, \u201cI have to be in Calcutta on such-and-such a date. Come and meet me and take me from there.\u201d",
+        "extract": "Impressed by the sharecropper\u2019s tenacity and story Gandhi said, \u201cI have to be in Calcutta on such-and-such a date. Come and meet me and take me from there.\u201d",
+        "citation": "Indigo.md#L16:1"
+    },
+    {
+        "question": "What was Shukla doing when Gandhi arrived in Calcutta?",
+        "answer": "Shukla was sitting on his haunches at the appointed spot in Calcutta when Gandhi arrived; he waited till Gandhi was free.",
+        "extract": "Shukla was sitting on his haunches at the appointed spot in Calcutta when Gandhi arrived; he waited till Gandhi was free.",
+        "citation": "Indigo.md#L18:1"
+    },
+    {
+        "question": "What did they do then?",
+        "answer": "Then the two of them boarded a train for the city of Patna in Bihar.",
+        "extract": "Then the two of them boarded a train for the city of Patna in Bihar.",
+        "citation": "Indigo.md#L19:1"
+    },
+    {
+        "question": "Where did Shukla lead him?",
+        "answer": "Shukla led him to the house of a lawyer named Rajendra Prasad.",
+        "extract": "There Shukla led him to the house of a lawyer named Rajendra Prasad who later became President of the Congress party and of India.",
+        "citation": "Indigo.md#L19:1"
+    },
+    {
+        "question": "Who was Rajendra Prasad?",
+        "answer": "Rajendra Prasad was a lawyer who later became President of the Congress party and of India.",
+        "extract": "Rajendra Prasad who later became President of the Congress party and of India.",
+        "citation": "Indigo.md#L19:1"
+    },
+    {
+        "question": "Was Rajendra Prasad at home?",
+        "answer": "No, Rajendra Prasad was out of town.",
+        "extract": "Rajendra Prasad was out of town, but the servants knew Shukla as a poor yeoman who pestered their master to help the indigo sharecroppers.",
+        "citation": "Indigo.md#L20:1"
+    },
+    {
+        "question": "What did the servants know Shukla as?",
+        "answer": "The servants knew Shukla as a poor yeoman who pestered their master to help the indigo sharecroppers.",
+        "extract": "the servants knew Shukla as a poor yeoman who pestered their master to help the indigo sharecroppers.",
+        "citation": "Indigo.md#L20:1"
+    },
+    {
+        "question": "What did they let him do?",
+        "answer": "They let him stay on the grounds with his companion, Gandhi.",
+        "extract": "So they let him stay on the grounds with his companion, Gandhi, whom they took to be another peasant.",
+        "citation": "Indigo.md#L21:1"
+    },
+    {
+        "question": "Who did they take Gandhi to be?",
+        "answer": "They took Gandhi to be another peasant.",
+        "extract": "whom they took to be another peasant.",
+        "citation": "Indigo.md#L21:1"
+    },
+    {
+        "question": "What was Gandhi not permitted to do?",
+        "answer": "Gandhi was not permitted to draw water from the well.",
+        "extract": "But Gandhi was not permitted to draw water from the well lest some drops from his bucket pollute the entire source; how did they know that he was not an untouchable?",
+        "citation": "Indigo.md#L22:1"
+    },
+    {
+        "question": "Why was he not permitted to do this?",
+        "answer": "He was not permitted to draw water from the well lest some drops from his bucket pollute the entire source, as they did not know that he was not an untouchable.",
+        "extract": "lest some drops from his bucket pollute the entire source; how did they know that he was not an untouchable?",
+        "citation": "Indigo.md#L22:1"
+    },
+    {
+        "question": "Where did Gandhi decide to go first?",
+        "answer": "Gandhi decided to go first to Muzzafarpur.",
+        "extract": "Gandhi decided to go first to Muzzafarpur, which was en route to Champaran, to obtain more complete information about conditions than Shukla was capable of imparting.",
+        "citation": "Indigo.md#L24:1"
+    },
+    {
+        "question": "Why did he decide to go there?",
+        "answer": "He decided to go there to obtain more complete information about conditions than Shukla was capable of imparting.",
+        "extract": "to obtain more complete information about conditions than Shukla was capable of imparting.",
+        "citation": "Indigo.md#L24:1"
+    },
+    {
+        "question": "What did he send to Professor J.B. Kripalani?",
+        "answer": "He sent a telegram to Professor J.B. Kripalani.",
+        "extract": "He accordingly sent a telegram to Professor J.B. Kripalani, of the Arts College in Muzzafarpur, whom he had seen at Tagore\u2019s Shantiniketan school.",
+        "citation": "Indigo.md#L25:1"
+    },
+    {
+        "question": "Where had he seen him?",
+        "answer": "He had seen him at Tagore\u2019s Shantiniketan school.",
+        "extract": "whom he had seen at Tagore\u2019s Shantiniketan school.",
+        "citation": "Indigo.md#L25:1"
+    },
+    {
+        "question": "When did the train arrive?",
+        "answer": "The train arrived at midnight, 15 April 1917.",
+        "extract": "The train arrived at midnight, 15 April 1917.",
+        "citation": "Indigo.md#L26:1"
+    },
+    {
+        "question": "Who was waiting at the station?",
+        "answer": "Kripalani was waiting at the station with a large body of students.",
+        "extract": "Kripalani was waiting at the station with a large body of students.",
+        "citation": "Indigo.md#L26:1"
+    },
+    {
+        "question": "Where did Gandhi stay for two days?",
+        "answer": "Gandhi stayed for two days in the home of Professor Malkani.",
+        "extract": "Gandhi stayed there for two days in the home of Professor Malkani, a teacher in a government school.",
+        "citation": "Indigo.md#L27:1"
+    },
+    {
+        "question": "What was Professor Malkani?",
+        "answer": "Professor Malkani was a teacher in a government school.",
+        "extract": "Professor Malkani, a teacher in a government school.",
+        "citation": "Indigo.md#L27:1"
+    },
+    {
+        "question": "What did Gandhi comment was an extraordinary thing 'in those days'?",
+        "answer": "Gandhi commented that it was an extraordinary thing 'in those days' for a government professor to harbour a man like him.",
+        "extract": "\u201cIt was an extraordinary thing \u2018in those days,\u201d Gandhi commented, \u201cfor a government professor to harbour a man like me\u201d.",
+        "citation": "Indigo.md#L28:1"
+    },
+    {
+        "question": "What were the Indians in smaller localities afraid to do?",
+        "answer": "The Indians in smaller localities were afraid to show sympathy for advocates of home-rule.",
+        "extract": "In smaller localities, the Indians were afraid to show sympathy for advocates of home-rule.",
+        "citation": "Indigo.md#L28:1"
+    },
+    {
+        "question": "What spread quickly through Muzzafarpur and to Champaran?",
+        "answer": "The news of Gandhi\u2019s advent and of the nature of his mission spread quickly through Muzzafarpur and to Champaran.",
+        "extract": "The news of Gandhi\u2019s advent and of the nature of his mission spread quickly through Muzzafarpur and to Champaran.",
+        "citation": "Indigo.md#L30:1"
+    },
+    {
+        "question": "Who began arriving to see their champion?",
+        "answer": "Sharecroppers from Champaran began arriving to see their champion.",
+        "extract": "Sharecroppers from Champaran began arriving on foot and by conveyance to see their champion.",
+        "citation": "Indigo.md#L31:1"
+    },
+    {
+        "question": "Who called on Gandhi to brief him?",
+        "answer": "Muzzafarpur lawyers called on Gandhi to brief him.",
+        "extract": "Muzzafarpur lawyers called on Gandhi to brief him; they frequently represented peasant groups in court; they told him about their cases and reported the size of their fee.",
+        "citation": "Indigo.md#L32:1"
+    },
+    {
+        "question": "What did Gandhi chide the lawyers for?",
+        "answer": "Gandhi chided the lawyers for collecting big fee from the sharecroppers.",
+        "extract": "Gandhi chided the lawyers for collecting big fee from the sharecroppers.",
+        "citation": "Indigo.md#L34:1"
+    },
+    {
+        "question": "What did he say he had come to the conclusion of?",
+        "answer": "He said he had come to the conclusion that they should stop going to law courts.",
+        "extract": "He said, \u201cI have come to the conclusion that we should stop going to law courts.",
+        "citation": "Indigo.md#L34:1"
+    },
+    {
+        "question": "What did he say about taking such cases to the courts?",
+        "answer": "He said that taking such cases to the courts does little good.",
+        "extract": "Taking such cases to the courts does litte good.",
+        "citation": "Indigo.md#L35:1"
+    },
+    {
+        "question": "What is the real relief for the peasants?",
+        "answer": "The real relief for the peasants is to be free from fear.",
+        "extract": "The real relief for them is to be free from fear.\u201d",
+        "citation": "Indigo.md#L36:1"
+    },
+    {
+        "question": "How was most of the arable land in the Champaran district divided?",
+        "answer": "Most of the arable land in the Champaran district was divided into large estates owned by Englishmen and worked by Indian tenants.",
+        "extract": "Most of the arable land in the Champaran district was divided into large estates owned by Englishmen and worked by Indian tenants.",
+        "citation": "Indigo.md#L38:1"
+    },
+    {
+        "question": "Who owned these large estates?",
+        "answer": "Englishmen owned these large estates.",
+        "extract": "Most of the arable land in the Champaran district was divided into large estates owned by Englishmen and worked by Indian tenants.",
+        "citation": "Indigo.md#L38:1"
+    },
+    {
+        "question": "Who worked them?",
+        "answer": "Indian tenants worked them.",
+        "extract": "Most of the arable land in the Champaran district was divided into large estates owned by Englishmen and worked by Indian tenants.",
+        "citation": "Indigo.md#L38:1"
+    },
+    {
+        "question": "What was the chief commercial crop?",
+        "answer": "The chief commercial crop was indigo.",
+        "extract": "The chief commercial crop was indigo.",
+        "citation": "Indigo.md#L39:1"
+    },
+    {
+        "question": "What did the landlords compel all tenants to do?",
+        "answer": "The landlords compelled all tenants to plant three twentieths or 15 per cent of their holdings with indigo and surrender the entire indigo harvest as rent.",
+        "extract": "The landlords compelled all tenants to plant three twentieths or 15 per cent of their holdings with indigo and surrender the entire indigo harvest as rent.",
+        "citation": "Indigo.md#L39:1"
+    },
+    {
+        "question": "What was this done by?",
+        "answer": "This was done by long-term contract.",
+        "extract": "This was done by long-term contract.",
+        "citation": "Indigo.md#L40:1"
+    },
+    {
+        "question": "What did the landlords learn presently?",
+        "answer": "The landlords learned that Germany had developed synthetic indigo.",
+        "extract": "Presently, the landlords learned that Germany had developed synthetic indigo.",
+        "citation": "Indigo.md#L42:1"
+    },
+    {
+        "question": "What did they obtain from the sharecroppers?",
+        "answer": "They obtained agreements from the sharecroppers to pay them compensation for being released from the 15 per cent arrangement.",
+        "extract": "They, thereupon, obtained agreements from the sharecroppers to pay them compensation for being released from the 15 per cent arrangement.",
+        "citation": "Indigo.md#L42:1"
+    },
+    {
+        "question": "What was the sharecropping arrangement to the peasants?",
+        "answer": "The sharecropping arrangement was irksome to the peasants.",
+        "extract": "The sharecropping arrangement was irksome to the peasants, and many signed willingly.",
+        "citation": "Indigo.md#L44:1"
+    },
+    {
+        "question": "Who engaged lawyers?",
+        "answer": "Those who resisted engaged lawyers.",
+        "extract": "Those who resisted, engaged lawyers; the landlords hired thugs.",
+        "citation": "Indigo.md#L45:1"
+    },
+    {
+        "question": "Who did the landlords hire?",
+        "answer": "The landlords hired thugs.",
+        "extract": "the landlords hired thugs.",
+        "citation": "Indigo.md#L45:1"
+    },
+    {
+        "question": "What did the illiterate peasants who had signed want?",
+        "answer": "The illiterate peasants who had signed wanted their money back.",
+        "extract": "Meanwhile, the information about synthetic indigo reached the illiterate peasants who had signed, and they wanted their money back.",
+        "citation": "Indigo.md#L46:1"
+    },
+    {
+        "question": "At what point did Gandhi arrive in Champaran?",
+        "answer": "Gandhi arrived in Champaran at this point.",
+        "extract": "At this point Gandhi arrived in Champaran.",
+        "citation": "Indigo.md#L48:1"
+    },
+    {
+        "question": "What did he do first?",
+        "answer": "He began by trying to get the facts.",
+        "extract": "He began by trying to get the facts.",
+        "citation": "Indigo.md#L50:1"
+    },
+    {
+        "question": "Who did he visit first?",
+        "answer": "He first visited the secretary of the British landlord\u2019s association.",
+        "extract": "First he visited the secretary of the British landlord\u2019s association.",
+        "citation": "Indigo.md#L50:1"
+    },
+    {
+        "question": "What did the secretary tell him?",
+        "answer": "The secretary told him that they could give no information to an outsider.",
+        "extract": "The secretary told him that they could give no information to an outsider.",
+        "citation": "Indigo.md#L51:1"
+    },
+    {
+        "question": "What did Gandhi answer?",
+        "answer": "Gandhi answered that he was no outsider.",
+        "extract": "Gandhi answered that he was no outsider.",
+        "citation": "Indigo.md#L51:1"
+    },
+    {
+        "question": "Who did Gandhi call on next?",
+        "answer": "Gandhi called on the British official commissioner of the Tirhut division next.",
+        "extract": "Next, Gandhi called on the British official commissioner of the Tirhut division in which the Champaran district lay.",
+        "citation": "Indigo.md#L53:1"
+    },
+    {
+        "question": "What did the commissioner do?",
+        "answer": "The commissioner proceeded to bully him and advised him forthwith to leave Tirhut.",
+        "extract": "\u201cThe commissioner,\u201d Gandhi reports, \u201cproceeded to bully me and advised me forthwith to leave Tirhut.\u201d",
+        "citation": "Indigo.md#L53:1"
+    },
+    {
+        "question": "Did Gandhi leave?",
+        "answer": "No, Gandhi did not leave.",
+        "extract": "Gandhi did not leave.",
+        "citation": "Indigo.md#L55:1"
+    },
+    {
+        "question": "Where did he proceed to?",
+        "answer": "He proceeded to Motihari, the capital of Champaran.",
+        "extract": "Instead he proceeded to Motihari, the capital of Champaran.",
+        "citation": "Indigo.md#L55:1"
+    },
+    {
+        "question": "Who accompanied him?",
+        "answer": "Several lawyers accompanied him.",
+        "extract": "Several lawyers accompanied him.",
+        "citation": "Indigo.md#L56:1"
+    },
+    {
+        "question": "What happened at the railway station?",
+        "answer": "At the railway station, a vast multitude greeted Gandhi.",
+        "extract": "At the railway station, a vast multitude greeted Gandhi.",
+        "citation": "Indigo.md#L56:1"
+    },
+    {
+        "question": "What did he do at the house he went to?",
+        "answer": "He went to a house and, using it as headquarters, continued his investigations.",
+        "extract": "He went to a house and, using it as headquarters, continued his investigations.",
+        "citation": "Indigo.md#L57:1"
+    },
+    {
+        "question": "What report came in?",
+        "answer": "A report came in that a peasant had been maltreated in a nearby village.",
+        "extract": "A report came in that a peasant had been maltreated in a nearby village.",
+        "citation": "Indigo.md#L58:1"
+    },
+    {
+        "question": "What did Gandhi decide to do?",
+        "answer": "Gandhi decided to go and see.",
+        "extract": "Gandhi decided to go and see; the next morning he started out on the back of an elephant.",
+        "citation": "Indigo.md#L58:1"
+    },
+    {
+        "question": "What did he start out on the next morning?",
+        "answer": "The next morning he started out on the back of an elephant.",
+        "extract": "the next morning he started out on the back of an elephant.",
+        "citation": "Indigo.md#L58:1"
+    },
+    {
+        "question": "What happened when he had not proceeded far?",
+        "answer": "When he had not proceeded far, the police superintendent\u2019s messenger overtook him.",
+        "extract": "He had not proceeded far when the police superintendent\u2019s messenger overtook him and ordered him to return to town in his carriage.",
+        "citation": "Indigo.md#L59:1"
+    },
+    {
+        "question": "What did the police superintendent's messenger order him to do?",
+        "answer": "The police superintendent's messenger ordered him to return to town in his carriage.",
+        "extract": "ordered him to return to town in his carriage.",
+        "citation": "Indigo.md#L59:1"
+    },
+    {
+        "question": "Did Gandhi comply?",
+        "answer": "Yes, Gandhi complied.",
+        "extract": "Gandhi complied.",
+        "citation": "Indigo.md#L60:1"
+    },
+    {
+        "question": "What did the messenger do?",
+        "answer": "The messenger drove Gandhi home.",
+        "extract": "The messenger drove Gandhi home where he served him with an official notice to quit Champaran immediately.",
+        "citation": "Indigo.md#L60:1"
+    },
+    {
+        "question": "What did he serve him with?",
+        "answer": "He served him with an official notice to quit Champaran immediately.",
+        "extract": "where he served him with an official notice to quit Champaran immediately.",
+        "citation": "Indigo.md#L60:1"
+    },
+    {
+        "question": "What did Gandhi do with the receipt?",
+        "answer": "Gandhi signed a receipt for the notice and wrote on it that he would disobey the order.",
+        "extract": "Gandhi signed a receipt for the notice and wrote on it that he would disobey the order.",
+        "citation": "Indigo.md#L61:1"
+    },
+    {
+        "question": "What did he receive in consequence?",
+        "answer": "In consequence, Gandhi received a summons to appear in court the next day.",
+        "extract": "In consequence, Gandhi received a summons to appear in court the next day.",
+        "citation": "Indigo.md#L63:1"
+    },
+    {
+        "question": "What did Gandhi do all night?",
+        "answer": "All night Gandhi remained awake.",
+        "extract": "All night Gandhi remained awake.",
+        "citation": "Indigo.md#L65:1"
+    },
+    {
+        "question": "What did he telegraph Rajendra Prasad?",
+        "answer": "He telegraphed Rajendra Prasad to come from Bihar with influential friends.",
+        "extract": "He telegraphed Rajendra Prasad to come from Bihar with influential friends.",
+        "citation": "Indigo.md#L65:1"
+    },
+    {
+        "question": "What did he send to the ashram?",
+        "answer": "He sent instructions to the ashram.",
+        "extract": "He sent instructions to the ashram.",
+        "citation": "Indigo.md#L66:1"
+    },
+    {
+        "question": "What did he wire to the Viceroy?",
+        "answer": "He wired a full report to the Viceroy.",
+        "extract": "He wired a full report to the Viceroy.",
+        "citation": "Indigo.md#L66:1"
+    },
+    {
+        "question": "What did morning find the town of Motihari like?",
+        "answer": "Morning found the town of Motihari black with peasants.",
+        "extract": "Morning found the town of Motihari black with peasants.",
+        "citation": "Indigo.md#L68:1"
+    },
+    {
+        "question": "Did they know Gandhi's record in South Africa?",
+        "answer": "No, they did not know Gandhi\u2019s record in South Africa.",
+        "extract": "They did not know Gandhi\u2019s record in South Africa.",
+        "citation": "Indigo.md#L68:1"
+    },
+    {
+        "question": "What had they merely heard?",
+        "answer": "They had merely heard that a Mahatma who wanted to help them was in trouble with the authorities.",
+        "extract": "They had merely heard that a Mahatma who wanted to help them was in trouble with the authorities.",
+        "citation": "Indigo.md#L69:1"
+    },
+    {
+        "question": "What was the beginning of their liberation from fear of the British?",
+        "answer": "Their spontaneous demonstration, in thousands, around the courthouse was the beginning of their liberation from fear of the British.",
+        "extract": "Their spontaneous demonstration, in thousands, around the courthouse was the beginning of their liberation from fear of the British.",
+        "citation": "Indigo.md#L70:1"
+    },
+    {
+        "question": "How did the officials feel?",
+        "answer": "The officials felt powerless without Gandhi\u2019s cooperation.",
+        "extract": "The officials felt powerless without Gandhi\u2019s cooperation.",
+        "citation": "Indigo.md#L72:1"
+    },
+    {
+        "question": "What did Gandhi help them do?",
+        "answer": "He helped them regulate the crowd.",
+        "extract": "He helped them regulate the crowd.",
+        "citation": "Indigo.md#L72:1"
+    },
+    {
+        "question": "What was he giving them concrete proof of?",
+        "answer": "He was giving them concrete proof that their might, hitherto dreaded and unquestioned, could be challenged by Indians.",
+        "extract": "He was giving them concrete proof that their might, hitherto dreaded and unquestioned, could be challenged by Indians.",
+        "citation": "Indigo.md#L73:1"
+    },
+    {
+        "question": "How did the government feel?",
+        "answer": "The government was baffled.",
+        "extract": "The government was baffled.",
+        "citation": "Indigo.md#L75:1"
+    },
+    {
+        "question": "What did the prosecutor request?",
+        "answer": "The prosecutor requested the judge to postpone the trial.",
+        "extract": "The prosecutor requested the judge to postpone the trial.",
+        "citation": "Indigo.md#L75:1"
+    },
+    {
+        "question": "What did Gandhi protest against?",
+        "answer": "Gandhi protested against the delay.",
+        "extract": "Gandhi protested against the delay.",
+        "citation": "Indigo.md#L77:1"
+    },
+    {
+        "question": "What did he read?",
+        "answer": "He read a statement pleading guilty.",
+        "extract": "He read a statement pleading guilty.",
+        "citation": "Indigo.md#L77:1"
+    },
+    {
+        "question": "What did he tell the court he was involved in?",
+        "answer": "He told the court he was involved in a \u201cconflict of duties\u201d.",
+        "extract": "He was involved, he told the court, in a \u201cconflict of duties\u201d \u2014 on the one hand, not to set a bad example as a lawbreaker; on the other hand, to render the \u201chumanitarian and national service\u201d for which he had come.",
+        "citation": "Indigo.md#L78:1"
+    },
+    {
+        "question": "What did he disregard the order to leave for?",
+        "answer": "He disregarded the order to leave for \u201cnot for want of respect for lawful authority, but in obedience to the higher law of our being, the voice of conscience\u201d.",
+        "extract": "He disregarded the order to leave, \u201cnot for want of respect for lawful authority, but in obedience to the higher law of our being, the voice of conscience\u201d.",
+        "citation": "Indigo.md#L79:1"
+    },
+    {
+        "question": "What did he ask for?",
+        "answer": "He asked for the penalty due.",
+        "extract": "He asked the penalty due.",
+        "citation": "Indigo.md#L80:1"
+    },
+    {
+        "question": "What did the magistrate announce?",
+        "answer": "The magistrate announced that he would pronounce sentence after a two-hour recess.",
+        "extract": "The magistrate announced that he would pronounce sentence after a two-hour recess and asked Gandhi to furnish bail for those 120 minutes.",
+        "citation": "Indigo.md#L82:1"
+    },
+    {
+        "question": "Did Gandhi furnish bail?",
+        "answer": "No, Gandhi refused to furnish bail.",
+        "extract": "Gandhi refused.",
+        "citation": "Indigo.md#L82:1"
+    },
+    {
+        "question": "What did the judge do?",
+        "answer": "The judge released him without bail.",
+        "extract": "The judge released him without bail.",
+        "citation": "Indigo.md#L83:1"
+    },
+    {
+        "question": "What did the judge say when the court reconvened?",
+        "answer": "When the court reconvened, the judge said he would not deliver the judgment for several days.",
+        "extract": "When the court reconvened, the judge said he would not deliver the judgment for several days.",
+        "citation": "Indigo.md#L85:1"
+    },
+    {
+        "question": "Who had arrived from Bihar?",
+        "answer": "Rajendra Prasad, Brij Kishor Babu, Maulana Mazharul Huq and several other prominent lawyers had arrived from Bihar.",
+        "extract": "Rajendra Prasad, Brij Kishor Babu, Maulana Mazharul Huq and several other prominent lawyers had arrived from Bihar.",
+        "citation": "Indigo.md#L87:1"
+    },
+    {
+        "question": "What did they confer with Gandhi about?",
+        "answer": "They conferred with Gandhi about what they would do if he was sentenced to prison.",
+        "extract": "They conferred with Gandhi. What would they do if he was sentenced to prison, Gandhi asked.",
+        "citation": "Indigo.md#L88:1"
+    },
+    {
+        "question": "What did the senior lawyer reply?",
+        "answer": "The senior lawyer replied that they had come to advise and help him; if he went to jail there would be nobody to advise and they would go home.",
+        "extract": "Why, the senior lawyer replied, they had come to advise and help him; if he went to jail there would be nobody to advise and they would go home.",
+        "citation": "Indigo.md#L88:1"
+    },
+    {
+        "question": "What did Gandhi demand?",
+        "answer": "Gandhi demanded to know what about the injustice to the sharecroppers.",
+        "extract": "What about the injustice to the sharecroppers, Gandhi demanded.",
+        "citation": "Indigo.md#L90:1"
+    },
+    {
+        "question": "What did the lawyers do?",
+        "answer": "The lawyers withdrew to consult.",
+        "extract": "The lawyers withdrew to consult.",
+        "citation": "Indigo.md#L90:1"
+    },
+    {
+        "question": "What has Rajendra Prasad recorded?",
+        "answer": "Rajendra Prasad has recorded the upshot of their consultations.",
+        "extract": "Rajendra Prasad has recorded the upshot of their consultations \u2014 \u201cThey thought, amongst themselves, that Gandhi was totally a stranger, and yet he was prepared to go to prison for the sake of the peasants; if they, on the other hand, being not only residents of the adjoining districts but also those who claimed to have served these peasants, should go home, it would be shameful desertion.\u201d",
+        "citation": "Indigo.md#L91:1"
+    },
+    {
+        "question": "What did they tell Gandhi when they went back to him?",
+        "answer": "They told Gandhi they were ready to follow him into jail.",
+        "extract": "They accordingly went back to Gandhi and told him they were ready to follow him into jail.",
+        "citation": "Indigo.md#L93:1"
+    },
+    {
+        "question": "What did Gandhi exclaim?",
+        "answer": "Gandhi exclaimed, \u201cThe battle of Champaran is won.\u201d",
+        "extract": "\u201cThe battle of Champaran is won,\u201d he exclaimed.",
+        "citation": "Indigo.md#L93:1"
+    },
+    {
+        "question": "What did he do then?",
+        "answer": "Then he took a piece of paper and divided the group into pairs and put down the order in which each pair was to court arrest.",
+        "extract": "Then he took a piece of paper and divided the group into pairs and put down the order in which each pair was to court arrest.",
+        "citation": "Indigo.md#L94:1"
+    },
+    {
+        "question": "What did Gandhi receive several days later?",
+        "answer": "Several days later, Gandhi received a written communication from the magistrate informing him that the Lieutenant-Governor of the province had ordered the case to be dropped.",
+        "extract": "Several days later, Gandhi received a written communication from the magistrate informing him that the Lieutenant-Governor of the province had ordered the case to be dropped.",
+        "citation": "Indigo.md#L96:1"
+    },
+    {
+        "question": "What had triumphed?",
+        "answer": "Civil disobedience had triumphed.",
+        "extract": "Civil disobedience had triumphed, the first time in modern India.",
+        "citation": "Indigo.md#L97:1"
+    },
+    {
+        "question": "What did Gandhi and the lawyers now proceed to do?",
+        "answer": "Gandhi and the lawyers now proceeded to conduct a far-flung inquiry into the grievances of the farmers.",
+        "extract": "Gandhi and the lawyers now proceeded to conduct a far-flung inquiry into the grievances of the farmers.",
+        "citation": "Indigo.md#L99:1"
+    },
+    {
+        "question": "What was written down?",
+        "answer": "Depositions by about ten thousand peasants were written down.",
+        "extract": "Depositions by about ten thousand peasants were written down, and notes made on other evidence.",
+        "citation": "Indigo.md#L100:1"
+    },
+    {
+        "question": "What was collected?",
+        "answer": "Documents were collected.",
+        "extract": "Documents were collected.",
+        "citation": "Indigo.md#L101:1"
+    },
+    {
+        "question": "What did the whole area throb with?",
+        "answer": "The whole area throbbed with the activity of the investigators and the vehement protests of the landlords.",
+        "extract": "The whole area throbbed with the activity of the investigators and the vehement protests of the landlords.",
+        "citation": "Indigo.md#L102:1"
+    },
+    {
+        "question": "When was Gandhi summoned to Sir Edward Gait?",
+        "answer": "Gandhi was summoned to Sir Edward Gait in June.",
+        "extract": "In June, Gandhi was summoned to Sir Edward Gait, the Lieutenant-Governor.",
+        "citation": "Indigo.md#L104:1"
+    },
+    {
+        "question": "Who was Sir Edward Gait?",
+        "answer": "Sir Edward Gait was the Lieutenant-Governor.",
+        "extract": "In June, Gandhi was summoned to Sir Edward Gait, the Lieutenant-Governor.",
+        "citation": "Indigo.md#L104:1"
+    },
+    {
+        "question": "What did he do before he went?",
+        "answer": "Before he went, he met leading associates and again laid detailed plans for civil disobedience if he should not return.",
+        "extract": "Before he went he met leading associates and again laid detailed plans for civil disobedience if he should not return.",
+        "citation": "Indigo.md#L105:1"
+    },
+    {
+        "question": "How many protracted interviews did Gandhi have with the Lieutenant-Governor?",
+        "answer": "Gandhi had four protracted interviews with the Lieutenant-Governor.",
+        "extract": "Gandhi had four protracted interviews with the Lieutenant-Governor who, as a result, appointed an official commission of inquiry into the indigo sharecroppers\u2019 situation.",
+        "citation": "Indigo.md#L107:1"
+    },
+    {
+        "question": "What was the result?",
+        "answer": "As a result, an official commission of inquiry into the indigo sharecroppers\u2019 situation was appointed.",
+        "extract": "who, as a result, appointed an official commission of inquiry into the indigo sharecroppers\u2019 situation.",
+        "citation": "Indigo.md#L107:1"
+    },
+    {
+        "question": "Who did the commission consist of?",
+        "answer": "The commission consisted of landlords, government officials, and Gandhi as the sole representative of the peasants.",
+        "extract": "The commission consisted of landlords, government officials, and Gandhi as the sole representative of the peasants.",
+        "citation": "Indigo.md#L108:1"
+    },
+    {
+        "question": "For how long did Gandhi remain in Champaran initially?",
+        "answer": "Gandhi remained in Champaran for an initial uninterrupted period of seven months.",
+        "extract": "Gandhi remained in Champaran for an initial uninterrupted period of seven months and then again for several shorter visits.",
+        "citation": "Indigo.md#L110:1"
+    },
+    {
+        "question": "What did the visit, undertaken casually on the entreaty of an unlettered peasant, occupy?",
+        "answer": "The visit occupied almost a year of Gandhi\u2019s life.",
+        "extract": "The visit, undertaken casually on the entreaty of an unlettered peasant in the expectation that it would last a few days, occupied almost a year of Gandhi\u2019s life.",
+        "citation": "Indigo.md#L111:1"
+    },
+    {
+        "question": "What did the official inquiry assemble?",
+        "answer": "The official inquiry assembled a crushing mountain of evidence against the big planters.",
+        "extract": "The official inquiry assembled a crushing mountain of evidence against the big planters, and when they saw this they agreed, in principle, to make refunds to the peasants.",
+        "citation": "Indigo.md#L113:1"
+    },
+    {
+        "question": "What did they agree to in principle?",
+        "answer": "They agreed, in principle, to make refunds to the peasants.",
+        "extract": "and when they saw this they agreed, in principle, to make refunds to the peasants.",
+        "citation": "Indigo.md#L113:1"
+    },
+    {
+        "question": "What did they ask Gandhi?",
+        "answer": "They asked Gandhi, \u201cBut how much must we pay?\u201d",
+        "extract": "\u201cBut how much must we pay?\u201d they asked Gandhi.",
+        "citation": "Indigo.md#L114:1"
+    },
+    {
+        "question": "What did they think he would demand?",
+        "answer": "They thought he would demand repayment in full of the money which they had illegally and deceitfully extorted from the sharecroppers.",
+        "extract": "They thought he would demand repayment in full of the money which they had illegally and deceitfully extorted from the sharecroppers.",
+        "citation": "Indigo.md#L116:1"
+    },
+    {
+        "question": "What did he ask for?",
+        "answer": "He asked only 50 per cent.",
+        "extract": "He asked only 50 per cent.",
+        "citation": "Indigo.md#L117:1"
+    },
+    {
+        "question": "What does Reverend J. Z. Hodge write?",
+        "answer": "Reverend J. Z. Hodge writes, \u201cThere he seemed adamant.\u201d",
+        "extract": "\u201cThere he seemed adamant,\u201d writes Reverend J. Z. Hodge, a British missionary in Champaran who observed the entire episode at close range.",
+        "citation": "Indigo.md#L117:1"
+    },
+    {
+        "question": "What did the representative of the planters offer?",
+        "answer": "The representative of the planters offered to refund to the extent of 25 per cent.",
+        "extract": "Thinking probably that he would not give way, the representative of the planters offered to refund to the extent of 25 per cent, and to his amazement Mr. Gandhi took him at his word, thus breaking the deadlock.\u201d",
+        "citation": "Indigo.md#L118:1"
+    },
+    {
+        "question": "What did Mr. Gandhi do?",
+        "answer": "Mr. Gandhi took him at his word, thus breaking the deadlock.",
+        "extract": "and to his amazement Mr. Gandhi took him at his word, thus breaking the deadlock.\u201d",
+        "citation": "Indigo.md#L118:1"
+    },
+    {
+        "question": "How was this settlement adopted?",
+        "answer": "This settlement was adopted unanimously by the commission.",
+        "extract": "This settlement was adopted unanimously by the commission.",
+        "citation": "Indigo.md#L120:1"
+    },
+    {
+        "question": "What did Gandhi explain?",
+        "answer": "Gandhi explained that the amount of the refund was less important than the fact that the landlords had been obliged to surrender part of the money and, with it, part of their prestige.",
+        "extract": "Gandhi explained that the amount of the refund was less important than the fact that the landlords had been obliged to surrender part of the money and, with it, part of their prestige.",
+        "citation": "Indigo.md#L120:1"
+    },
+    {
+        "question": "What had the planters behaved as?",
+        "answer": "The planters had behaved as lords above the law.",
+        "extract": "Therefore, as far as the peasants were concerned, the planters had behaved as lords above the law.",
+        "citation": "Indigo.md#L121:1"
+    },
+    {
+        "question": "What did the peasant see now?",
+        "answer": "Now the peasant saw that he had rights and defenders.",
+        "extract": "Now the peasant saw that he had rights and defenders.",
+        "citation": "Indigo.md#L122:1"
+    },
+    {
+        "question": "What did he learn?",
+        "answer": "He learned courage.",
+        "extract": "He learned courage.",
+        "citation": "Indigo.md#L122:1"
+    },
+    {
+        "question": "What happened within a few years?",
+        "answer": "Within a few years the British planters abandoned their estates, which reverted to the peasants.",
+        "extract": "Within a few years the British planters abandoned their estates, which reverted to the peasants.",
+        "citation": "Indigo.md#L124:1"
+    },
+    {
+        "question": "What happened to indigo sharecropping?",
+        "answer": "Indigo sharecropping disappeared.",
+        "extract": "Indigo sharecropping disappeared.",
+        "citation": "Indigo.md#L125:1"
+    },
+    {
+        "question": "What did Gandhi never content himself with?",
+        "answer": "Gandhi never contented himself with large political or economic solutions.",
+        "extract": "Gandhi never contented himself with large political or economic solutions.",
+        "citation": "Indigo.md#L127:1"
+    },
+    {
+        "question": "What did he see in the Champaran villages?",
+        "answer": "He saw the cultural and social backwardness in the Champaran villages.",
+        "extract": "He saw the cultural and social backwardness in the Champaran villages and wanted to do something about it immediately.",
+        "citation": "Indigo.md#L127:1"
+    },
+    {
+        "question": "Who did he appeal for?",
+        "answer": "He appealed for teachers.",
+        "extract": "He appealed for teachers.",
+        "citation": "Indigo.md#L128:1"
+    },
+    {
+        "question": "Who volunteered for the work?",
+        "answer": "Mahadev Desai and Narhari Parikh, two young men who had just joined Gandhi as disciples, and their wives, volunteered for the work.",
+        "extract": "Mahadev Desai and Narhari Parikh, two young men who had just joined Gandhi as disciples, and their wives, volunteered for the work.",
+        "citation": "Indigo.md#L128:1"
+    },
+    {
+        "question": "Where did several more come from?",
+        "answer": "Several more came from Bombay, Poona and other distant parts of the land.",
+        "extract": "Several more came from Bombay, Poona and other distant parts of the land.",
+        "citation": "Indigo.md#L129:1"
+    },
+    {
+        "question": "Who arrived from the ashram?",
+        "answer": "Devadas, Gandhi\u2019s youngest son, and Mrs. Gandhi arrived from the ashram.",
+        "extract": "Devadas, Gandhi\u2019s youngest son, arrived from the ashram and so did Mrs. Gandhi.",
+        "citation": "Indigo.md#L130:1"
+    },
+    {
+        "question": "What were opened in six villages?",
+        "answer": "Primary schools were opened in six villages.",
+        "extract": "Primary schools were opened in six villages.",
+        "citation": "Indigo.md#L130:1"
+    },
+    {
+        "question": "What did Kasturbai teach?",
+        "answer": "Kasturbai taught the ashram rules on personal cleanliness and community sanitation.",
+        "extract": "Kasturbai taught the ashram rules on personal cleanliness and community sanitation.",
+        "citation": "Indigo.md#L131:1"
+    },
+    {
+        "question": "What were the health conditions like?",
+        "answer": "The health conditions were miserable.",
+        "extract": "Health conditions were miserable.",
+        "citation": "Indigo.md#L133:1"
+    },
+    {
+        "question": "What did Gandhi get a doctor to do?",
+        "answer": "Gandhi got a doctor to volunteer his services for six months.",
+        "extract": "Gandhi got a doctor to volunteer his services for six months.",
+        "citation": "Indigo.md#L133:1"
+    },
+    {
+        "question": "What three medicines were available?",
+        "answer": "The three medicines available were castor oil, quinine and sulphur ointment.",
+        "extract": "Three medicines were available \u2014 castor oil, quinine and sulphur ointment.",
+        "citation": "Indigo.md#L134:1"
+    },
+    {
+        "question": "What was given to anybody who showed a coated tongue?",
+        "answer": "Anybody who showed a coated tongue was given a dose of castor oil.",
+        "extract": "Anybody who showed a coated tongue was given a dose of castor oil;",
+        "citation": "Indigo.md#L135:1"
+    },
+    {
+        "question": "What did anybody with malaria fever receive?",
+        "answer": "Anybody with malaria fever received quinine plus castor oil.",
+        "extract": "anybody with malaria fever received quinine plus castor oil;",
+        "citation": "Indigo.md#L135:1"
+    },
+    {
+        "question": "What did anybody with skin eruptions receive?",
+        "answer": "Anybody with skin eruptions received ointment plus castor oil.",
+        "extract": "anybody with skin eruptions received ointment plus castor oil.",
+        "citation": "Indigo.md#L136:1"
+    },
+    {
+        "question": "What did Gandhi notice about the women's clothes?",
+        "answer": "Gandhi noticed the filthy state of women\u2019s clothes.",
+        "extract": "Gandhi noticed the filthy state of women\u2019s clothes.",
+        "citation": "Indigo.md#L138:1"
+    },
+    {
+        "question": "What did he ask Kasturbai to do?",
+        "answer": "He asked Kasturbai to talk to them about it.",
+        "extract": "He asked Kasturbai to talk to them about it.",
+        "citation": "Indigo.md#L138:1"
+    },
+    {
+        "question": "What did one woman say to Kasturbai?",
+        "answer": "One woman said, \u201cLook, there is no box or cupboard here for clothes. The sari I am wearing is the only one I have.\u201d",
+        "extract": "One woman took Kasturbai into her hut and said, \u201cLook, there is no box or cupboard here for clothes. The sari I am wearing is the only one I have.\u201d",
+        "citation": "Indigo.md#L139:1"
+    },
+    {
+        "question": "What did Gandhi do during his long stay in Champaran?",
+        "answer": "During his long stay in Champaran, Gandhi kept a long distance watch on the ashram.",
+        "extract": "During his long stay in Champaran, Gandhi kept a long distance watch on the ashram.",
+        "citation": "Indigo.md#L141:1"
+    },
+    {
+        "question": "What did he send by mail?",
+        "answer": "He sent regular instructions by mail and asked for financial accounts.",
+        "extract": "He sent regular instructions by mail and asked for financial accounts.",
+        "citation": "Indigo.md#L142:1"
+    },
+    {
+        "question": "What did he once write to the residents?",
+        "answer": "He once wrote to the residents that it was time to fill in the old latrine trenches and dig new ones otherwise the old ones would begin to smell bad.",
+        "extract": "Once he wrote to the residents that it was time to fill in the old latrine trenches and dig new ones otherwise the old ones would begin to smell bad.",
+        "citation": "Indigo.md#L142:1"
+    },
+    {
+        "question": "What was the Champaran episode in Gandhi's life?",
+        "answer": "The Champaran episode was a turning-point in Gandhi\u2019s life.",
+        "extract": "The Champaran episode was a turning-point in Gandhi\u2019s life.",
+        "citation": "Indigo.md#L144:1"
+    },
+    {
+        "question": "What did he explain?",
+        "answer": "He explained, \u201cWhat I did was a very ordinary thing. I declared that the British could not order me about in my own country.\u201d",
+        "extract": "\u201cWhat I did,\u201d he explained, \u201cwas a very ordinary thing. I declared that the British could not order me about in my own country.\u201d",
+        "citation": "Indigo.md#L144:1"
+    },
+    {
+        "question": "What did Champaran grow out of?",
+        "answer": "Champaran grew out of an attempt to alleviate the distress of large numbers of poor peasants.",
+        "extract": "It grew out of an attempt to alleviate the distress of large numbers of poor peasants.",
+        "citation": "Indigo.md#L146:1"
+    },
+    {
+        "question": "What was the typical Gandhi pattern?",
+        "answer": "The typical Gandhi pattern was that his politics were intertwined with the practical, day-to-day problems of the millions.",
+        "extract": "This was the typical Gandhi pattern \u2014 his politics were intertwined with the practical, day-to-day problems of the millions.",
+        "citation": "Indigo.md#L147:1"
+    },
+    {
+        "question": "What was his loyalty not to?",
+        "answer": "His was not a loyalty to abstractions; it was a loyalty to living, human beings.",
+        "extract": "His was not a loyalty to abstractions; it was a loyalty to living, human beings.",
+        "citation": "Indigo.md#L148:1"
+    },
+    {
+        "question": "What did he try to mould in everything he did?",
+        "answer": "In everything Gandhi did, moreover, he tried to mould a new free Indian who could stand on his own feet and thus make India free.",
+        "extract": "In everything Gandhi did, moreover, he tried to mould a new free Indian who could stand on his own feet and thus make India free.",
+        "citation": "Indigo.md#L150:1"
+    },
+    {
+        "question": "Who came to bid Gandhi farewell early in the Champaran action?",
+        "answer": "Early in the Champaran action, Charles Freer Andrews, the English pacifist who had become a devoted follower of the Mahatma, came to bid Gandhi farewell.",
+        "extract": "Early in the Champaran action, Charles Freer Andrews, the English pacifist who had become a devoted follower of the Mahatma, came to bid Gandhi farewell before going on a tour of duty to the Fiji Islands.",
+        "citation": "Indigo.md#L152:1"
+    },
+    {
+        "question": "What did Gandhi's lawyer friends think?",
+        "answer": "Gandhi\u2019s lawyer friends thought it would be a good idea for Andrews to stay in Champaran and help them.",
+        "extract": "Gandhi\u2019s lawyer friends thought it would be a good idea for Andrews to stay in Champaran and help them.",
+        "citation": "Indigo.md#L153:1"
+    },
+    {
+        "question": "Was Andrews willing?",
+        "answer": "Yes, Andrews was willing if Gandhi agreed.",
+        "extract": "Andrews was willing if Gandhi agreed.",
+        "citation": "Indigo.md#L153:1"
+    },
+    {
+        "question": "What was Gandhi's reaction?",
+        "answer": "Gandhi was vehemently opposed.",
+        "extract": "But Gandhi was vehemently opposed.",
+        "citation": "Indigo.md#L154:1"
+    },
+    {
+        "question": "What did he say?",
+        "answer": "He said, \u201cYou think that in this unequal fight it would be helpful if we have an Englishman on our side. This shows the weakness of your heart. The cause is just and you must rely upon yourselves to win the battle. You should not seek a prop in Mr. Andrews because he happens to be an Englishman\u201d.",
+        "extract": "He said, \u201cYou think that in this unequal fight it would be helpful if we have an Englishman on our side. This shows the weakness of your heart. The cause is just and you must rely upon yourselves to win the battle. You should not seek a prop in Mr. Andrews because he happens to be an Englishman\u201d.",
+        "citation": "Indigo.md#L154:1"
+    },
+    {
+        "question": "What does Rajendra Prasad comment?",
+        "answer": "Rajendra Prasad comments, \u201cHe had read our minds correctly, and we had no reply... Gandhi in this way taught us a lesson in self-reliance\u201d.",
+        "extract": "\u201cHe had read our minds correctly,\u201d Rajendra Prasad comments, \u201cand we had no reply... Gandhi in this way taught us a lesson in self-reliance\u201d.",
+        "citation": "Indigo.md#L156:1"
+    },
+    {
+        "question": "What were all bound together?",
+        "answer": "Self-reliance, Indian independence and help to sharecroppers were all bound together.",
+        "extract": "Self-reliance, Indian independence and help to sharecroppers were all bound together.",
+        "citation": "Indigo.md#L158:1"
+    }
+]

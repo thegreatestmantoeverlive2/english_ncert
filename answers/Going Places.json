@@ -1,0 +1,914 @@
+[
+    {
+        "question": "What did Sophie say she was going to have when she leaves school?",
+        "answer": "Sophie said she was going to have a boutique when she leaves school.",
+        "extract": "\u201cWhen I leave,\u201d Sophie said, coming home from school, \u201cI\u2019m going to have a boutique.\u201d",
+        "citation": "Going Places.md#L1:1"
+    },
+    {
+        "question": "Who looked doubtful?",
+        "answer": "Jansie looked doubtful.",
+        "extract": "Jansie, linking arms with her along the street; looked doubtful.",
+        "citation": "Going Places.md#L3:1"
+    },
+    {
+        "question": "What did Jansie say it takes?",
+        "answer": "Jansie said it takes money to have a boutique.",
+        "extract": "\u201cTakes money, Soaf, something like that.\u201d",
+        "citation": "Going Places.md#L5:1"
+    },
+    {
+        "question": "What was Sophie's response?",
+        "answer": "Sophie's response was that she would find the money.",
+        "extract": "\u201cI\u2019ll find it,\u201d Sophie said, staring far down the street.",
+        "citation": "Going Places.md#L7:1"
+    },
+    {
+        "question": "What did Sophie say she would be to begin with?",
+        "answer": "Sophie said she would be a manager to begin with.",
+        "extract": "\u201cWell I\u2019ll be a manager then \u2014 yes, of course \u2014 to begin with.",
+        "citation": "Going Places.md#L11:1"
+    },
+    {
+        "question": "What did Jansie say they wouldn't make her straight off?",
+        "answer": "Jansie said they wouldn't make her a manager straight off.",
+        "extract": "\u201cThey wouldn\u2019t make you manager straight off, Soaf.\u201d",
+        "citation": "Going Places.md#L13:1"
+    },
+    {
+        "question": "Who did Sophie say she would be like?",
+        "answer": "Sophie said she would be like Mary Quant.",
+        "extract": "\u201cI\u2019ll be like Mary Quant,\u201d Sophie said.",
+        "citation": "Going Places.md#L15:1"
+    },
+    {
+        "question": "What did Sophie say she would have?",
+        "answer": "Sophie said she would have the most amazing shop this city\u2019s ever seen.",
+        "extract": "I\u2019ll have the most amazing shop this city\u2019s ever seen.\u201d",
+        "citation": "Going Places.md#L16:1"
+    },
+    {
+        "question": "What did Jansie know they were both earmarked for?",
+        "answer": "Jansie knew they were both earmarked for the biscuit factory.",
+        "extract": "Jansie, knowing they were both earmarked for the biscuit factory, became melancholy.",
+        "citation": "Going Places.md#L18:1"
+    },
+    {
+        "question": "What did Jansie wish Sophie wouldn't do?",
+        "answer": "Jansie wished Sophie wouldn't say these things.",
+        "extract": "She wished Sophie wouldn\u2019t say these things.",
+        "citation": "Going Places.md#L19:1"
+    },
+    {
+        "question": "What did Jansie say when they reached Sophie's street?",
+        "answer": "When they reached Sophie's street, Jansie told Sophie that she should be sensible because it was only a few months away and shop work doesn't pay well.",
+        "extract": "When they reached Sophie\u2019s street Jansie said, \u201cIt\u2019s only a few months away now, Soaf, you really should be sensible. They don\u2019t pay well for shop work, you know that, your dad would never allow it.\u201d",
+        "citation": "Going Places.md#L21:1"
+    },
+    {
+        "question": "What did Sophie say she could be instead of a boutique owner?",
+        "answer": "Sophie said she could be an actress or a fashion designer instead of a boutique owner.",
+        "extract": "\u201cOr an actress. Now there\u2019s real money in that. Yes, and I could maybe have the boutique on the side. Actresses don\u2019t work full time, do they? Anyway, that or a fashion designer, you know \u2014 something a bit sophisticated\u201d.",
+        "citation": "Going Places.md#L23:1"
+    },
+    {
+        "question": "What did she say about actresses?",
+        "answer": "She said that actresses don't work full time and that there's real money in that.",
+        "extract": "Actresses don\u2019t work full time, do they?",
+        "citation": "Going Places.md#L23:1"
+    },
+    {
+        "question": "Where did she turn, leaving Jansie standing in the rain?",
+        "answer": "She turned in through the open street door, leaving Jansie standing in the rain.",
+        "extract": "And she turned in through the open street door leaving Jansie standing in the rain.",
+        "citation": "Going Places.md#L25:1"
+    },
+    {
+        "question": "What did Sophie's father say she would buy if she ever came into money?",
+        "answer": "Sophie's father said she would buy them a blessed decent house to live in if she ever came into money.",
+        "extract": "\u201cHuh - if you ever come into money... if you ever come into money you\u2019ll buy us a blessed decent house to live in, thank you very much.\u201d",
+        "citation": "Going Places.md#L29:1"
+    },
+    {
+        "question": "What was Sophie's father doing?",
+        "answer": "Sophie's father was scooping shepherd's pie into his mouth as hard as he could go.",
+        "extract": "Sophie\u2019s father was scooping shepherd\u2019s pie into his mouth as hard as he could go, his plump face still grimy and sweat \u2014 marked from the day.",
+        "citation": "Going Places.md#L31:1"
+    },
+    {
+        "question": "What was his face like?",
+        "answer": "His face was plump, still grimy and sweat-marked from the day.",
+        "extract": "his plump face still grimy and sweat \u2014 marked from the day.",
+        "citation": "Going Places.md#L31:1"
+    },
+    {
+        "question": "What did little Derek say?",
+        "answer": "Little Derek said, \u201cShe thinks money grows on trees, don\u2019t she, Dad?\u2019",
+        "extract": "\u201cShe thinks money grows on trees, don\u2019t she, Dad?\u2019 said little Derek, hanging on the back of his father\u2019s chair.",
+        "citation": "Going Places.md#L33:1"
+    },
+    {
+        "question": "What did their mother do?",
+        "answer": "Their mother sighed.",
+        "extract": "Their mother sighed.",
+        "citation": "Going Places.md#L35:1"
+    },
+    {
+        "question": "What did Sophie watch her back do?",
+        "answer": "Sophie watched her mother's back stooped over the sink.",
+        "extract": "Sophie watched her back stooped over the sink and wondered at the incongruity of the delicate bow which fastened her apron strings.",
+        "citation": "Going Places.md#L37:1"
+    },
+    {
+        "question": "What did she wonder at?",
+        "answer": "She wondered at the incongruity of the delicate bow which fastened her mother's apron strings and her crooked back.",
+        "extract": "The delicate-seeming bow and the crooked back.",
+        "citation": "Going Places.md#L37:1"
+    },
+    {
+        "question": "What had already blacked in the windows?",
+        "answer": "The evening had already blacked in the windows.",
+        "extract": "The evening had already blacked in the windows and the small room was steamy from the stove and cluttered with the heavy-breathing man in his vest at the table and the dirty washing piled up in the corner.",
+        "citation": "Going Places.md#L38:1"
+    },
+    {
+        "question": "What was the small room steamy from?",
+        "answer": "The small room was steamy from the stove.",
+        "extract": "The evening had already blacked in the windows and the small room was steamy from the stove and cluttered with the heavy-breathing man in his vest at the table and the dirty washing piled up in the corner.",
+        "citation": "Going Places.md#L38:1"
+    },
+    {
+        "question": "What was the room cluttered with?",
+        "answer": "The room was cluttered with the heavy-breathing man in his vest at the table and the dirty washing piled up in the corner.",
+        "extract": "The evening had already blacked in the windows and the small room was steamy from the stove and cluttered with the heavy-breathing man in his vest at the table and the dirty washing piled up in the corner.",
+        "citation": "Going Places.md#L38:1"
+    },
+    {
+        "question": "What did Sophie feel in her throat?",
+        "answer": "Sophie felt a tightening in her throat.",
+        "extract": "Sophie felt a tightening in her throat.",
+        "citation": "Going Places.md#L39:1"
+    },
+    {
+        "question": "Who did she go to look for?",
+        "answer": "She went to look for her brother Geoff.",
+        "extract": "She went to look for her brother Geoff.",
+        "citation": "Going Places.md#L39:1"
+    },
+    {
+        "question": "What was he doing?",
+        "answer": "He was kneeling on the floor in the next room tinkering with a part of his motorcycle over some newspaper spread on the carpet.",
+        "extract": "He was kneeling on the floor in the next room tinkering with a part of his motorcycle over some newspaper spread on the carpet.",
+        "citation": "Going Places.md#L41:1"
+    },
+    {
+        "question": "How long was he out of school?",
+        "answer": "He was three years out of school.",
+        "extract": "He was three years out of school, an apprentice mechanic, travelling to his work each day to the far side of the city.",
+        "citation": "Going Places.md#L41:1"
+    },
+    {
+        "question": "What was his job?",
+        "answer": "His job was an apprentice mechanic.",
+        "extract": "He was three years out of school, an apprentice mechanic, travelling to his work each day to the far side of the city.",
+        "citation": "Going Places.md#L41:1"
+    },
+    {
+        "question": "What did Sophie suspect about his life?",
+        "answer": "Sophie suspected areas of his life about which she knew nothing, about which he never spoke.",
+        "extract": "He was almost grown up now, and she suspected areas of his life about which she knew nothing, about which he never spoke.",
+        "citation": "Going Places.md#L42:1"
+    },
+    {
+        "question": "How much did he say?",
+        "answer": "He said little at all, ever, voluntarily.",
+        "extract": "He said little at all, ever, voluntarily.",
+        "citation": "Going Places.md#L43:1"
+    },
+    {
+        "question": "How did words have to be prized out of him?",
+        "answer": "Words had to be prized out of him like stones out of the ground.",
+        "extract": "Words had to be prized out of him like stones out of the ground.",
+        "citation": "Going Places.md#L43:1"
+    },
+    {
+        "question": "What was Sophie jealous of?",
+        "answer": "Sophie was jealous of his silence.",
+        "extract": "And she was jealous of his silence.",
+        "citation": "Going Places.md#L44:1"
+    },
+    {
+        "question": "What did she wish she could be admitted more deeply into?",
+        "answer": "She wished she could be admitted more deeply into her brother\u2019s affections and that someday he might take her with him.",
+        "extract": "She wished she could be admitted more deeply into her brother\u2019s affections and that someday he might take her with him.",
+        "citation": "Going Places.md#L47:1"
+    },
+    {
+        "question": "What did she know her father and Geoff thought of her?",
+        "answer": "She knew they thought her too young.",
+        "extract": "Though their father forbade it and Geoff had never expressed an opinion, she knew he thought her too young.",
+        "citation": "Going Places.md#L47:1"
+    },
+    {
+        "question": "What was she conscious of?",
+        "answer": "She was conscious of a vast world out there waiting for her.",
+        "extract": "She was conscious of a vast world out there waiting for her and she knew instinctively that she would feel as at home there as in the city which had always been her home.",
+        "citation": "Going Places.md#L48:1"
+    },
+    {
+        "question": "What did she see herself doing?",
+        "answer": "She saw herself riding behind Geoff on his motorcycle.",
+        "extract": "She saw herself riding there behind Geoff.",
+        "citation": "Going Places.md#L49:1"
+    },
+    {
+        "question": "What did Geoff wear?",
+        "answer": "Geoff wore new, shining black leathers.",
+        "extract": "He wore new, shining black leathers and she a yellow dress with a kind of cape that flew out behind.",
+        "citation": "Going Places.md#L49:1"
+    },
+    {
+        "question": "What did she wear?",
+        "answer": "She wore a yellow dress with a kind of cape that flew out behind.",
+        "extract": "He wore new, shining black leathers and she a yellow dress with a kind of cape that flew out behind.",
+        "citation": "Going Places.md#L49:1"
+    },
+    {
+        "question": "What was the sound as the world rose to greet them?",
+        "answer": "The sound was of applause as the world rose to greet them.",
+        "extract": "There was the sound of applause as the world rose to greet them.",
+        "citation": "Going Places.md#L50:1"
+    },
+    {
+        "question": "What was Geoff frowning at?",
+        "answer": "Geoff was frowning at the oily component he cradled in his hands.",
+        "extract": "He sat frowning at the oily component he cradled in his hands, as though it were a small dumb animal and he was willing it to speak.",
+        "citation": "Going Places.md#L52:1"
+    },
+    {
+        "question": "What did Sophie say to him?",
+        "answer": "Sophie said to him, \u201cI met Danny Casey.\u201d",
+        "extract": "\u201cI met Danny Casey,\u201d Sophie said.",
+        "citation": "Going Places.md#L54:1"
+    },
+    {
+        "question": "What was his reaction?",
+        "answer": "He looked around abruptly.",
+        "extract": "He looked around abruptly.",
+        "citation": "Going Places.md#L56:1"
+    },
+    {
+        "question": "Where did she say she met him?",
+        "answer": "She said she met him in the arcade.",
+        "extract": "\u201cIn the arcade \u2014 funnily enough.\u201d",
+        "citation": "Going Places.md#L58:1"
+    },
+    {
+        "question": "What was Geoff's response?",
+        "answer": "Geoff's response was, \u201cIt\u2019s never true.\u201d",
+        "extract": "\u201cIt\u2019s never true.\u201d",
+        "citation": "Going Places.md#L60:1"
+    },
+    {
+        "question": "What did Sophie say?",
+        "answer": "Sophie said, \u201cI did too.\u201d",
+        "extract": "\u201cI did too.\u201d",
+        "citation": "Going Places.md#L62:1"
+    },
+    {
+        "question": "What did Geoff ask her?",
+        "answer": "Geoff asked her, \u201cYou told Dad?\u201d",
+        "extract": "\u201cYou told Dad?\u201d",
+        "citation": "Going Places.md#L64:1"
+    },
+    {
+        "question": "What was her response?",
+        "answer": "She shook her head.",
+        "extract": "She shook her head, chastened at his unawareness that he was always the first to share her secrets.",
+        "citation": "Going Places.md#L66:1"
+    },
+    {
+        "question": "What did Geoff say he didn't believe?",
+        "answer": "Geoff said he didn't believe that she met Danny Casey.",
+        "extract": "\u201cI don\u2019t believe it.\u201d",
+        "citation": "Going Places.md#L68:1"
+    },
+    {
+        "question": "Where was Sophie when she met Danny Casey?",
+        "answer": "Sophie was looking at the clothes in Royce\u2019s window when she met Danny Casey.",
+        "extract": "\u201cThere I was looking at the clothes in Royce\u2019s window when someone came and stood beside me, and I looked around and who should it be but Danny Casey.\u201d",
+        "citation": "Going Places.md#L70:1"
+    },
+    {
+        "question": "What does Sophie say he looks like?",
+        "answer": "Sophie says he has green, gentle eyes and is not so tall as you\u2019d think.",
+        "extract": "\u201cWell \u2014 he has green eyes. Gentle eyes. And he\u2019s not so tall as you\u2019d think...\u201d",
+        "citation": "Going Places.md#L76:1"
+    },
+    {
+        "question": "What did she wonder if she should say about his teeth?",
+        "answer": "She wondered if she should say about his teeth, but decided against it.",
+        "extract": "She wondered if she should say about his teeth, but decided against it.",
+        "citation": "Going Places.md#L77:1"
+    },
+    {
+        "question": "What was her father's appearance when he came in?",
+        "answer": "Her father's face and arms were shiny and pink and he smelled of soap.",
+        "extract": "Their father had washed when he came in and his face and arms were shiny and pink and he smelled of soap.",
+        "citation": "Going Places.md#L79:1"
+    },
+    {
+        "question": "What did he do when he came in?",
+        "answer": "He switched on the television, tossed one of little Derek\u2019s shoes from his chair onto the sofa, and sat down with a grunt.",
+        "extract": "He switched on the television, tossed one of little Derek\u2019s shoes from his chair onto the sofa, and sat down with a grunt.",
+        "citation": "Going Places.md#L80:1"
+    },
+    {
+        "question": "What did Geoff say to his father?",
+        "answer": "Geoff said to his father, \u201cSophie met Danny Casey.\u201d",
+        "extract": "\u201cSophie met Danny Casey,\u201d Geoff said.",
+        "citation": "Going Places.md#L82:1"
+    },
+    {
+        "question": "What did Sophie do?",
+        "answer": "Sophie wriggled where she was sitting at the table.",
+        "extract": "Sophie wriggled where she was sitting at the table.",
+        "citation": "Going Places.md#L84:1"
+    },
+    {
+        "question": "What was her father's expression?",
+        "answer": "Her father's expression was one of disdain.",
+        "extract": "His expression was one of disdain.",
+        "citation": "Going Places.md#L86:1"
+    },
+    {
+        "question": "What did Geoff say?",
+        "answer": "Geoff said, \u201cIt\u2019s true.\u201d",
+        "extract": "\u201cIt\u2019s true,\u201d Geoff said.",
+        "citation": "Going Places.md#L88:1"
+    },
+    {
+        "question": "What did her father say he once knew?",
+        "answer": "Her father said he once knew a man who had known Tom Finney.",
+        "extract": "\u201cI once knew a man who had known Tom Finney,\u201d his father said reverently to the television.",
+        "citation": "Going Places.md#L90:1"
+    },
+    {
+        "question": "What did Geoff say?",
+        "answer": "Geoff said, \u201cYou told us.\u201d",
+        "extract": "\u201cYou told us,\u201d Geoff said.",
+        "citation": "Going Places.md#L92:1"
+    },
+    {
+        "question": "What did Sophie's father say about Casey?",
+        "answer": "Sophie's father said that Casey might be that good some day.",
+        "extract": "\u201cCasey might be that good some day.\u201d",
+        "citation": "Going Places.md#L94:1"
+    },
+    {
+        "question": "What did Geoff say?",
+        "answer": "Geoff said, \u201cBetter than that even. He\u2019s the best.\u201d",
+        "extract": "\u201cBetter than that even. He\u2019s the best.\u201d",
+        "citation": "Going Places.md#L96:1"
+    },
+    {
+        "question": "What did Sophie's father say about distractions?",
+        "answer": "Sophie's father said that there are a lot of distractions for a youngster in the game these days.",
+        "extract": "A lot of distractions for a youngster in the game these days.\u201d",
+        "citation": "Going Places.md#L98:1"
+    },
+    {
+        "question": "What did Geoff say about the team?",
+        "answer": "Geoff said that he's with the best team in the country.",
+        "extract": "\u201cHe\u2019ll be all right. He\u2019s with the best team in the country.\u201d",
+        "citation": "Going Places.md#L100:1"
+    },
+    {
+        "question": "What did Sophie's father say about Casey's age?",
+        "answer": "Sophie's father said that he's very young yet.",
+        "extract": "\u201cHe\u2019s very young yet.\u201d",
+        "citation": "Going Places.md#L102:1"
+    },
+    {
+        "question": "What did Geoff say?",
+        "answer": "Geoff said, \u201cHe\u2019s older than I am.\u201d",
+        "extract": "\u201cHe\u2019s older than I am.\u201d",
+        "citation": "Going Places.md#L104:1"
+    },
+    {
+        "question": "What did Sophie's father say?",
+        "answer": "Sophie's father said that he's too young really for the first team.",
+        "extract": "\u201cToo young really for the first team.\u201d",
+        "citation": "Going Places.md#L106:1"
+    },
+    {
+        "question": "What did Sophie say from the table?",
+        "answer": "Sophie said from the table, \u201cHe\u2019s going to buy a shop.\u201d",
+        "extract": "\u201cHe\u2019s going to buy a shop,\u201d Sophie said from the table.",
+        "citation": "Going Places.md#L108:1"
+    },
+    {
+        "question": "What was her father's reaction?",
+        "answer": "Her father grimaced.",
+        "extract": "Her father grimaced.",
+        "citation": "Going Places.md#L110:1"
+    },
+    {
+        "question": "What did Sophie say?",
+        "answer": "Sophie said, \u201cHe told me so.\u201d",
+        "extract": "\u201cHe told me so.\u201d",
+        "citation": "Going Places.md#L112:1"
+    },
+    {
+        "question": "What did her father mutter?",
+        "answer": "Her father muttered something inaudible.",
+        "extract": "He muttered something inaudible and dragged himself round in his chair.",
+        "citation": "Going Places.md#L114:1"
+    },
+    {
+        "question": "What did Geoff say she met him in the arcade?",
+        "answer": "Geoff told his father how she had met him in the arcade.",
+        "extract": "\u201cShe met him in the arcade,\u201d Geoff said, and told him how it had been.",
+        "citation": "Going Places.md#L116:1"
+    },
+    {
+        "question": "What did her father say to her?",
+        "answer": "Her father said to her, \u201cOne of these days you\u2019re going to talk yourself into a load of trouble.\u201d",
+        "extract": "\u201cOne of these days you\u2019re going to talk yourself into a load of trouble,\u201d her father said aggressively.",
+        "citation": "Going Places.md#L118:1"
+    },
+    {
+        "question": "What did Sophie ask Geoff?",
+        "answer": "Sophie asked Geoff, \u201cGeoff knows it\u2019s true, don\u2019t you Geoff?\u201d",
+        "extract": "\u201cGeoff knows it\u2019s true, don\u2019t you Geoff?\u201d",
+        "citation": "Going Places.md#L120:1"
+    },
+    {
+        "question": "What was his response?",
+        "answer": "His response was, \u201cHe don\u2019t believe you-though he\u2019d like to.\u201d",
+        "extract": "\u201cHe don\u2019t believe you-though he\u2019d like to.\u201d",
+        "citation": "Going Places.md#L122:1"
+    },
+    {
+        "question": "What did the table lamp cast an amber glow across?",
+        "answer": "The table lamp cast an amber glow across her brother\u2019s bedroom wall, and across the large poster of United\u2019s first team squad and the row of coloured photographs beneath.",
+        "extract": "The table lamp cast an amber glow across her brother\u2019s bedroom wall, and across the large poster of United\u2019s first team squad and the row of coloured photographs beneath, three of them of the young Irish prodigy, Casey.",
+        "citation": "Going Places.md#L124:1"
+    },
+    {
+        "question": "What did Sophie say to Geoff?",
+        "answer": "Sophie said to Geoff, \u201cPromise you\u2019ll tell no-one?\u201d",
+        "extract": "\u201cPromise you\u2019ll tell no-one?\u201d Sophie said.",
+        "citation": "Going Places.md#L126:1"
+    },
+    {
+        "question": "What was his response?",
+        "answer": "His response was, \u201cNothing to tell is there?\u201d",
+        "extract": "\u201cNothing to tell is there?\u201d",
+        "citation": "Going Places.md#L128:1"
+    },
+    {
+        "question": "What did Sophie say her dad would do?",
+        "answer": "Sophie said her dad would murder her.",
+        "extract": "\u201cPromise, Geoff \u2014 Dad\u2019d murder me.\u201d",
+        "citation": "Going Places.md#L130:1"
+    },
+    {
+        "question": "What was Geoff's response?",
+        "answer": "Geoff's response was, \u201cOnly if he thought it was true.\u201d",
+        "extract": "\u201cOnly if he thought it was true.\u201d",
+        "citation": "Going Places.md#L132:1"
+    },
+    {
+        "question": "What did Sophie say about Casey and girls?",
+        "answer": "Sophie said that Casey doesn't have strings of girls.",
+        "extract": "\u201cNo he doesn\u2019t.\u201d",
+        "citation": "Going Places.md#L136:1"
+    },
+    {
+        "question": "What did Geoff say?",
+        "answer": "Geoff said, \u201cHow could you know that?\u201d",
+        "extract": "\u201cHow could you know that?\u201d he jeered.",
+        "citation": "Going Places.md#L138:1"
+    },
+    {
+        "question": "What did Sophie say?",
+        "answer": "Sophie said, \u201cHe told me, that\u2019s how.\u201d",
+        "extract": "\u201cHe told me, that\u2019s how.\u201d",
+        "citation": "Going Places.md#L140:1"
+    },
+    {
+        "question": "What did Geoff say?",
+        "answer": "Geoff said, \u201cAs if anyone would tell a girl something like that.\u201d",
+        "extract": "\u201cAs if anyone would tell a girl something like that.\u201d",
+        "citation": "Going Places.md#L142:1"
+    },
+    {
+        "question": "What did Sophie say about him being quiet?",
+        "answer": "Sophie said that he is quiet.",
+        "extract": "\u201cYes he did. He isn\u2019t like that. He\u2019s.... quiet.\u201d",
+        "citation": "Going Places.md#L144:1"
+    },
+    {
+        "question": "What did Geoff say?",
+        "answer": "Geoff said, \u201cNot as quiet as all that \u2014 apparently.\u201d",
+        "extract": "\u201cNot as quiet as all that \u2014 apparently.\u201d",
+        "citation": "Going Places.md#L146:1"
+    },
+    {
+        "question": "What did Sophie say about the encounter?",
+        "answer": "Sophie said that she spoke first.",
+        "extract": "\u201cIt was nothing like that, Geoff \u2014 it was me spoke first.",
+        "citation": "Going Places.md#L148:1"
+    },
+    {
+        "question": "What did she ask him for?",
+        "answer": "She asked him for an autograph for little Derek.",
+        "extract": "So I asked him for an autograph for little Derek, but neither of us had any paper or a pen.",
+        "citation": "Going Places.md#L149:1"
+    },
+    {
+        "question": "What did he say about meeting him next week?",
+        "answer": "He said that if she would care to meet him next week he would give her an autograph then.",
+        "extract": "And then, just as he was going, he said, if I would care to meet him next week he would give me an autograph then.",
+        "citation": "Going Places.md#L150:1"
+    },
+    {
+        "question": "What did Geoff say?",
+        "answer": "Geoff said, \u201cAs if he\u2019d ever show up.\u201d",
+        "extract": "\u201cAs if he\u2019d ever show up.\u201d",
+        "citation": "Going Places.md#L152:1"
+    },
+    {
+        "question": "What did Sophie ask him?",
+        "answer": "Sophie asked him, \u201cYou do believe me now, don\u2019t you?\u201d",
+        "extract": "\u201cYou do believe me now, don\u2019t you?\u201d",
+        "citation": "Going Places.md#L154:1"
+    },
+    {
+        "question": "What did Geoff do with his jacket?",
+        "answer": "He dragged his jacket, which was shiny and shapeless, from the back of the chair and pushed his arms into it.",
+        "extract": "He dragged his jacket, which was shiny and shapeless, from the back of the chair and pushed his arms into it.",
+        "citation": "Going Places.md#L156:1"
+    },
+    {
+        "question": "What did Sophie wish?",
+        "answer": "Sophie wished he paid more attention to his appearance and cared more about clothes.",
+        "extract": "She wished he paid more attention to his appearance. Wished he cared more about clothes.",
+        "citation": "Going Places.md#L157:1"
+    },
+    {
+        "question": "What did she think of him?",
+        "answer": "She thought he was handsome.",
+        "extract": "Handsome, she thought.",
+        "citation": "Going Places.md#L158:1"
+    },
+    {
+        "question": "What did Geoff say?",
+        "answer": "Geoff said, \u201cIt\u2019s the unlikeliest thing I ever heard.\u201d",
+        "extract": "\u201cIt\u2019s the unlikeliest thing I ever heard,\u201d he said.",
+        "citation": "Going Places.md#L160:1"
+    },
+    {
+        "question": "What did they do on Saturday?",
+        "answer": "On Saturday, they made their weekly pilgrimage to watch United.",
+        "extract": "On Saturday they made their weekly pilgrimage to watch United.",
+        "citation": "Going Places.md#L162:1"
+    },
+    {
+        "question": "Who went down near the goal?",
+        "answer": "Sophie, her father, and little Derek went down near the goal.",
+        "extract": "Sophie and her father and little Derek went down near the goal \u2014 Geoff, as always, went with his mates higher up.",
+        "citation": "Going Places.md#L163:1"
+    },
+    {
+        "question": "Who won the match?",
+        "answer": "United won the match two-nil.",
+        "extract": "United won two-nil and Casey drove in the second goal, a blend of innocence and Irish genius, going round the two big defenders on the edge of the penalty area, with her father screaming for him to pass, and beating the hesitant goalkeeper from a dozen yards.",
+        "citation": "Going Places.md#L164:1"
+    },
+    {
+        "question": "What did Casey do?",
+        "answer": "Casey drove in the second goal.",
+        "extract": "United won two-nil and Casey drove in the second goal, a blend of innocence and Irish genius, going round the two big defenders on the edge of the penalty area, with her father screaming for him to pass, and beating the hesitant goalkeeper from a dozen yards.",
+        "citation": "Going Places.md#L164:1"
+    },
+    {
+        "question": "What did Sophie do?",
+        "answer": "Sophie glowed with pride.",
+        "extract": "Sophie glowed with pride.",
+        "citation": "Going Places.md#L165:1"
+    },
+    {
+        "question": "What was Geoff's reaction afterwards?",
+        "answer": "Geoff was ecstatic afterwards.",
+        "extract": "Afterwards Geoff was ecstatic.",
+        "citation": "Going Places.md#L165:1"
+    },
+    {
+        "question": "What did someone say on the bus?",
+        "answer": "Someone on the bus said, \u201cI wish he was an Englishman.\u201d",
+        "extract": "\u201cI wish he was an Englishman,\u201d someone said on the bus.",
+        "citation": "Going Places.md#L167:1"
+    },
+    {
+        "question": "What did little Derek tell his mother?",
+        "answer": "Little Derek told his mother, \u201cIreland\u2019ll win the World Cup.\u201d",
+        "extract": "\u201cIreland\u2019ll win the World Cup,\u201d little Derek told his mother when Sophie brought him home.",
+        "citation": "Going Places.md#L169:1"
+    },
+    {
+        "question": "Where had her father gone?",
+        "answer": "Her father had gone to the pub to celebrate.",
+        "extract": "Her father was gone to the pub to celebrate.",
+        "citation": "Going Places.md#L170:1"
+    },
+    {
+        "question": "What did Jansie say next week?",
+        "answer": "Jansie said, \u201cWhat\u2019s this you\u2019ve been telling?\u201d",
+        "extract": "\u201cWhat\u2019s this you\u2019ve been telling?\u201d Jansie said, next week.",
+        "citation": "Going Places.md#L172:1"
+    },
+    {
+        "question": "What was Sophie's response?",
+        "answer": "Sophie's response was, \u201cAbout what?\u201d",
+        "extract": "\u201cAbout what?\u201d",
+        "citation": "Going Places.md#L174:1"
+    },
+    {
+        "question": "What did Jansie say?",
+        "answer": "Jansie said, \u201cYour Geoff told our Frank you met Danny Casey.\u201d",
+        "extract": "\u201cYour Geoff told our Frank you met Danny Casey.\u201d",
+        "citation": "Going Places.md#L176:1"
+    },
+    {
+        "question": "What was Sophie's reaction?",
+        "answer": "Sophie was startled.",
+        "extract": "But Sophie was startled.",
+        "citation": "Going Places.md#L178:1"
+    },
+    {
+        "question": "What did Jansie sense?",
+        "answer": "Jansie sensed she was covering.",
+        "extract": "Jansie frowned, sensing she was covering.",
+        "citation": "Going Places.md#L182:1"
+    },
+    {
+        "question": "What did Sophie say?",
+        "answer": "Sophie said, \u201cWell-yes, I did.\u201d",
+        "extract": "\u201cWell-yes, I did.\u201d",
+        "citation": "Going Places.md#L184:1"
+    },
+    {
+        "question": "What did Jansie exclaim?",
+        "answer": "Jansie exclaimed, \u201cYou never did?\u201d",
+        "extract": "\u201cYou never did?\u201d Jansie exclaimed.",
+        "citation": "Going Places.md#L186:1"
+    },
+    {
+        "question": "What did Sophie do?",
+        "answer": "Sophie glared at the ground.",
+        "extract": "Sophie glared at the ground.",
+        "citation": "Going Places.md#L188:1"
+    },
+    {
+        "question": "What did she think about Geoff?",
+        "answer": "She thought that this was a Geoff thing not a Jansie thing, and that he shouldn't have told anyone.",
+        "extract": "Damn that Geoff, this was a Geoff thing not a Jansie thing. It was meant to be something special just between them. Something secret. It wasn\u2019t a Jansie kind of thing at all. Tell gawky Jansie something like that and the whole neighbourhood would get to know it. Damn that Geoff, was nothing sacred?",
+        "citation": "Going Places.md#L188:1"
+    },
+    {
+        "question": "What did she say was a secret?",
+        "answer": "She said that her meeting with Danny Casey was meant to be a secret.",
+        "extract": "\u201cIt\u2019s a secret \u2014 meant to be.\u201d",
+        "citation": "Going Places.md#L190:1"
+    },
+    {
+        "question": "What did Jansie say?",
+        "answer": "Jansie said, \u201cI\u2019ll keep a secret, Soaf, you know that.\u201d",
+        "extract": "\u201cI\u2019ll keep a secret, Soaf, you know that.\u201d",
+        "citation": "Going Places.md#L192:1"
+    },
+    {
+        "question": "What did Sophie say about her dad?",
+        "answer": "Sophie said that there would be a right old row if her dad gets to hear about it.",
+        "extract": "There\u2019ll be a right old row if my dad gets to hear about it.\u201d",
+        "citation": "Going Places.md#L194:1"
+    },
+    {
+        "question": "What did Jansie say about a row?",
+        "answer": "Jansie said that she would have thought he'd be chuffed as anything.",
+        "extract": "\u201cA row? I\u2019d have thought he\u2019d be chuffed as anything.\u201d",
+        "citation": "Going Places.md#L196:1"
+    },
+    {
+        "question": "What did Sophie realize then?",
+        "answer": "Sophie realized then that Jansie didn\u2019t know about the date bit.",
+        "extract": "She realised then that Jansie didn\u2019t know about the date bit \u2014 Geoff hadn\u2019t told about that.",
+        "citation": "Going Places.md#L198:1"
+    },
+    {
+        "question": "What did she say was just a little thing?",
+        "answer": "She said that her meeting with Danny Casey was just a little thing.",
+        "extract": "\u201cIt was just a little thing really. I asked him for an autograph, but we hadn\u2019t any paper or a pen so it was no good.\u201d",
+        "citation": "Going Places.md#L200:1"
+    },
+    {
+        "question": "What did Jansie say?",
+        "answer": "Jansie said, \u201cJesus, I wish I\u2019d have been there.\u201d",
+        "extract": "\u201cJesus, I wish I\u2019d have been there.\u201d",
+        "citation": "Going Places.md#L202:1"
+    },
+    {
+        "question": "What did Sophie say about her dad?",
+        "answer": "Sophie said that her dad didn't want to believe it and that he's a misery.",
+        "extract": "\u201cOf course, my dad didn\u2019t want to believe it. You know what a misery he is.",
+        "citation": "Going Places.md#L204:1"
+    },
+    {
+        "question": "What did Jansie say?",
+        "answer": "Jansie said, \u201cYou can trust me, Soaf, you know that.\u201d",
+        "extract": "Jansie said, hushed, \u201cYou can trust me, Soaf, you know that.\u201d",
+        "citation": "Going Places.md#L206:1"
+    },
+    {
+        "question": "Where did Sophie walk after dark?",
+        "answer": "After dark, Sophie walked by the canal.",
+        "extract": "After dark she walked by the canal, along a sheltered path lighted only by the glare of the lamps from the wharf across the water, and the unceasing drone of the city was muffled and distant.",
+        "citation": "Going Places.md#L208:1"
+    },
+    {
+        "question": "What was the place like?",
+        "answer": "It was a sheltered path lighted only by the glare of the lamps from the wharf across the water, and the unceasing drone of the city was muffled and distant.",
+        "extract": "It was a place she had often played in when she was a child. There was a wooden bench beneath a solitary elm where lovers sometimes came. She sat down to wait. It was the perfect place, she had always thought so, for a meeting of this kind. For those who wished not to be observed. She knew he would approve.",
+        "citation": "Going Places.md#L209:1"
+    },
+    {
+        "question": "What was beneath a solitary elm?",
+        "answer": "A wooden bench was beneath a solitary elm.",
+        "extract": "There was a wooden bench beneath a solitary elm where lovers sometimes came.",
+        "citation": "Going Places.md#L210:1"
+    },
+    {
+        "question": "What did she do?",
+        "answer": "She sat down to wait.",
+        "extract": "She sat down to wait.",
+        "citation": "Going Places.md#L210:1"
+    },
+    {
+        "question": "What did she imagine for some while?",
+        "answer": "For some while, waiting, she imagined his coming.",
+        "extract": "For some while, waiting, she imagined his coming.",
+        "citation": "Going Places.md#L212:1"
+    },
+    {
+        "question": "What did she begin balancing against this?",
+        "answer": "She began balancing against this the idea of his not coming.",
+        "extract": "Not until some time had elapsed did she begin balancing against this the idea of his not coming.",
+        "citation": "Going Places.md#L213:1"
+    },
+    {
+        "question": "What did she say to herself?",
+        "answer": "She said to herself, \u201cHere I sit, wishing Danny would come, wishing he would come and sensing the time passing.\u201d",
+        "extract": "Here I sit, she said to herself, wishing Danny would come, wishing he would come and sensing the time passing.",
+        "citation": "Going Places.md#L215:1"
+    },
+    {
+        "question": "What did she feel stirring inside her?",
+        "answer": "She felt the pangs of doubt stirring inside her.",
+        "extract": "I feel the pangs of doubt stirring inside me.",
+        "citation": "Going Places.md#L215:1"
+    },
+    {
+        "question": "What did she remember Geoff saying?",
+        "answer": "She remembered Geoff saying he would never come.",
+        "extract": "I remember Geoff saying he would never come, and how none of them believed me when I told them.",
+        "citation": "Going Places.md#L216:1"
+    },
+    {
+        "question": "What did she wonder?",
+        "answer": "She wondered what she would do and what she could tell them now if he doesn\u2019t come.",
+        "extract": "I wonder what will I do, what can I tell them now if he doesn\u2019t come?",
+        "citation": "Going Places.md#L216:1"
+    },
+    {
+        "question": "What did she say was the main thing?",
+        "answer": "She said the main thing was that they knew how it was, Danny and her.",
+        "extract": "But we know how it was, Danny and me \u2014 that\u2019s the main thing.",
+        "citation": "Going Places.md#L217:1"
+    },
+    {
+        "question": "What makes her despondent?",
+        "answer": "Knowing she\u2019ll never be able to show them they\u2019re wrong to doubt her makes her despondent.",
+        "extract": "But all the same, it makes me despondent, this knowing I\u2019ll never be able to show them they\u2019re wrong to doubt me.",
+        "citation": "Going Places.md#L218:1"
+    },
+    {
+        "question": "What was no sudden thing?",
+        "answer": "Resignation was no sudden thing.",
+        "extract": "Resignation was no sudden thing.",
+        "citation": "Going Places.md#L220:1"
+    },
+    {
+        "question": "What did she think she had become?",
+        "answer": "She thought she had become sad.",
+        "extract": "Now I have become sad, she thought.",
+        "citation": "Going Places.md#L222:1"
+    },
+    {
+        "question": "What does she see in the future?",
+        "answer": "She sees the future and how she will have to live with the burden of sadness.",
+        "extract": "Sitting here waiting and knowing he will not come I can see the future and how I will have to live with this burden.",
+        "citation": "Going Places.md#L223:1"
+    },
+    {
+        "question": "What does she envisage?",
+        "answer": "She envisages the slow walk home, and Geoff\u2019s disappointed face when she tells him, \u201cHe didn\u2019t come, that Danny.\u201d",
+        "extract": "Already I envisage the slow walk home, and Geoff\u2019s disappointed face when I tell him, \u201cHe didn\u2019t come, that Danny.\u201d",
+        "citation": "Going Places.md#L224:1"
+    },
+    {
+        "question": "What will she tell herself?",
+        "answer": "She will tell herself, \u201cBut we know how it was, Danny and me.\u201d",
+        "extract": "\u201cBut we know how it was,\u201d I shall tell myself, \u201cDanny and me.\u201d",
+        "citation": "Going Places.md#L225:1"
+    },
+    {
+        "question": "What did she climb?",
+        "answer": "She climbed the crumbling steps to the street.",
+        "extract": "She climbed the crumbling steps to the street.",
+        "citation": "Going Places.md#L227:1"
+    },
+    {
+        "question": "What did she pass outside the pub?",
+        "answer": "She passed her father\u2019s bicycle propped against the wall outside the pub.",
+        "extract": "Outside the pub she passed her father\u2019s bicycle propped against the wall, and was glad.",
+        "citation": "Going Places.md#L227:1"
+    },
+    {
+        "question": "What did she picture him doing again outside Royce's?",
+        "answer": "She pictured him turning, reddening slightly, and saying, \u201cYes, that\u2019s right.\u201d",
+        "extract": "He turns, reddening slightly. \u201cYes, that\u2019s right.\u201d",
+        "citation": "Going Places.md#L231:1"
+    },
+    {
+        "question": "What does he say?",
+        "answer": "He says, \u201cYes, that\u2019s right.\u201d",
+        "extract": "He turns, reddening slightly. \u201cYes, that\u2019s right.\u201d",
+        "citation": "Going Places.md#L231:1"
+    },
+    {
+        "question": "What does she say to him?",
+        "answer": "She says to him, \u201cI watch you every week, with my dad and my brothers. We think you\u2019re great.\u201d",
+        "extract": "\u201cI watch you every week, with my dad and my brothers. We think you\u2019re great.\u201d",
+        "citation": "Going Places.md#L233:1"
+    },
+    {
+        "question": "What does he say?",
+        "answer": "He says, \u201cOh, well now \u2014 that\u2019s very nice.\u201d",
+        "extract": "\u201cOh, well now \u2014 that\u2019s very nice.\u201d",
+        "citation": "Going Places.md#L235:1"
+    },
+    {
+        "question": "What does she ask him?",
+        "answer": "She asks him, \u201cI wonder \u2014 would you mind signing an autograph?\u201d",
+        "extract": "\u201cI wonder \u2014 would you mind signing an autograph?\u201d",
+        "citation": "Going Places.md#L237:1"
+    },
+    {
+        "question": "Describe his eyes, nose, and smile.",
+        "answer": "His eyes are green, on the same level as your own, and seem to shimmer. His nose is freckled and turns upwards slightly. When he smiles, he does so shyly, exposing teeth with gaps between.",
+        "extract": "His eyes are on the same level as your own. His nose is freckled and turns upwards slightly, and when he smiles he does so shyly, exposing teeth with gaps between. His eyes are green, and when he looks straight at you they seem to shimmer.",
+        "citation": "Going Places.md#L239:1"
+    },
+    {
+        "question": "What does he say?",
+        "answer": "He says, \u201cI don\u2019t seem to have a pen at all.\u201d",
+        "extract": "And he says, \u201cI don\u2019t seem to have a pen at all.\u201d",
+        "citation": "Going Places.md#L241:1"
+    },
+    {
+        "question": "What do you realize?",
+        "answer": "You realize you haven\u2019t either.",
+        "extract": "You realise you haven\u2019t either.",
+        "citation": "Going Places.md#L243:1"
+    },
+    {
+        "question": "What do you say?",
+        "answer": "You say, \u201cMy brothers will be very sorry.\u201d",
+        "extract": "\u201cMy brothers will be very sorry,\u201d you say.",
+        "citation": "Going Places.md#L245:1"
+    },
+    {
+        "question": "What do you do afterwards?",
+        "answer": "Afterwards, you wait there alone in the arcade for a long while, standing where he stood, remembering the soft melodious voice, the shimmer of green eyes.",
+        "extract": "And afterwards you wait there alone in the arcade for a long while, standing where he stood, remembering the soft melodious voice, the shimmer of green eyes.",
+        "citation": "Going Places.md#L247:1"
+    },
+    {
+        "question": "What did she see all again, last Saturday?",
+        "answer": "She saw him ghost past the lumbering defenders, heard the fifty thousand catch their breath as he hovered momentarily over the ball, and then the explosion of sound as he struck it crisply into the goal, the sudden thunderous eruption of exultant approbation.",
+        "extract": "And she saw it all again, last Saturday \u2014 saw him ghost past the lumbering defenders, heard the fifty thousand catch their breath as he hovered momentarily over the ball, and then the explosion of sound as he struck it crisply into the goal, the sudden thunderous eruption of exultant approbation.",
+        "citation": "Going Places.md#L249:1"
+    }
+]

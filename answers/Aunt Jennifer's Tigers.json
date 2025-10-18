@@ -1,0 +1,56 @@
+[
+    {
+        "question": "What do Aunt Jennifer's tigers do?",
+        "answer": "Aunt Jennifer's tigers prance across a screen.",
+        "extract": "Aunt Jennifer\u2019s tigers prance across a screen,",
+        "citation": "Aunt Jennifer's Tigers.md#L1:1"
+    },
+    {
+        "question": "How are the tigers described?",
+        "answer": "The tigers are described as bright topaz denizens of a world of green.",
+        "extract": "Bright topaz denizens of a world of green.",
+        "citation": "Aunt Jennifer's Tigers.md#L2:1"
+    },
+    {
+        "question": "What do the tigers not fear?",
+        "answer": "The tigers do not fear the men beneath the tree.",
+        "extract": "They do not fear the men beneath the tree;",
+        "citation": "Aunt Jennifer's Tigers.md#L3:1"
+    },
+    {
+        "question": "How do the tigers pace?",
+        "answer": "The tigers pace in sleek chivalric certainty.",
+        "extract": "They pace in sleek chivalric certainty.",
+        "citation": "Aunt Jennifer's Tigers.md#L4:1"
+    },
+    {
+        "question": "What does Aunt Jennifer's fingers do?",
+        "answer": "Aunt Jennifer's fingers flutter through her wool.",
+        "extract": "Aunt Jennifer\u2019s fingers fluttering through her wool",
+        "citation": "Aunt Jennifer's Tigers.md#L5:1"
+    },
+    {
+        "question": "What does she find hard to pull?",
+        "answer": "She finds even the ivory needle hard to pull.",
+        "extract": "Find even the ivory needle hard to pull.",
+        "citation": "Aunt Jennifer's Tigers.md#L6:1"
+    },
+    {
+        "question": "What sits heavily upon her hand?",
+        "answer": "The massive weight of Uncle's wedding band sits heavily upon her hand.",
+        "extract": "The massive weight of Uncle\u2019s wedding band\nSits heavily upon Aunt Jennifer\u2019s hand.",
+        "citation": "Aunt Jennifer's Tigers.md#L7:1"
+    },
+    {
+        "question": "What will happen to Aunt Jennifer's hands when she is dead?",
+        "answer": "When she is dead, her terrified hands will lie still ringed with ordeals she was mastered by.",
+        "extract": "When Aunt is dead, her terrified hands will lie\nStill ringed with ordeals she was mastered by.",
+        "citation": "Aunt Jennifer's Tigers.md#L9:1"
+    },
+    {
+        "question": "What will the tigers in the panel do?",
+        "answer": "The tigers in the panel that she made will go on prancing, proud and unafraid.",
+        "extract": "The tigers in the panel that she made\nWill go on prancing, proud and unafraid.",
+        "citation": "Aunt Jennifer's Tigers.md#L11:1"
+    }
+]

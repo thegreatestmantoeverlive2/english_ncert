@@ -1,0 +1,566 @@
+[
+    {
+        "question": "What does the author ask Saheb?",
+        "answer": "The author asks Saheb why he does this.",
+        "extract": "\"Why do you do this?\" I ask Saheb whom I encounter every morning scrounging for gold in the garbage dumps of my neighbourhood.",
+        "citation": "Lost Spring.md#L3:1"
+    },
+    {
+        "question": "Where does the author encounter Saheb every morning?",
+        "answer": "The author encounters Saheb every morning scrounging for gold in the garbage dumps of her neighbourhood.",
+        "extract": "I ask Saheb whom I encounter every morning scrounging for gold in the garbage dumps of my neighbourhood.",
+        "citation": "Lost Spring.md#L3:1"
+    },
+    {
+        "question": "What is Saheb scrounging for?",
+        "answer": "Saheb is scrounging for gold in the garbage dumps.",
+        "extract": "scrounging for gold in the garbage dumps of my neighbourhood.",
+        "citation": "Lost Spring.md#L3:1"
+    },
+    {
+        "question": "Where was Saheb's home originally?",
+        "answer": "Saheb's home was originally set amidst the green fields of Dhaka.",
+        "extract": "Set amidst the green fields of Dhaka, his home is not even a distant memory.",
+        "citation": "Lost Spring.md#L4:1"
+    },
+    {
+        "question": "What does his mother tell him about their old home?",
+        "answer": "His mother tells him that there were many storms that swept away their fields and homes.",
+        "extract": "There were many storms that swept away their fields and homes, his mother tells him.",
+        "citation": "Lost Spring.md#L5:1"
+    },
+    {
+        "question": "Why did they leave their home?",
+        "answer": "They left their home because many storms swept away their fields and homes.",
+        "extract": "That's why they left, looking for gold in the big city where he now lives.",
+        "citation": "Lost Spring.md#L6:1"
+    },
+    {
+        "question": "What is Saheb's response when asked why he does this?",
+        "answer": "Saheb's response is that he has nothing else to do.",
+        "extract": "\"I have nothing else to do,\" he mutters, looking away.",
+        "citation": "Lost Spring.md#L7:1"
+    },
+    {
+        "question": "What advice does the author give Saheb?",
+        "answer": "The author advises Saheb to go to school.",
+        "extract": "\"Go to school,\" I say glibly, realising immediately how hollow the advice must sound.",
+        "citation": "Lost Spring.md#L8:1"
+    },
+    {
+        "question": "What is Saheb's response to the advice?",
+        "answer": "Saheb's response to the advice is that there is no school in his neighbourhood, but when they build one, he will go.",
+        "extract": "\"There is no school in my neighbourhood. When they build one, I will go.\"",
+        "citation": "Lost Spring.md#L9:1"
+    },
+    {
+        "question": "What does the author ask Saheb, half-joking?",
+        "answer": "The author asks Saheb, half-joking, if he will come if she starts a school.",
+        "extract": "\"If I start a school, will you come?\" I ask, half-joking.",
+        "citation": "Lost Spring.md#L10:1"
+    },
+    {
+        "question": "What is Saheb's reply?",
+        "answer": "Saheb's reply is, \u201cYes,\u201d with a broad smile.",
+        "extract": "\"Yes,\" he says, smiling broadly.",
+        "citation": "Lost Spring.md#L11:1"
+    },
+    {
+        "question": "What does Saheb ask the author a few days later?",
+        "answer": "A few days later, Saheb asks the author, \u201cIs your school ready?\u201d",
+        "extract": "A few days later I see him running up to me. \"Is your school ready?\"",
+        "citation": "Lost Spring.md#L12:1"
+    },
+    {
+        "question": "What was the author's promise not meant to be?",
+        "answer": "The author's promise was not meant to be a real promise.",
+        "extract": "\"It takes longer to build a school,\" I say, embarrassed at having made a promise that was not meant.",
+        "citation": "Lost Spring.md#L13:1"
+    },
+    {
+        "question": "What is Saheb's full name?",
+        "answer": "Saheb's full name is Saheb-e-Alam.",
+        "extract": "\"Saheb-e-Alam,\" he announces.",
+        "citation": "Lost Spring.md#L15:1"
+    },
+    {
+        "question": "What does his name mean?",
+        "answer": "His name means lord of the universe.",
+        "extract": "If he knew its meaning \u2014 lord of the universe \u2014 he would have a hard time believing it.",
+        "citation": "Lost Spring.md#L16:1"
+    },
+    {
+        "question": "What does Saheb do, unaware of his name's meaning?",
+        "answer": "Unaware of his name's meaning, he roams the streets with his friends.",
+        "extract": "Unaware of what his name represents, he roams the streets with his friends, an army of barefoot boys who appear like the morning birds and disappear at noon.",
+        "citation": "Lost Spring.md#L17:1"
+    },
+    {
+        "question": "What are his friends like?",
+        "answer": "His friends are an army of barefoot boys who appear like the morning birds and disappear at noon.",
+        "extract": "an army of barefoot boys who appear like the morning birds and disappear at noon.",
+        "citation": "Lost Spring.md#L17:1"
+    },
+    {
+        "question": "What question does the author ask one of the boys?",
+        "answer": "The author asks one of the boys why he isn't wearing chappals.",
+        "extract": "\"Why aren't you wearing chappals?\" I ask one.",
+        "citation": "Lost Spring.md#L19:1"
+    },
+    {
+        "question": "What is the boy's answer?",
+        "answer": "The boy's answer is that his mother did not bring them down from the shelf.",
+        "extract": "\"My mother did not bring them down from the shelf,\" he answers simply.",
+        "citation": "Lost Spring.md#L20:1"
+    },
+    {
+        "question": "What does another boy say?",
+        "answer": "Another boy says that even if she did, he will throw them off.",
+        "extract": "\"Even if she did he will throw them off,\" adds another who is wearing shoes that do not match.",
+        "citation": "Lost Spring.md#L21:1"
+    },
+    {
+        "question": "What does a third boy say he wants?",
+        "answer": "A third boy says he wants shoes.",
+        "extract": "\"I want shoes,\" says a third boy who has never owned a pair all his life.",
+        "citation": "Lost Spring.md#L23:1"
+    },
+    {
+        "question": "What is one explanation for children walking barefoot?",
+        "answer": "One explanation for children walking barefoot is that it is not a lack of money but a tradition to stay barefoot.",
+        "extract": "It is not lack of money but a tradition to stay barefoot, is one explanation.",
+        "citation": "Lost Spring.md#L25:1"
+    },
+    {
+        "question": "What does the author wonder about this explanation?",
+        "answer": "The author wonders if this is only an excuse to explain away a perpetual state of poverty.",
+        "extract": "I wonder if this is only an excuse to explain away a perpetual state of poverty.",
+        "citation": "Lost Spring.md#L26:1"
+    },
+    {
+        "question": "What story does the author remember from a man from Udipi?",
+        "answer": "The author remembers a story a man from Udipi once told her about a young boy who would pray for a pair of shoes.",
+        "extract": "I remember a story a man from Udipi once told me. As a young boy he would go to school past an old temple, where his father was a priest. He would stop briefly at the temple and pray for a pair of shoes.",
+        "citation": "Lost Spring.md#L27:1"
+    },
+    {
+        "question": "What did the man do as a young boy?",
+        "answer": "As a young boy, he would go to school past an old temple, where his father was a priest, and stop briefly at the temple and pray for a pair of shoes.",
+        "extract": "As a young boy he would go to school past an old temple, where his father was a priest. He would stop briefly at the temple and pray for a pair of shoes.",
+        "citation": "Lost Spring.md#L28:1"
+    },
+    {
+        "question": "What did he pray for?",
+        "answer": "He prayed for a pair of shoes.",
+        "extract": "He would stop briefly at the temple and pray for a pair of shoes.",
+        "citation": "Lost Spring.md#L28:1"
+    },
+    {
+        "question": "What did the author find thirty years later?",
+        "answer": "Thirty years later, the author visited his town and the temple, which was now drowned in an air of desolation.",
+        "extract": "Thirty years later I visited his town and the temple, which was now drowned in an air of desolation.",
+        "citation": "Lost Spring.md#L29:1"
+    },
+    {
+        "question": "What was in the backyard of the temple?",
+        "answer": "In the backyard of the temple, where lived the new priest, there were red and white plastic chairs.",
+        "extract": "In the backyard, where lived the new priest, there were red and white plastic chairs.",
+        "citation": "Lost Spring.md#L30:1"
+    },
+    {
+        "question": "Who arrived at the temple?",
+        "answer": "A young boy dressed in a grey uniform, wearing socks and shoes, arrived at the temple.",
+        "extract": "A young boy dressed in a grey uniform, wearing socks and shoes, arrived panting and threw his school bag on a folding bed.",
+        "citation": "Lost Spring.md#L31:1"
+    },
+    {
+        "question": "What prayer did the author remember?",
+        "answer": "The author remembered the prayer another boy had made to the goddess when he had finally got a pair of shoes, \u201cLet me never lose them.\u201d",
+        "extract": "Looking at the boy, I remembered the prayer another boy had made to the goddess when he had finally got a pair of shoes, \"Let me never lose them.\"",
+        "citation": "Lost Spring.md#L32:1"
+    },
+    {
+        "question": "Where does the author's acquaintance with the barefoot ragpickers lead her?",
+        "answer": "The author's acquaintance with the barefoot ragpickers leads her to Seemapuri.",
+        "extract": "My acquaintance with the barefoot ragpickers leads me to Seemapuri, a place on the periphery of Delhi yet miles away from it, metaphorically.",
+        "citation": "Lost Spring.md#L34:1"
+    },
+    {
+        "question": "Where is Seemapuri located?",
+        "answer": "Seemapuri is located on the periphery of Delhi.",
+        "extract": "Seemapuri, a place on the periphery of Delhi yet miles away from it, metaphorically.",
+        "citation": "Lost Spring.md#L34:1"
+    },
+    {
+        "question": "Who are the residents of Seemapuri?",
+        "answer": "The residents of Seemapuri are squatters who came from Bangladesh back in 1971.",
+        "extract": "Those who live here are squatters who came from Bangladesh back in 1971.",
+        "citation": "Lost Spring.md#L35:1"
+    },
+    {
+        "question": "When did they come from Bangladesh?",
+        "answer": "They came from Bangladesh back in 1971.",
+        "extract": "Those who live here are squatters who came from Bangladesh back in 1971.",
+        "citation": "Lost Spring.md#L35:1"
+    },
+    {
+        "question": "What was Seemapuri like then?",
+        "answer": "Seemapuri was then a wilderness.",
+        "extract": "Seemapuri was then a wilderness.",
+        "citation": "Lost Spring.md#L37:1"
+    },
+    {
+        "question": "How many ragpickers live in Seemapuri?",
+        "answer": "10,000 ragpickers live in Seemapuri.",
+        "extract": "In structures of mud, with roofs of tin and tarpaulin, devoid of sewage, drainage or running water, live 10,000 ragpickers.",
+        "citation": "Lost Spring.md#L38:1"
+    },
+    {
+        "question": "For how long have they lived there without an identity?",
+        "answer": "They have lived there for more than thirty years without an identity.",
+        "extract": "They have lived here for more than thirty years without an identity, without permits but with ration cards that get their names on voters' lists and enable them to buy grain.",
+        "citation": "Lost Spring.md#L39:1"
+    },
+    {
+        "question": "What do they have instead of permits?",
+        "answer": "They have ration cards instead of permits.",
+        "extract": "without permits but with ration cards that get their names on voters' lists and enable them to buy grain.",
+        "citation": "Lost Spring.md#L39:1"
+    },
+    {
+        "question": "What is more important for survival than an identity?",
+        "answer": "Food is more important for survival than an identity.",
+        "extract": "Food is more important for survival than an identity.",
+        "citation": "Lost Spring.md#L40:1"
+    },
+    {
+        "question": "What do a group of women in tattered saris say?",
+        "answer": "A group of women in tattered saris say, \u201cIf at the end of the day we can feed our families and go to bed without an aching stomach, we would rather live here than in the fields that gave us no grain.\u201d",
+        "extract": "\"If at the end of the day we can feed our families and go to bed without an aching stomach, we would rather live here than in the fields that gave us no grain,\" say a group of women in tattered saris when I ask them why they left their beautiful land of green fields and rivers.",
+        "citation": "Lost Spring.md#L41:1"
+    },
+    {
+        "question": "What do they do wherever they find food?",
+        "answer": "Wherever they find food, they pitch their tents that become transit homes.",
+        "extract": "Wherever they find food, they pitch their tents that become transit homes.",
+        "citation": "Lost Spring.md#L42:1"
+    },
+    {
+        "question": "What does survival in Seemapuri mean?",
+        "answer": "Survival in Seemapuri means rag-picking.",
+        "extract": "And survival in Seemapuri means rag-picking.",
+        "citation": "Lost Spring.md#L44:1"
+    },
+    {
+        "question": "What has rag-picking acquired over the years?",
+        "answer": "Over the years, rag-picking has acquired the proportions of a fine art.",
+        "extract": "Through the years, it has acquired the proportions of a fine art.",
+        "citation": "Lost Spring.md#L45:1"
+    },
+    {
+        "question": "What is garbage to the ragpickers?",
+        "answer": "Garbage to the ragpickers is gold.",
+        "extract": "Garbage to them is gold.",
+        "citation": "Lost Spring.md#L46:1"
+    },
+    {
+        "question": "What does Saheb sometimes find in the garbage?",
+        "answer": "Saheb sometimes finds a rupee, even a ten-rupee note, in the garbage.",
+        "extract": "\"I sometimes find a rupee, even a ten-rupee note,\" Saheb says, his eyes lighting up.",
+        "citation": "Lost Spring.md#L48:1"
+    },
+    {
+        "question": "What does finding a silver coin mean to the children?",
+        "answer": "Finding a silver coin in a heap of garbage gives the children hope of finding more.",
+        "extract": "When you can find a silver coin in a heap of garbage, you don't stop scrounging, for there is hope of finding more.",
+        "citation": "Lost Spring.md#L49:1"
+    },
+    {
+        "question": "What is the meaning of garbage for children and elders?",
+        "answer": "For the children, garbage is wrapped in wonder, while for the elders it is a means of survival.",
+        "extract": "It seems that for children, garbage has a meaning different from what it means to their parents. For the children it is wrapped in wonder, for the elders it is a means of survival.",
+        "citation": "Lost Spring.md#L50:1"
+    },
+    {
+        "question": "What does the author see Saheb doing one winter morning?",
+        "answer": "One winter morning, the author sees Saheb standing by the fenced gate of the neighbourhood club, watching two young men dressed in white, playing tennis.",
+        "extract": "One winter morning I see Saheb standing by the fenced gate of the neighbourhood club, watching two young men dressed in white, playing tennis.",
+        "citation": "Lost Spring.md#L51:1"
+    },
+    {
+        "question": "What is Saheb watching?",
+        "answer": "Saheb is watching two young men dressed in white, playing tennis.",
+        "extract": "watching two young men dressed in white, playing tennis.",
+        "citation": "Lost Spring.md#L51:1"
+    },
+    {
+        "question": "What does Saheb admit to the author?",
+        "answer": "Saheb admits to the author that he goes inside when no one is around and the gatekeeper lets him use the swing.",
+        "extract": "\"I go inside when no one is around,\" he admits. \"The gatekeeper lets me use the swing.\"",
+        "citation": "Lost Spring.md#L53:1"
+    },
+    {
+        "question": "What is Saheb wearing?",
+        "answer": "Saheb is wearing tennis shoes that look strange over his discoloured shirt and shorts.",
+        "extract": "Saheb too is wearing tennis shoes that look strange over his discoloured shirt and shorts.",
+        "citation": "Lost Spring.md#L54:1"
+    },
+    {
+        "question": "What explanation does he give for the shoes?",
+        "answer": "He says that someone gave them to him.",
+        "extract": "\"Someone gave them to me,\" he says in the manner of an explanation.",
+        "citation": "Lost Spring.md#L55:1"
+    },
+    {
+        "question": "What is Saheb's job now?",
+        "answer": "Saheb's job now is working in a tea stall down the road.",
+        "extract": "\"I now work in a tea stall down the road,\" he says, pointing in the distance.",
+        "citation": "Lost Spring.md#L58:1"
+    },
+    {
+        "question": "How much is he paid?",
+        "answer": "He is paid 800 rupees and all his meals.",
+        "extract": "\"I am paid 800 rupees and all my meals.\"",
+        "citation": "Lost Spring.md#L59:1"
+    },
+    {
+        "question": "What has Saheb lost?",
+        "answer": "Saheb has lost the carefree look.",
+        "extract": "His face, I see, has lost the carefree look.",
+        "citation": "Lost Spring.md#L61:1"
+    },
+    {
+        "question": "What seems heavier than his plastic bag?",
+        "answer": "The steel canister seems heavier than his plastic bag.",
+        "extract": "The steel canister seems heavier than the plastic bag he would carry so lightly over his shoulder.",
+        "citation": "Lost Spring.md#L62:1"
+    },
+    {
+        "question": "Who does the canister belong to?",
+        "answer": "The canister belongs to the man who owns the tea shop.",
+        "extract": "The canister belongs to the man who owns the tea shop.",
+        "citation": "Lost Spring.md#L63:1"
+    },
+    {
+        "question": "What does Mukesh insist on being?",
+        "answer": "Mukesh insists on being his own master.",
+        "extract": "Mukesh insists on being his own master.",
+        "citation": "Lost Spring.md#L66:1"
+    },
+    {
+        "question": "What does the author ask Mukesh?",
+        "answer": "The author asks Mukesh if he knows anything about cars.",
+        "extract": "\"Do you know anything about cars?\" I ask.",
+        "citation": "Lost Spring.md#L67:1"
+    },
+    {
+        "question": "What is Mukesh's answer?",
+        "answer": "Mukesh's answer is, \u201cI will learn to drive a car.\u201d",
+        "extract": "\"I will learn to drive a car,\" he answers, looking straight into my eyes.",
+        "citation": "Lost Spring.md#L68:1"
+    },
+    {
+        "question": "Where does his dream loom like a mirage?",
+        "answer": "His dream looms like a mirage amidst the dust of streets that fill his town Firozabad.",
+        "extract": "His dream looms like a mirage amidst the dust of streets that fill his town Firozabad, famous for its bangles.",
+        "citation": "Lost Spring.md#L69:1"
+    },
+    {
+        "question": "What is Firozabad famous for?",
+        "answer": "Firozabad is famous for its bangles.",
+        "extract": "Firozabad, famous for its bangles.",
+        "citation": "Lost Spring.md#L69:1"
+    },
+    {
+        "question": "What is every other family in Firozabad engaged in?",
+        "answer": "Every other family in Firozabad is engaged in making bangles.",
+        "extract": "Every other family in Firozabad is engaged in making bangles.",
+        "citation": "Lost Spring.md#L70:1"
+    },
+    {
+        "question": "What is illegal for children like Mukesh?",
+        "answer": "It is illegal for children like Mukesh to work in the glass furnaces with high temperatures, in dingy cells without air and light.",
+        "extract": "None of them know that it is illegal for children like him to work in the glass furnaces with high temperatures, in dingy cells without air and light; that the law, if enforced, could get him and all those 20,000 children out of the hot furnaces where they slog their daylight hours, often losing the brightness of their eyes.",
+        "citation": "Lost Spring.md#L72:1"
+    },
+    {
+        "question": "What does Mukesh volunteer to do?",
+        "answer": "Mukesh volunteers to take the author home.",
+        "extract": "Mukesh's eyes beam as he volunteers to take me home, which he proudly says is being rebuilt.",
+        "citation": "Lost Spring.md#L73:1"
+    },
+    {
+        "question": "Describe the lanes and homes in Firozabad.",
+        "answer": "The lanes in Firozabad are stinking and choked with garbage. The homes are hovels with crumbling walls, wobbly doors, no windows, and are crowded with families of humans and animals coexisting in a primeval state.",
+        "extract": "We walk down stinking lanes choked with garbage, past homes that remain hovels with crumbling walls, wobbly doors, no windows, crowded with families of humans and animals coexisting in a primeval state.",
+        "citation": "Lost Spring.md#L74:1"
+    },
+    {
+        "question": "Describe the home Mukesh takes the author to.",
+        "answer": "The home Mukesh takes the author to is a half-built shack. In one part of it, thatched with dead grass, is a firewood stove over which sits a large vessel of sizzling spinach leaves. On the ground, in large aluminium platters, are more chopped vegetables.",
+        "extract": "We enter a half-built shack. In one part of it, thatched with dead grass, is a firewood stove over which sits a large vessel of sizzling spinach leaves. On the ground, in large aluminium platters, are more chopped vegetables.",
+        "citation": "Lost Spring.md#L76:1"
+    },
+    {
+        "question": "Who is cooking the evening meal?",
+        "answer": "A frail young woman is cooking the evening meal for the whole family.",
+        "extract": "A frail young woman is cooking the evening meal for the whole family.",
+        "citation": "Lost Spring.md#L77:1"
+    },
+    {
+        "question": "Who is she in charge of?",
+        "answer": "She is in charge of three men \u2014 her husband, Mukesh and their father.",
+        "extract": "She is the wife of Mukesh's elder brother. Not much older in years, she has begun to command respect as the bahu, the daughter-in-law of the house, already in charge of three men \u2014 her husband, Mukesh and their father.",
+        "citation": "Lost Spring.md#L78:1"
+    },
+    {
+        "question": "What does she do when the older man enters?",
+        "answer": "When the older man enters, she gently withdraws behind the broken wall and brings her veil closer to her face.",
+        "extract": "When the older man enters, she gently withdraws behind the broken wall and brings her veil closer to her face.",
+        "citation": "Lost Spring.md#L79:1"
+    },
+    {
+        "question": "What has the older man failed to do despite long years of hard labour?",
+        "answer": "Despite long years of hard labour, the older man has failed to renovate a house and send his two sons to school.",
+        "extract": "Despite long years of hard labour, first as a tailor, then a bangle maker, he has failed to renovate a house, send his two sons to school.",
+        "citation": "Lost Spring.md#L81:1"
+    },
+    {
+        "question": "What has he managed to do?",
+        "answer": "He has managed to teach them what he knows \u2014 the art of making bangles.",
+        "extract": "All he has managed to do is teach them what he knows \u2014 the art of making bangles.",
+        "citation": "Lost Spring.md#L82:1"
+    },
+    {
+        "question": "What does Mukesh's grandmother say about his destiny?",
+        "answer": "Mukesh's grandmother says that it is his karam, his destiny.",
+        "extract": "\"It is his karam, his destiny,\" says Mukesh's grandmother, who has watched her own husband go blind with the dust from polishing the glass of bangles.",
+        "citation": "Lost Spring.md#L83:1"
+    },
+    {
+        "question": "What happened to her own husband?",
+        "answer": "Her own husband went blind with the dust from polishing the glass of bangles.",
+        "extract": "who has watched her own husband go blind with the dust from polishing the glass of bangles.",
+        "citation": "Lost Spring.md#L83:1"
+    },
+    {
+        "question": "What have the people of Firozabad seen nothing but?",
+        "answer": "The people of Firozabad have seen nothing but bangles.",
+        "extract": "Born in the caste of bangle makers, they have seen nothing but bangles \u2014 in the house, in the yard, in every other house, every other yard, every street in Firozabad.",
+        "citation": "Lost Spring.md#L85:1"
+    },
+    {
+        "question": "Describe the spirals of bangles.",
+        "answer": "The spirals of bangles are sunny gold, paddy green, royal blue, pink, purple, every colour born out of the seven colours of the rainbow.",
+        "extract": "Spirals of bangles \u2014 sunny gold, paddy green, royal blue, pink, purple, every colour born out of the seven colours of the rainbow \u2014 lie in mounds in unkempt yards, are piled on four-wheeled handcarts, pushed by young men along the narrow lanes of the shanty town.",
+        "citation": "Lost Spring.md#L86:1"
+    },
+    {
+        "question": "Where do boys and girls sit welding pieces of glass?",
+        "answer": "Boys and girls sit in dark hutments, next to lines of flames of flickering oil lamps, welding pieces of coloured glass into circles of bangles.",
+        "extract": "And in dark hutments, next to lines of flames of flickering oil lamps, sit boys and girls with their fathers and mothers, welding pieces of coloured glass into circles of bangles.",
+        "citation": "Lost Spring.md#L87:1"
+    },
+    {
+        "question": "What happens to their eyesight?",
+        "answer": "Their eyes are more adjusted to the dark than to the light outside, so they often end up losing their eyesight before they become adults.",
+        "extract": "Their eyes are more adjusted to the dark than to the light outside. That is why they often end up losing their eyesight before they become adults.",
+        "citation": "Lost Spring.md#L88:1"
+    },
+    {
+        "question": "Who is Savita?",
+        "answer": "Savita is a young girl in a drab pink dress.",
+        "extract": "Savita, a young girl in a drab pink dress, sits alongside an elderly woman, soldering pieces of glass.",
+        "citation": "Lost Spring.md#L89:1"
+    },
+    {
+        "question": "What is she doing?",
+        "answer": "She is soldering pieces of glass.",
+        "extract": "sits alongside an elderly woman, soldering pieces of glass.",
+        "citation": "Lost Spring.md#L89:1"
+    },
+    {
+        "question": "What does the author wonder about Savita?",
+        "answer": "The author wonders if Savita knows the sanctity of the bangles she helps make.",
+        "extract": "As her hands move mechanically like the tongs of a machine, I wonder if she knows the sanctity of the bangles she helps make.",
+        "citation": "Lost Spring.md#L90:1"
+    },
+    {
+        "question": "What does the old woman beside her say?",
+        "answer": "The old woman beside her says, \u201cEk waqt ser bhar khana bhi nahin khaya.\u201d",
+        "extract": "\"Ek waqt ser bhar khana bhi nahin khaya,\" she says, in a voice drained of joy.",
+        "citation": "Lost Spring.md#L93:1"
+    },
+    {
+        "question": "What has she not enjoyed in her entire lifetime?",
+        "answer": "She has not enjoyed even one full meal in her entire lifetime.",
+        "extract": "She has not enjoyed even one full meal in her entire lifetime \u2014 that's what she has reaped!",
+        "citation": "Lost Spring.md#L94:1"
+    },
+    {
+        "question": "What does her husband say he knows?",
+        "answer": "Her husband says he knows nothing except bangles.",
+        "extract": "Her husband, an old man with a flowing beard, says, \"I know nothing except bangles.",
+        "citation": "Lost Spring.md#L95:1"
+    },
+    {
+        "question": "What has he achieved?",
+        "answer": "He has achieved making a house for the family to live in.",
+        "extract": "All I have done is make a house for the family to live in.\"",
+        "citation": "Lost Spring.md#L95:1"
+    },
+    {
+        "question": "What cry rings in every home in Firozabad?",
+        "answer": "The cry of not having money to do anything except carry on the business of making bangles, not even enough to eat, rings in every home in Firozabad.",
+        "extract": "The cry of not having money to do anything except carry on the business of making bangles, not even enough to eat, rings in every home.",
+        "citation": "Lost Spring.md#L97:1"
+    },
+    {
+        "question": "What have years of mind-numbing toil done?",
+        "answer": "Years of mind-numbing toil have killed all initiative and the ability to dream.",
+        "extract": "Years of mind-numbing toil have killed all initiative and the ability to dream.",
+        "citation": "Lost Spring.md#L99:1"
+    },
+    {
+        "question": "What does the author ask a group of young men?",
+        "answer": "The author asks a group of young men why they don't organize themselves into a cooperative.",
+        "extract": "\"Why not organise yourselves into a cooperative?\" I ask a group of young men who have fallen into the vicious circle of middlemen who trapped their fathers and forefathers.",
+        "citation": "Lost Spring.md#L100:1"
+    },
+    {
+        "question": "What is their response?",
+        "answer": "Their response is that even if they get organized, they are the ones who will be hauled up by the police, beaten and dragged to jail for doing something illegal.",
+        "extract": "\"Even if we get organised, we are the ones who will be hauled up by the police, beaten and dragged to jail for doing something illegal,\" they say.",
+        "citation": "Lost Spring.md#L101:1"
+    },
+    {
+        "question": "What are the two distinct worlds the author sees?",
+        "answer": "The author sees two distinct worlds: one of the family, caught in a web of poverty, burdened by the stigma of caste in which they are born; the other a vicious circle of the sahukars, the middlemen, the policemen, the keepers of law, the bureaucrats and the politicians.",
+        "extract": "Listening to them, I see two distinct worlds\u2014 one of the family, caught in a web of poverty, burdened by the stigma of caste in which they are born; the other a vicious circle of the sahukars, the middlemen, the policemen, the keepers of law, the bureaucrats and the politicians.",
+        "citation": "Lost Spring.md#L104:1"
+    },
+    {
+        "question": "What have they imposed on the child?",
+        "answer": "They have imposed the baggage on the child that he cannot put down.",
+        "extract": "Together they have imposed the baggage on the child that he cannot put down.",
+        "citation": "Lost Spring.md#L105:1"
+    },
+    {
+        "question": "What does Mukesh say he wants to be?",
+        "answer": "Mukesh says he wants to be a motor mechanic.",
+        "extract": "\"I want to be a motor mechanic,' he repeats.",
+        "citation": "Lost Spring.md#L108:1"
+    },
+    {
+        "question": "What does he say when the author asks if he dreams of flying a plane?",
+        "answer": "When the author asks if he dreams of flying a plane, he is suddenly silent and says, \u201cNo.\u201d",
+        "extract": "\"Do you also dream of flying a plane?\" He is suddenly silent. \"No,\" he says, staring at the ground.",
+        "citation": "Lost Spring.md#L111:1"
+    },
+    {
+        "question": "What is he content to dream of?",
+        "answer": "He is content to dream of cars that he sees hurtling down the streets of his town.",
+        "extract": "He is content to dream of cars that he sees hurtling down the streets of his town.",
+        "citation": "Lost Spring.md#L113:1"
+    }
+]

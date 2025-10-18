@@ -1,0 +1,404 @@
+[
+    {
+        "question": "When did the author find herself aboard a Russian research vessel?",
+        "answer": "The author found herself aboard a Russian research vessel early this year.",
+        "extract": "EARLY this year, I found myself aboard a Russian research vessel \u2014 the Akademik Shokalskiy \u2014 heading towards the coldest, driest, windiest continent in the world: Antarctica.",
+        "citation": "Journey to the end of the Earth.md#L1:1"
+    },
+    {
+        "question": "What was the name of the vessel?",
+        "answer": "The name of the vessel was the Akademik Shokalskiy.",
+        "extract": "the Akademik Shokalskiy",
+        "citation": "Journey to the end of the Earth.md#L1:1"
+    },
+    {
+        "question": "Where was the vessel heading?",
+        "answer": "The vessel was heading towards Antarctica.",
+        "extract": "heading towards the coldest, driest, windiest continent in the world: Antarctica.",
+        "citation": "Journey to the end of the Earth.md#L1:1"
+    },
+    {
+        "question": "How is the continent described?",
+        "answer": "The continent is described as the coldest, driest, windiest continent in the world.",
+        "extract": "the coldest, driest, windiest continent in the world: Antarctica.",
+        "citation": "Journey to the end of the Earth.md#L1:1"
+    },
+    {
+        "question": "Where did the author's journey begin?",
+        "answer": "The author's journey began 13.09 degrees north of the Equator in Madras.",
+        "extract": "My journey began 13.09 degrees north of the Equator in Madras, and involved crossing nine time zones, six checkpoints, three bodies of water, and at least as many ecospheres.",
+        "citation": "Journey to the end of the Earth.md#L2:1"
+    },
+    {
+        "question": "How many time zones did she cross?",
+        "answer": "She crossed nine time zones.",
+        "extract": "and involved crossing nine time zones, six checkpoints, three bodies of water, and at least as many ecospheres.",
+        "citation": "Journey to the end of the Earth.md#L2:1"
+    },
+    {
+        "question": "How many checkpoints did she cross?",
+        "answer": "She crossed six checkpoints.",
+        "extract": "and involved crossing nine time zones, six checkpoints, three bodies of water, and at least as many ecospheres.",
+        "citation": "Journey to the end of the Earth.md#L2:1"
+    },
+    {
+        "question": "How many bodies of water did she cross?",
+        "answer": "She crossed three bodies of water.",
+        "extract": "and involved crossing nine time zones, six checkpoints, three bodies of water, and at least as many ecospheres.",
+        "citation": "Journey to the end of the Earth.md#L2:1"
+    },
+    {
+        "question": "How many ecospheres did she cross?",
+        "answer": "She crossed at least as many ecospheres as bodies of water.",
+        "extract": "and involved crossing nine time zones, six checkpoints, three bodies of water, and at least as many ecospheres.",
+        "citation": "Journey to the end of the Earth.md#L2:1"
+    },
+    {
+        "question": "How long had the author been travelling by the time she set foot on the Antarctic continent?",
+        "answer": "The author had been travelling over 100 hours by the time she set foot on the Antarctic continent.",
+        "extract": "By the time I actually set foot on the Antarctic continent I had been travelling over 100 hours in combination of a car, an aeroplane and a ship;",
+        "citation": "Journey to the end of the Earth.md#L4:1"
+    },
+    {
+        "question": "What was her first emotion on facing Antarctica?",
+        "answer": "Her first emotion on facing Antarctica was relief.",
+        "extract": "so, my first emotion on facing Antarctica\u2019s expansive white landscape and uninterrupted blue horizon was relief, followed up with an immediate and profound wonder.",
+        "citation": "Journey to the end of the Earth.md#L5:1"
+    },
+    {
+        "question": "What was her second emotion?",
+        "answer": "Her second emotion was an immediate and profound wonder.",
+        "extract": "followed up with an immediate and profound wonder.",
+        "citation": "Journey to the end of the Earth.md#L5:1"
+    },
+    {
+        "question": "What did she wonder at?",
+        "answer": "She wondered at its immensity, its isolation, but mainly at how there could ever have been a time when India and Antarctica were part of the same landmass.",
+        "extract": "Wonder at its immensity, its isolation, but mainly at how there could ever have been a time when India and Antarctica were part of the same landmass.",
+        "citation": "Journey to the end of the Earth.md#L6:1"
+    },
+    {
+        "question": "What was the main thing she wondered about?",
+        "answer": "The main thing she wondered about was how there could ever have been a time when India and Antarctica were part of the same landmass.",
+        "extract": "but mainly at how there could ever have been a time when India and Antarctica were part of the same landmass.",
+        "citation": "Journey to the end of the Earth.md#L6:1"
+    },
+    {
+        "question": "How many years ago did Gondwana exist?",
+        "answer": "Gondwana existed six hundred and fifty million years ago.",
+        "extract": "Six hundred and fifty million years ago, a giant amalgamated southern supercontinent \u2014 Gondwana \u2014 did indeed exist, centred roughly around the present-day Antarctica.",
+        "citation": "Journey to the end of the Earth.md#L8:1"
+    },
+    {
+        "question": "What was Gondwana?",
+        "answer": "Gondwana was a giant amalgamated southern supercontinent.",
+        "extract": "a giant amalgamated southern supercontinent \u2014 Gondwana \u2014 did indeed exist, centred roughly around the present-day Antarctica.",
+        "citation": "Journey to the end of the Earth.md#L8:1"
+    },
+    {
+        "question": "Where was it centred?",
+        "answer": "It was centred roughly around the present-day Antarctica.",
+        "extract": "centred roughly around the present-day Antarctica.",
+        "citation": "Journey to the end of the Earth.md#L8:1"
+    },
+    {
+        "question": "What was different about the world then?",
+        "answer": "Things were quite different then: humans hadn\u2019t arrived on the global scene, and the climate was much warmer, hosting a huge variety of flora and fauna.",
+        "extract": "Things were quite different then: humans hadn\u2019t arrived on the global scene, and the climate was much warmer, hosting a huge variety of flora and fauna.",
+        "citation": "Journey to the end of the Earth.md#L9:1"
+    },
+    {
+        "question": "For how many years did Gondwana thrive?",
+        "answer": "Gondwana thrived for 500 million years.",
+        "extract": "For 500 million years Gondwana thrived, but around the time when the dinosaurs were wiped out and the age of the mammals got under way, the landmass was forced to separate into countries, shaping the globe much as we know it today.",
+        "citation": "Journey to the end of the Earth.md#L10:1"
+    },
+    {
+        "question": "What happened when the dinosaurs were wiped out?",
+        "answer": "When the dinosaurs were wiped out, the age of the mammals got under way and the landmass was forced to separate into countries.",
+        "extract": "but around the time when the dinosaurs were wiped out and the age of the mammals got under way, the landmass was forced to separate into countries, shaping the globe much as we know it today.",
+        "citation": "Journey to the end of the Earth.md#L10:1"
+    },
+    {
+        "question": "What was the landmass forced to do?",
+        "answer": "The landmass was forced to separate into countries.",
+        "extract": "the landmass was forced to separate into countries, shaping the globe much as we know it today.",
+        "citation": "Journey to the end of the Earth.md#L10:1"
+    },
+    {
+        "question": "What is the significance of visiting Antarctica now?",
+        "answer": "To visit Antarctica now is to be a part of that history; to get a grasp of where we\u2019ve come from and where we could possibly be heading.",
+        "extract": "To visit Antarctica now is to be a part of that history; to get a grasp of where we\u2019ve come from and where we could possibly be heading.",
+        "citation": "Journey to the end of the Earth.md#L12:1"
+    },
+    {
+        "question": "What does the author say it is to understand?",
+        "answer": "It\u2019s to understand the significance of Cordilleran folds and pre-Cambrian granite shields; ozone and carbon; evolution and extinction.",
+        "extract": "It\u2019s to understand the significance of Cordilleran folds and pre-Cambrian granite shields; ozone and carbon; evolution and extinction.",
+        "citation": "Journey to the end of the Earth.md#L13:1"
+    },
+    {
+        "question": "What can get pretty mind-boggling?",
+        "answer": "When you think about all that can happen in a million years, it can get pretty mind-boggling.",
+        "extract": "When you think about all that can happen in a million years, it can get pretty mind-boggling.",
+        "citation": "Journey to the end of the Earth.md#L14:1"
+    },
+    {
+        "question": "What does the author ask us to imagine?",
+        "answer": "The author asks us to imagine India pushing northwards, jamming against Asia to buckle its crust and form the Himalayas; South America drifting off to join North America, opening up the Drake Passage to create a cold circumpolar current, keeping Antarctica frigid, desolate, and at the bottom of the world.",
+        "extract": "Imagine: India pushing northwards, jamming against Asia to buckle its crust and form the Himalayas; South America drifting off to join North America, opening up the Drake Passage to create a cold circumpolar current, keeping Antarctica frigid, desolate, and at the bottom of the world.",
+        "citation": "Journey to the end of the Earth.md#L15:1"
+    },
+    {
+        "question": "What did South America do?",
+        "answer": "South America drifted off to join North America.",
+        "extract": "South America drifting off to join North America, opening up the Drake Passage to create a cold circumpolar current, keeping Antarctica frigid, desolate, and at the bottom of the world.",
+        "citation": "Journey to the end of the Earth.md#L15:1"
+    },
+    {
+        "question": "What did the opening up of the Drake Passage create?",
+        "answer": "The opening up of the Drake Passage created a cold circumpolar current.",
+        "extract": "opening up the Drake Passage to create a cold circumpolar current, keeping Antarctica frigid, desolate, and at the bottom of the world.",
+        "citation": "Journey to the end of the Earth.md#L15:1"
+    },
+    {
+        "question": "What did the cold circumpolar current do?",
+        "answer": "The cold circumpolar current kept Antarctica frigid, desolate, and at the bottom of the world.",
+        "extract": "keeping Antarctica frigid, desolate, and at the bottom of the world.",
+        "citation": "Journey to the end of the Earth.md#L15:1"
+    },
+    {
+        "question": "What is a chilling prospect for a sun-worshipping South Indian like the author?",
+        "answer": "For a sun-worshipping South Indian like the author, two weeks in a place where 90 per cent of the Earth\u2019s total ice volumes are stored is a chilling prospect.",
+        "extract": "For a sun-worshipping South Indian like myself, two weeks in a place where 90 per cent of the Earth\u2019s total ice volumes are stored is a chilling prospect (not just for circulatory and metabolic functions, but also for the imagination).",
+        "citation": "Journey to the end of the Earth.md#L17:1"
+    },
+    {
+        "question": "What is it like walking into?",
+        "answer": "It\u2019s like walking into a giant ping-pong ball devoid of any human markers \u2014 no trees, billboards, buildings.",
+        "extract": "It\u2019s like walking into a giant ping-pong ball devoid of any human markers \u2014 no trees, billboards, buildings.",
+        "citation": "Journey to the end of the Earth.md#L18:1"
+    },
+    {
+        "question": "What do you lose all sense of in Antarctica?",
+        "answer": "You lose all earthly sense of perspective and time in Antarctica.",
+        "extract": "You lose all earthly sense of perspective and time here.",
+        "citation": "Journey to the end of the Earth.md#L19:1"
+    },
+    {
+        "question": "What does the visual scale range from?",
+        "answer": "The visual scale ranges from the microscopic to the mighty: midges and mites to blue whales and icebergs as big as countries.",
+        "extract": "The visual scale ranges from the microscopic to the mighty: midges and mites to blue whales and icebergs as big as countries (the largest recorded was the size of Belgium).",
+        "citation": "Journey to the end of the Earth.md#L20:1"
+    },
+    {
+        "question": "How long have human civilisations been around?",
+        "answer": "Human civilisations have been around for a paltry 12,000 years.",
+        "extract": "Human civilisations have been around for a paltry 12,000 years \u2014 barely a few seconds on the geological clock.",
+        "citation": "Journey to the end of the Earth.md#L22:1"
+    },
+    {
+        "question": "What have we managed to create in that short amount of time?",
+        "answer": "In that short amount of time, we\u2019ve managed to create quite a ruckus, etching our dominance over Nature with our villages, towns, cities, megacities.",
+        "extract": "In that short amount of time, we\u2019ve managed to create quite a ruckus, etching our dominance over Nature with our villages, towns, cities, megacities.",
+        "citation": "Journey to the end of the Earth.md#L23:1"
+    },
+    {
+        "question": "What has the rapid increase of human populations left us doing?",
+        "answer": "The rapid increase of human populations has left us battling with other species for limited resources.",
+        "extract": "The rapid increase of human populations has left us battling with other species for limited resources, and the unmitigated burning of fossil fuels has now created a blanket of carbon dioxide around the world, which is slowly but surely increasing the average global temperature.",
+        "citation": "Journey to the end of the Earth.md#L24:1"
+    },
+    {
+        "question": "What has the unmitigated burning of fossil fuels created?",
+        "answer": "The unmitigated burning of fossil fuels has now created a blanket of carbon dioxide around the world.",
+        "extract": "and the unmitigated burning of fossil fuels has now created a blanket of carbon dioxide around the world, which is slowly but surely increasing the average global temperature.",
+        "citation": "Journey to the end of the Earth.md#L24:1"
+    },
+    {
+        "question": "What is this blanket of carbon dioxide doing?",
+        "answer": "This blanket of carbon dioxide is slowly but surely increasing the average global temperature.",
+        "extract": "which is slowly but surely increasing the average global temperature.",
+        "citation": "Journey to the end of the Earth.md#L24:1"
+    },
+    {
+        "question": "What is one of the most hotly contested environmental debates of our time?",
+        "answer": "Climate change is one of the most hotly contested environmental debates of our time.",
+        "extract": "Climate change is one of the most hotly contested environmental debates of our time.",
+        "citation": "Journey to the end of the Earth.md#L26:1"
+    },
+    {
+        "question": "What are the questions the author poses about climate change?",
+        "answer": "The author poses the questions: Will the West Antarctic ice sheet melt entirely? Will the Gulf Stream ocean current be disrupted? Will it be the end of the world as we know it?",
+        "extract": "Will the West Antarctic ice sheet melt entirely? Will the Gulf Stream ocean current be disrupted? Will it be the end of the world as we know it?",
+        "citation": "Journey to the end of the Earth.md#L27:1"
+    },
+    {
+        "question": "Why is Antarctica a crucial element in this debate?",
+        "answer": "Antarctica is a crucial element in this debate because it\u2019s the only place in the world, which has never sustained a human population and therefore remains relatively \u2018pristine\u2019 in this respect; but more importantly, because it holds in its ice-cores half-million-year-old carbon records trapped in its layers of ice.",
+        "extract": "Either way, Antarctica is a crucial element in this debate \u2014 not just because it\u2019s the only place in the world, which has never sustained a human population and therefore remains relatively \u2018pristine\u2019 in this respect; but more importantly, because it holds in its ice-cores half-million-year-old carbon records trapped in its layers of ice.",
+        "citation": "Journey to the end of the Earth.md#L28:1"
+    },
+    {
+        "question": "What does Antarctica hold in its ice-cores?",
+        "answer": "Antarctica holds in its ice-cores half-million-year-old carbon records trapped in its layers of ice.",
+        "extract": "it holds in its ice-cores half-million-year-old carbon records trapped in its layers of ice.",
+        "citation": "Journey to the end of the Earth.md#L28:1"
+    },
+    {
+        "question": "What is the name of the programme the author was working with?",
+        "answer": "The name of the programme the author was working with was Students on Ice.",
+        "extract": "Students on Ice, the programme I was working with on the Shokalskiy, aims to do exactly this by taking high school students to the ends of the world and providing them with inspiring educational opportunities which will help them foster a new understanding and respect for our planet.",
+        "citation": "Journey to the end of the Earth.md#L30:1"
+    },
+    {
+        "question": "What is the aim of the Students on Ice programme?",
+        "answer": "The aim of the Students on Ice programme is to take high school students to the ends of the world and providing them with inspiring educational opportunities which will help them foster a new understanding and respect for our planet.",
+        "extract": "aims to do exactly this by taking high school students to the ends of the world and providing them with inspiring educational opportunities which will help them foster a new understanding and respect for our planet.",
+        "citation": "Journey to the end of the Earth.md#L30:1"
+    },
+    {
+        "question": "How long has it been in operation?",
+        "answer": "It\u2019s been in operation for six years now.",
+        "extract": "It\u2019s been in operation for six years now, headed by Canadian Geoff Green, who got tired of carting celebrities and retired, rich, curiosity-seekers who could only \u2018give\u2019 back in a limited way.",
+        "citation": "Journey to the end of the Earth.md#L31:1"
+    },
+    {
+        "question": "Who is it headed by?",
+        "answer": "It is headed by Canadian Geoff Green.",
+        "extract": "headed by Canadian Geoff Green, who got tired of carting celebrities and retired, rich, curiosity-seekers who could only \u2018give\u2019 back in a limited way.",
+        "citation": "Journey to the end of the Earth.md#L31:1"
+    },
+    {
+        "question": "Why has the programme been so successful?",
+        "answer": "The programme has been so successful because it\u2019s impossible to go anywhere near the South Pole and not be affected by it.",
+        "extract": "The reason the programme has been so successful is because it\u2019s impossible to go anywhere near the South Pole and not be affected by it.",
+        "citation": "Journey to the end of the Earth.md#L33:1"
+    },
+    {
+        "question": "What is it easy to be blas\u00e9 about?",
+        "answer": "It\u2019s easy to be blas\u00e9 about polar ice-caps melting while sitting in the comfort zone of our respective latitude and longitude.",
+        "extract": "It\u2019s easy to be blas\u00e9 about polar ice-caps melting while sitting in the comfort zone of our respective latitude and longitude, but when you can visibly see glaciers retreating and ice shelves collapsing, you begin to realise that the threat of global warming is very real.",
+        "citation": "Journey to the end of the Earth.md#L34:1"
+    },
+    {
+        "question": "When do you begin to realise that the threat of global warming is very real?",
+        "answer": "You begin to realise that the threat of global warming is very real when you can visibly see glaciers retreating and ice shelves collapsing.",
+        "extract": "but when you can visibly see glaciers retreating and ice shelves collapsing, you begin to realise that the threat of global warming is very real.",
+        "citation": "Journey to the end of the Earth.md#L34:1"
+    },
+    {
+        "question": "Why is Antarctica the perfect place to study how little changes in the environment can have big repercussions?",
+        "answer": "Antarctica, because of her simple ecosystem and lack of biodiversity, is the perfect place to study how little changes in the environment can have big repercussions.",
+        "extract": "Antarctica, because of her simple ecosystem and lack of biodiversity, is the perfect place to study how little changes in the environment can have big repercussions.",
+        "citation": "Journey to the end of the Earth.md#L36:1"
+    },
+    {
+        "question": "What are phytoplankton?",
+        "answer": "Phytoplankton are those grasses of the sea that nourish and sustain the entire Southern Ocean\u2019s food chain.",
+        "extract": "Take the microscopic phytoplankton \u2014 those grasses of the sea that nourish and sustain the entire Southern Ocean\u2019s food chain.",
+        "citation": "Journey to the end of the Earth.md#L37:1"
+    },
+    {
+        "question": "What do these single-celled plants do?",
+        "answer": "These single-celled plants use the sun\u2019s energy to assimilate carbon and synthesise organic compounds in that wondrous and most important of processes called photosynthesis.",
+        "extract": "These single-celled plants use the sun\u2019s energy to assimilate carbon and synthesise organic compounds in that wondrous and most important of processes called photosynthesis.",
+        "citation": "Journey to the end of the Earth.md#L38:1"
+    },
+    {
+        "question": "What do scientists warn about?",
+        "answer": "Scientists warn that a further depletion in the ozone layer will affect the activities of phytoplankton.",
+        "extract": "Scientists warn that a further depletion in the ozone layer will affect the activities of phytoplankton, which in turn will affect the lives of all the marine animals and birds of the region, and the global carbon cycle.",
+        "citation": "Journey to the end of the Earth.md#L39:1"
+    },
+    {
+        "question": "What will a further depletion in the ozone layer affect?",
+        "answer": "A further depletion in the ozone layer will affect the activities of phytoplankton, which in turn will affect the lives of all the marine animals and birds of the region, and the global carbon cycle.",
+        "extract": "a further depletion in the ozone layer will affect the activities of phytoplankton, which in turn will affect the lives of all the marine animals and birds of the region, and the global carbon cycle.",
+        "citation": "Journey to the end of the Earth.md#L39:1"
+    },
+    {
+        "question": "What is the great metaphor for existence in the parable of the phytoplankton?",
+        "answer": "In the parable of the phytoplankton, there is a great metaphor for existence: take care of the small things and the big things will fall into place.",
+        "extract": "In the parable of the phytoplankton, there is a great metaphor for existence: take care of the small things and the big things will fall into place.",
+        "citation": "Journey to the end of the Earth.md#L40:1"
+    },
+    {
+        "question": "Where did the author's best Antarctic experience occur?",
+        "answer": "The author's best Antarctic experience occurred just short of the Antarctic Circle at 65.55 degrees south.",
+        "extract": "My Antarctic experience was full of such epiphanies, but the best occurred just short of the Antarctic Circle at 65.55 degrees south.",
+        "citation": "Journey to the end of the Earth.md#L42:1"
+    },
+    {
+        "question": "What had the Shokalskiy managed to do?",
+        "answer": "The Shokalskiy had managed to wedge herself into a thick white stretch of ice between the peninsula and Tadpole Island which was preventing them from going any further.",
+        "extract": "The Shokalskiy had managed to wedge herself into a thick white stretch of ice between the peninsula and Tadpole Island which was preventing us from going any further.",
+        "citation": "Journey to the end of the Earth.md#L43:1"
+    },
+    {
+        "question": "What did the Captain decide?",
+        "answer": "The Captain decided we were going to turn around and head back north.",
+        "extract": "The Captain decided we were going to turn around and head back north, but before we did, we were all instructed to climb down the gangplank and walk on the ocean.",
+        "citation": "Journey to the end of the Earth.md#L44:1"
+    },
+    {
+        "question": "What were they all instructed to do?",
+        "answer": "They were all instructed to climb down the gangplank and walk on the ocean.",
+        "extract": "we were all instructed to climb down the gangplank and walk on the ocean.",
+        "citation": "Journey to the end of the Earth.md#L44:1"
+    },
+    {
+        "question": "How many of them were there?",
+        "answer": "There were 52 of them.",
+        "extract": "So there we were, all 52 of us, kitted out in Gore-Tex and glares, walking on a stark whiteness that seemed to spread out forever.",
+        "citation": "Journey to the end of the Earth.md#L45:1"
+    },
+    {
+        "question": "What were they kitted out in?",
+        "answer": "They were kitted out in Gore-Tex and glares.",
+        "extract": "kitted out in Gore-Tex and glares, walking on a stark whiteness that seemed to spread out forever.",
+        "citation": "Journey to the end of the Earth.md#L45:1"
+    },
+    {
+        "question": "What was underneath their feet?",
+        "answer": "Underneath their feet was a metre-thick ice pack.",
+        "extract": "Underneath our feet was a metre-thick ice pack, and underneath that, 180 metres of living, breathing, salt water.",
+        "citation": "Journey to the end of the Earth.md#L46:1"
+    },
+    {
+        "question": "What was underneath the ice pack?",
+        "answer": "Underneath the ice pack was 180 metres of living, breathing, salt water.",
+        "extract": "and underneath that, 180 metres of living, breathing, salt water.",
+        "citation": "Journey to the end of the Earth.md#L46:1"
+    },
+    {
+        "question": "What were the Crabeater seals doing?",
+        "answer": "The Crabeater seals were stretching and sunning themselves on ice floes.",
+        "extract": "In the periphery Crabeater seals were stretching and sunning themselves on ice floes much like stray dogs will do under the shade of a banyan tree.",
+        "citation": "Journey to the end of the Earth.md#L47:1"
+    },
+    {
+        "question": "What was this experience nothing short of?",
+        "answer": "This experience was nothing short of a revelation: everything does indeed connect.",
+        "extract": "It was nothing short of a revelation: everything does indeed connect.",
+        "citation": "Journey to the end of the Earth.md#L48:1"
+    },
+    {
+        "question": "What was the author still wondering about later?",
+        "answer": "The author was still wondering about the beauty of balance in play on our planet.",
+        "extract": "Nine time zones, six checkpoints, three bodies of water and many ecospheres later, I was still wondering about the beauty of balance in play on our planet.",
+        "citation": "Journey to the end of the Earth.md#L50:1"
+    },
+    {
+        "question": "What does the author wonder would happen if Antarctica were to become the warm place that it once used to be?",
+        "answer": "The author wonders if we will be around to see it, or if we would have gone the way of the dinosaurs, mammoths and woolly rhinos.",
+        "extract": "How would it be if Antarctica were to become the warm place that it once used to be? Will we be around to see it, or would we have gone the way of the dinosaurs, mammoths and woolly rhinos?",
+        "citation": "Journey to the end of the Earth.md#L51:1"
+    },
+    {
+        "question": "What does the author say after spending two weeks with a bunch of teenagers?",
+        "answer": "The author says that a lot can happen in a million years, but what a difference a day makes!",
+        "extract": "But after spending two weeks with a bunch of teenagers who still have the idealism to save the world, all I can say is that a lot can happen in a million years, but what a difference a day makes!",
+        "citation": "Journey to the end of the Earth.md#L52:1"
+    }
+]
