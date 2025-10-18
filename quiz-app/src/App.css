@@ -1,0 +1,78 @@
+
+.App {
+  text-align: center;
+}
+
+.chapter-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 20px;
+  padding: 20px;
+}
+
+.chapter-card {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 20px;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+}
+
+.chapter-card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.quiz-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.quiz-card {
+  width: 70%;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 20px;
+}
+
+.question-palette {
+  width: 25%;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.palette-item {
+  width: 30px;
+  height: 30px;
+  border: 1px solid #ccc;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.palette-item.active {
+  background-color: #007bff;
+  color: white;
+}
+
+.palette-item.correct {
+  background-color: #28a745;
+  color: white;
+}
+
+.palette-item.incorrect {
+  background-color: #dc3545;
+  color: white;
+}
+
+.palette-item.review {
+  background-color: #ffc107;
+  color: black;
+}

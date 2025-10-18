@@ -1,0 +1,213 @@
+
+[
+    {
+        "question": "What action was the poet taking?",
+        "answer": "The poet was driving from her parent's home to Cochin.",
+        "extract": "Driving from my parent's home to Cochin last Friday morning...",
+        "citation": "My Mother at Sixty-six.md#L1:1"
+    },
+    {
+        "question": "Where was the poet driving from?",
+        "answer": "The poet was driving from her parent's home.",
+        "extract": "Driving from my parent's home to Cochin last Friday morning...",
+        "citation": "My Mother at Sixty-six.md#L1:1"
+    },
+    {
+        "question": "Whose home was it?",
+        "answer": "It was the poet's parent's home.",
+        "extract": "Driving from my parent's home...",
+        "citation": "My Mother at Sixty-six.md#L1:1"
+    },
+    {
+        "question": "Where was the poet driving to?",
+        "answer": "The poet was driving to Cochin.",
+        "extract": "Driving from my parent's home to Cochin...",
+        "citation": "My Mother at Sixty-six.md#L1:1"
+    },
+    {
+        "question": "What day of the week was it?",
+        "answer": "It was a Friday.",
+        "extract": "...last Friday morning...",
+        "citation": "My Mother at Sixty-six.md#L1:1"
+    },
+    {
+        "question": "What time of day was it?",
+        "answer": "It was in the morning.",
+        "extract": "...last Friday morning...",
+        "citation": "My Mother at Sixty-six.md#L1:1"
+    },
+    {
+        "question": "Who did the poet see?",
+        "answer": "The poet saw her mother.",
+        "extract": "...I saw my mother, beside me...",
+        "citation": "My Mother at Sixty-six.md#L1:1"
+    },
+    {
+        "question": "Where was the mother in relation to the poet?",
+        "answer": "The mother was beside the poet.",
+        "extract": "...I saw my mother, beside me...",
+        "citation": "My Mother at Sixty-six.md#L1:1"
+    },
+    {
+        "question": "What was the mother's physical state?",
+        "answer": "The mother was dozing, with her mouth open, and her face was ashen like a corpse.",
+        "extract": "...doze, open mouthed, her face ashen like that of a corpse...",
+        "citation": "My Mother at Sixty-six.md#L1:1"
+    },
+    {
+        "question": "Was her mouth open or closed?",
+        "answer": "Her mouth was open.",
+        "extract": "...open mouthed...",
+        "citation": "My Mother at Sixty-six.md#L1:1"
+    },
+    {
+        "question": "What was the appearance of her face?",
+        "answer": "Her face was ashen like that of a corpse.",
+        "extract": "...her face ashen like that of a corpse...",
+        "citation": "My Mother at Sixty-six.md#L1:1"
+    },
+    {
+        "question": "What was her face ashen like?",
+        "answer": "Her face was ashen like that of a corpse.",
+        "extract": "...her face ashen like that of a corpse...",
+        "citation": "My Mother at Sixty-six.md#L1:1"
+    },
+    {
+        "question": "What emotion did the poet realize this with?",
+        "answer": "The poet realized this with pain.",
+        "extract": "...and realised with pain...",
+        "citation": "My Mother at Sixty-six.md#L1:1"
+    },
+    {
+        "question": "What was the realization?",
+        "answer": "The realization was that her mother was as old as she looked.",
+        "extract": "...that she was as old as she looked...",
+        "citation": "My Mother at Sixty-six.md#L1:1"
+    },
+    {
+        "question": "What did the poet do with that thought?",
+        "answer": "The poet put that thought away.",
+        "extract": "...but soon put that thought away...",
+        "citation": "My Mother at Sixty-six.md#L1:1"
+    },
+    {
+        "question": "How quickly did the poet put the thought away?",
+        "answer": "The poet put the thought away soon.",
+        "extract": "...but soon put that thought away...",
+        "citation": "My Mother at Sixty-six.md#L1:1"
+    },
+    {
+        "question": "Where did the poet look after putting the thought away?",
+        "answer": "The poet looked out at Young Trees sprinting.",
+        "extract": "...and looked out at Young Trees sprinting...",
+        "citation": "My Mother at Sixty-six.md#L1:1"
+    },
+    {
+        "question": "What did the poet see outside?",
+        "answer": "The poet saw Young Trees sprinting and merry children spilling out of their homes.",
+        "extract": "...looked out at Young Trees sprinting, the merry children spilling out of their homes...",
+        "citation": "My Mother at Sixty-six.md#L1:1"
+    },
+    {
+        "question": "What were the young trees doing?",
+        "answer": "The young trees were sprinting.",
+        "extract": "...Young Trees sprinting...",
+        "citation": "My Mother at Sixty-six.md#L1:1"
+    },
+    {
+        "question": "What were the merry children doing?",
+        "answer": "The merry children were spilling out of their homes.",
+        "extract": "...the merry children spilling out of their homes...",
+        "citation": "My Mother at Sixty-six.md#L1:1"
+    },
+    {
+        "question": "Where were the children spilling out from?",
+        "answer": "The children were spilling out of their homes.",
+        "extract": "...the merry children spilling out of their homes...",
+        "citation": "My Mother at Sixty-six.md#L1:1"
+    },
+    {
+        "question": "What event happened after this observation?",
+        "answer": "After this observation, the airport's security check happened.",
+        "extract": "...but after the airport's security check...",
+        "citation": "My Mother at Sixty-six.md#L1:1"
+    },
+    {
+        "question": "Where was the poet standing after the airport's security check?",
+        "answer": "After the airport's security check, the poet was standing a few yards away.",
+        "extract": "...standing a few yards away...",
+        "citation": "My Mother at Sixty-six.md#L1:1"
+    },
+    {
+        "question": "How far away was she standing?",
+        "answer": "She was standing a few yards away.",
+        "extract": "...standing a few yards away...",
+        "citation": "My Mother at Sixty-six.md#L1:1"
+    },
+    {
+        "question": "What did the poet do from this position?",
+        "answer": "From this position, the poet looked at her mother again.",
+        "extract": "...I looked again at her...",
+        "citation": "My Mother at Sixty-six.md#L1:1"
+    },
+    {
+        "question": "Who did she look at again?",
+        "answer": "She looked at her mother again.",
+        "extract": "...I looked again at her...",
+        "citation": "My Mother at Sixty-six.md#L1:1"
+    },
+    {
+        "question": "How did her mother appear at this time?",
+        "answer": "Her mother appeared wan and pale as a late winter's moon.",
+        "extract": "...wan, pale as a late winter's moon...",
+        "citation": "My Mother at Sixty-six.md#L1:1"
+    },
+    {
+        "question": "What was she as pale as?",
+        "answer": "She was as pale as a late winter's moon.",
+        "extract": "...pale as a late winter's moon...",
+        "citation": "My Mother at Sixty-six.md#L1:1"
+    },
+    {
+        "question": "What emotion did the poet feel?",
+        "answer": "The poet felt that old familiar ache, her childhood's fear.",
+        "extract": "...and felt that old familiar ache, my childhood's fear...",
+        "citation": "My Mother at Sixty-six.md#L1:1"
+    },
+    {
+        "question": "What specific ache did she feel?",
+        "answer": "She felt that old familiar ache, her childhood's fear.",
+        "extract": "...and felt that old familiar ache, my childhood's fear...",
+        "citation": "My Mother at Sixty-six.md#L1:1"
+    },
+    {
+        "question": "What was this familiar ache?",
+        "answer": "This familiar ache was her childhood's fear.",
+        "extract": "...my childhood's fear...",
+        "citation": "My Mother at Sixty-six.md#L1:1"
+    },
+    {
+        "question": "What were the only words the poet said?",
+        "answer": "The only words the poet said were, “see you soon, Amma”.",
+        "extract": "...but all I said was, see you soon, Amma...",
+        "citation": "My Mother at Sixty-six.md#L1:1"
+    },
+    {
+        "question": "To whom did she say these words?",
+        "answer": "She said these words to her mother, Amma.",
+        "extract": "...see you soon, Amma...",
+        "citation": "My Mother at Sixty-six.md#L1:1"
+    },
+    {
+        "question": "What was the only action the poet did?",
+        "answer": "The only action the poet did was smile and smile and smile.",
+        "extract": "...all I did was smile and smile and smile......",
+        "citation": "My Mother at Sixty-six.md#L1:1"
+    },
+    {
+        "question": "How many times is the action of smiling mentioned?",
+        "answer": "The action of smiling is mentioned three times.",
+        "extract": "...smile and smile and smile......",
+        "citation": "My Mother at Sixty-six.md#L1:1"
+    }
+]
