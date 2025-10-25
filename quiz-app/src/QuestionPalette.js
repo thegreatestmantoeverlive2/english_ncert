@@ -1,35 +1,53 @@
+
 import React from 'react';
-import { Grid, Button } from '@mui/material';
+import { Card, CardContent, Grid, Button, Typography, Box } from '@mui/material';
 
 const QuestionPalette = ({ questions, currentQuestionIndex, onQuestionSelect, questionStatus }) => {
     const getStatusStyle = (status) => {
         if (status === 'correct') {
-            return { backgroundColor: 'green', color: 'white' };
+            return { backgroundColor: 'var(--nord14)', color: 'var(--nord0)' };
         }
         if (status === 'incorrect') {
-            return { backgroundColor: 'red', color: 'white' };
+            return { backgroundColor: 'var(--nord11)', color: 'var(--nord6)' };
         }
         if (status === 'review') {
-            return { backgroundColor: 'purple', color: 'white' };
+            return { backgroundColor: 'var(--nord13)', color: 'var(--nord0)' };
         }
-        return {};
+        return { backgroundColor: 'var(--nord3)', color: 'var(--nord5)' };
     };
 
     return (
-        <Grid container spacing={1}>
-            {questions.map((question, index) => (
-                <Grid item xs={3} key={index}>
-                    <Button
-                        variant={index === currentQuestionIndex ? 'contained' : 'outlined'}
-                        style={getStatusStyle(questionStatus[index])}
-                        onClick={() => onQuestionSelect(index)}
-                        fullWidth
-                    >
-                        {index + 1}
-                    </Button>
+        <Card sx={{ backgroundColor: 'var(--nord1)', color: 'var(--nord4)', height: '100%' }}>
+            <CardContent>
+                <Typography variant="h6" gutterBottom>Questions</Typography>
+                <Grid container spacing={1}>
+                    {questions.map((question, index) => (
+                        <Grid key={index} size={3}>
+                            <Button
+                                variant={index === currentQuestionIndex ? 'contained' : 'outlined'}
+                                onClick={() => onQuestionSelect(index)}
+                                fullWidth
+                                sx={{
+                                    ...getStatusStyle(questionStatus[index]),
+                                    borderColor: 'var(--nord4)',
+                                    '&:hover': {
+                                        backgroundColor: index === currentQuestionIndex ? 'var(--nord10)' : 'var(--nord2)',
+                                        borderColor: 'var(--nord8)'
+                                    },
+                                    ...(index === currentQuestionIndex && {
+                                      backgroundColor: 'var(--nord10)',
+                                      color: 'var(--nord6)',
+                                      borderColor: 'var(--nord10)'
+                                    })
+                                }}
+                            >
+                                {index + 1}
+                            </Button>
+                        </Grid>
+                    ))}
                 </Grid>
-            ))}
-        </Grid>
+            </CardContent>
+        </Card>
     );
 };
 

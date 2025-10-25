@@ -1,3 +1,7 @@
+body {
+  background-color: var(--nord0);
+  color: var(--nord4);
+}
 
 .App {
   text-align: center;
@@ -11,7 +15,8 @@
 }
 
 .chapter-card {
-  border: 1px solid #ccc;
+  background-color: var(--nord1);
+  border: 1px solid var(--nord3);
   border-radius: 8px;
   padding: 20px;
   cursor: pointer;
@@ -25,20 +30,40 @@
 
 .quiz-container {
   display: flex;
-  justify-content: space-between;
-  padding: 20px;
+  flex-direction: column;
+  padding: 10px;
+}
+
+@media (min-width: 768px) {
+  .quiz-container {
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 20px;
+  }
+}
+
+.chapter-grid {
+  gap: 10px;
+}
+
+@media (min-width: 768px) {
+  .chapter-grid {
+    gap: 20px;
+  }
 }
 
 .quiz-card {
   width: 70%;
-  border: 1px solid #ccc;
+  background-color: var(--nord1);
+  border: 1px solid var(--nord3);
   border-radius: 8px;
   padding: 20px;
 }
 
 .question-palette {
   width: 25%;
-  border: 1px solid #ccc;
+  background-color: var(--nord1);
+  border: 1px solid var(--nord3);
   border-radius: 8px;
   padding: 20px;
   display: flex;
@@ -49,7 +74,7 @@
 .palette-item {
   width: 30px;
   height: 30px;
-  border: 1px solid #ccc;
+  border: 1px solid var(--nord3);
   border-radius: 50%;
   display: flex;
   justify-content: center;
@@ -58,21 +83,21 @@
 }
 
 .palette-item.active {
-  background-color: #007bff;
-  color: white;
+  background-color: var(--nord10);
+  color: var(--nord6);
 }
 
 .palette-item.correct {
-  background-color: #28a745;
-  color: white;
+  background-color: var(--nord14);
+  color: var(--nord0);
 }
 
 .palette-item.incorrect {
-  background-color: #dc3545;
-  color: white;
+  background-color: var(--nord11);
+  color: var(--nord6);
 }
 
 .palette-item.review {
-  background-color: #ffc107;
-  color: black;
+  background-color: var(--nord13);
+  color: var(--nord0);
 }
