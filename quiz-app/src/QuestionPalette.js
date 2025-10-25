@@ -1,32 +1,35 @@
-
 import React from 'react';
+import { Grid, Button } from '@mui/material';
 
 const QuestionPalette = ({ questions, currentQuestionIndex, onQuestionSelect, questionStatus }) => {
-    const getStatusClass = (status) => {
+    const getStatusStyle = (status) => {
         if (status === 'correct') {
-            return 'correct';
+            return { backgroundColor: 'green', color: 'white' };
         }
         if (status === 'incorrect') {
-            return 'incorrect';
+            return { backgroundColor: 'red', color: 'white' };
         }
         if (status === 'review') {
-            return 'review';
+            return { backgroundColor: 'purple', color: 'white' };
         }
-        return '';
+        return {};
     };
 
     return (
-        <div className="question-palette">
+        <Grid container spacing={1}>
             {questions.map((question, index) => (
-                <div
-                    key={index}
-                    className={`palette-item ${index === currentQuestionIndex ? 'active' : ''} ${getStatusClass(questionStatus[index])}`}
-                    onClick={() => onQuestionSelect(index)}
-                >
-                    {index + 1}
-                </div>
+                <Grid item xs={3} key={index}>
+                    <Button
+                        variant={index === currentQuestionIndex ? 'contained' : 'outlined'}
+                        style={getStatusStyle(questionStatus[index])}
+                        onClick={() => onQuestionSelect(index)}
+                        fullWidth
+                    >
+                        {index + 1}
+                    </Button>
+                </Grid>
             ))}
-        </div>
+        </Grid>
     );
 };
 
