@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/english_ncert/static/css/main.a73eece6.css",
+    "main.js": "/english_ncert/static/js/main.dc6fd2e7.js",
+    "static/js/453.a295c15f.chunk.js": "/english_ncert/static/js/453.a295c15f.chunk.js",
+    "index.html": "/english_ncert/index.html",
+    "main.a73eece6.css.map": "/english_ncert/static/css/main.a73eece6.css.map",
+    "main.dc6fd2e7.js.map": "/english_ncert/static/js/main.dc6fd2e7.js.map",
+    "453.a295c15f.chunk.js.map": "/english_ncert/static/js/453.a295c15f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a73eece6.css",
+    "static/js/main.dc6fd2e7.js"
+  ]
+}
