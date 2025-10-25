@@ -1,5 +1,5 @@
-
 import React from 'react';
+import { Button, Card, CardContent, Container, Grid, Typography } from '@mui/material';
 
 const ChapterList = ({ onChapterSelect, onIncorrectQuestionsSelect }) => {
     const chapters = [
@@ -25,17 +25,27 @@ const ChapterList = ({ onChapterSelect, onIncorrectQuestionsSelect }) => {
     ];
 
     return (
-        <div>
-            <h1>Chapters</h1>
-            <button onClick={onIncorrectQuestionsSelect}>Review Incorrect Questions</button>
-            <div className="chapter-grid">
+        <Container>
+            <Typography variant="h4" component="h1" gutterBottom>
+                Chapters
+            </Typography>
+            <Button variant="contained" color="primary" onClick={onIncorrectQuestionsSelect} style={{ marginBottom: '20px' }}>
+                Review Incorrect Questions
+            </Button>
+            <Grid container spacing={3}>
                 {chapters.map((chapter, index) => (
-                    <div key={index} className="chapter-card" onClick={() => onChapterSelect(chapter)}>
-                        <h2>{chapter}</h2>
-                    </div>
+                    <Grid item xs={12} sm={6} md={4} key={index}>
+                        <Card onClick={() => onChapterSelect(chapter)} style={{ cursor: 'pointer' }}>
+                            <CardContent>
+                                <Typography variant="h6" component="h2">
+                                    {chapter}
+                                </Typography>
+                            </CardContent>
+                        </Card>
+                    </Grid>
                 ))}
-            </div>
-        </div>
+            </Grid>
+        </Container>
     );
 };
 
