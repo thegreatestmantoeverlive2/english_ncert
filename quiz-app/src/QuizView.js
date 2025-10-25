@@ -1,6 +1,6 @@
 
 import React, { useState, useEffect } from 'react';
-import { Button, Card, CardContent, Container, Grid, Typography, Snackbar } from '@mui/material';
+import { Button, Card, CardContent, Container, Grid, Typography, Snackbar, Box } from '@mui/material';
 import QuestionPalette from './QuestionPalette';
 
 const QuizView = ({ chapter, onBack, questions: initialQuestions }) => {
@@ -82,34 +82,48 @@ const QuizView = ({ chapter, onBack, questions: initialQuestions }) => {
     const currentQuestion = questions[currentQuestionIndex];
 
     return (
-        <Container>
-            <Button variant="outlined" onClick={onBack} style={{ margin: '20px 0' }}>Back to Chapters</Button>
-            <Typography variant="h4" component="h1" gutterBottom>{chapter}</Typography>
-            <Grid container spacing={3}>
-                <Grid item xs={12} md={8}>
-                    <Card>
-                        <CardContent>
-                            <Typography variant="h6">{currentQuestion.question}</Typography>
+        <Container maxWidth="lg" sx={{ mt: 4 }}>
+            <Box sx={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', mb: 4 }}>
+                <Typography variant="h4" component="h1" sx={{ color: 'var(--nord6)' }}>{chapter}</Typography>
+                <Button variant="outlined" onClick={onBack} sx={{ color: 'var(--nord8)', borderColor: 'var(--nord8)' }}>Back to Chapters</Button>
+            </Box>
+            <Grid container spacing={4}>
+                <Grid
+                    size={{
+                        xs: 12,
+                        md: 8
+                    }}>
+                    <Card sx={{ backgroundColor: 'var(--nord1)', color: 'var(--nord4)', height: '100%', display: 'flex', flexDirection: 'column' }}>
+                        <CardContent sx={{ flexGrow: 1 }}>
+                            <Typography variant="h6" gutterBottom>Question {currentQuestionIndex + 1}</Typography>
+                            <Typography variant="body1">{currentQuestion.question}</Typography>
                             {showAnswer && (
-                                <div>
-                                    <Typography variant="body1">{currentQuestion.answer}</Typography>
-                                    <Typography variant="caption"><em>{currentQuestion.extract}</em></Typography>
-                                    <Typography variant="caption"><small>{currentQuestion.citation}</small></Typography>
-                                </div>
+                                <Box mt={3} p={2} sx={{ backgroundColor: 'var(--nord2)', borderRadius: '4px' }}>
+                                    <Typography variant="h6">Answer</Typography>
+                                    <Typography variant="body1" sx={{ mt: 1 }}>{currentQuestion.answer}</Typography>
+                                    {currentQuestion.extract && <Typography variant="caption" sx={{ mt: 2, display: 'block' }}><em>{currentQuestion.extract}</em></Typography>}
+                                    {currentQuestion.citation && <Typography variant="caption"><small>{currentQuestion.citation}</small></Typography>}
+                                </Box>
                             )}
                         </CardContent>
                     </Card>
-                    <div style={{ marginTop: '20px' }}>
-                        <Button variant="contained" onClick={handleShowAnswer} disabled={showAnswer}>Show Answer</Button>
-                        <Button variant="contained" color="primary" onClick={handleNextQuestion} disabled={currentQuestionIndex === questions.length - 1} style={{ marginLeft: '10px' }}>Next</Button>
-                    </div>
-                    <div style={{ marginTop: '20px' }}>
-                        <Button onClick={() => handleStatusUpdate('correct')}>Correct</Button>
-                        <Button onClick={() => handleStatusUpdate('incorrect')}>Incorrect</Button>
-                        <Button onClick={() => handleStatusUpdate('review')}>Mark for Review</Button>
-                    </div>
+                     <Box sx={{ mt: 2, display: 'flex', justifyContent: 'space-between' }}>
+                        <div>
+                            <Button variant="contained" onClick={handleShowAnswer} disabled={showAnswer} sx={{ backgroundColor: 'var(--nord10)', '&:hover': { backgroundColor: 'var(--nord9)' } }}>Show Answer</Button>
+                            <Button variant="contained" onClick={handleNextQuestion} disabled={currentQuestionIndex === questions.length - 1} sx={{ ml: 2, backgroundColor: 'var(--nord10)', '&:hover': { backgroundColor: 'var(--nord9)' } }}>Next</Button>
+                        </div>
+                        <div>
+                            <Button onClick={() => handleStatusUpdate('correct')} sx={{ color: 'var(--nord14)' }}>Correct</Button>
+                            <Button onClick={() => handleStatusUpdate('incorrect')} sx={{ color: 'var(--nord11)' }}>Incorrect</Button>
+                            <Button onClick={() => handleStatusUpdate('review')} sx={{ color: 'var(--nord13)' }}>Mark for Review</Button>
+                        </div>
+                    </Box>
                 </Grid>
-                <Grid item xs={12} md={4}>
+                <Grid
+                    size={{
+                        xs: 12,
+                        md: 4
+                    }}>
                     <QuestionPalette
                         questions={questions}
                         currentQuestionIndex={currentQuestionIndex}
@@ -123,6 +137,7 @@ const QuizView = ({ chapter, onBack, questions: initialQuestions }) => {
                 autoHideDuration={2000}
                 onClose={handleSnackbarClose}
                 message={snackbarMessage}
+                sx={{ '& .MuiSnackbarContent-root': { backgroundColor: 'var(--nord3)' } }}
             />
         </Container>
     );
