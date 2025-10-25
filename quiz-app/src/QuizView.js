@@ -3,6 +3,7 @@ import React, { useState, useEffect } from 'react';
 import QuestionPalette from './QuestionPalette';
 
 const QuizView = ({ chapter, onBack, questions: initialQuestions }) => {
+    const isIncorrectQuiz = chapter === "Incorrect Questions";
     const [questions, setQuestions] = useState(initialQuestions || []);
     const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
     const [showAnswer, setShowAnswer] = useState(false);
@@ -64,7 +65,6 @@ const QuizView = ({ chapter, onBack, questions: initialQuestions }) => {
     }
 
     const currentQuestion = questions[currentQuestionIndex];
-    const isIncorrectQuiz = chapter === "Incorrect Questions";
 
     return (
         <div>
